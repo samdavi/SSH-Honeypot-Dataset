@@ -2,7 +2,7 @@
 
 ![Platform](https://img.shields.io/badge/platform-T--Pot%20Honeypot-orange) ![Data](https://img.shields.io/badge/data-24k%20Events-green)
 
-![Commands Overtime](images/Command Overtime.png)
+![Commands Overtime](images/Command%20Overtime.png)
 
 ## 📌 Project Overview
 
